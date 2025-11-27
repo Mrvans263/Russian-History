@@ -1,7 +1,7 @@
 // components/TopicDetail.js - UPDATED CONTENT RENDERING
 import React, { useState, useEffect } from 'react';
 import { useLanguage } from '../contexts/LanguageContext';
-import { getText } from '../utils/languages';
+import { getText } from '../utils/Languages';
 import './TopicDetail.css';
 
 const TopicDetail = ({ topic, onBack, onTakeQuiz }) => {

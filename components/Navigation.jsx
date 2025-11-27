@@ -1,7 +1,7 @@
 // components/Navigation.js - UPDATED
 import React from 'react';
 import { useLanguage } from '../contexts/languageContext';
-import { LANGUAGES } from '../utils/languages';
+import { LANGUAGES } from '../utils/Languages';
 import './Navigation.css';
 
 const Navigation = ({ currentView, onViewChange, hasSelectedTopic }) => {
