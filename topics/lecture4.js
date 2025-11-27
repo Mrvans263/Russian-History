@@ -8,900 +8,468 @@ const lecture4 = {
     spanish: "Lección 4. Tierras rusas, Europa y el mundo a mediados del siglo XIII-XV"
   },
   content: {
-    russian: `# Русские земли, Европа и мир в середине XIII-XV вв.
+    russian: `# Русские земли в эпоху монгольского владычества и возвышения Москвы
 
-## Русские земли в середине XIII в. – XIV в.
+## Монгольское нашествие и его последствия
 
-### Монгольская империя и Орда
-**Завоевания Чингисхана и его потомков:**
-- Образование Монгольской империи в начале XIII века
-- Походы Батыя в Восточную и Центральную Европу (1236-1242 гг.)
-- Возникновение Золотой Орды как улуса Джучи
+### Как Русь оказалась под властью Орды?
 
-**Система зависимости русских земель:**
-- Ярлык на великое княжение как инструмент контроля
-- Налоговая система: выход, тамга, ям
-- Военная повинность и участие в ордынских походах
+**1237-1242 гг.** - походы Батыя привели к установлению системы зависимости. Но что это означало на практике?
 
-### Дискуссии о роли ордынского владычества
-**Основные точки зрения:**
-- Традиционная: разрушительные последствия нашествия
-- Евразийская: симбиоз и взаимовлияние культур
-- Современные подходы: комплексная оценка влияния
+- **Ярлык** - не просто "разрешение" княжить, а инструмент контроля через соперничество князей
+- **Дань** ("выход") собиралась сначала баскаками, позже - самими князьями
+- **Военная служба** - русские дружины участвовали в ордынских походах
 
-## Южные и западные русские земли
+### Почему монголы не уничтожили русскую государственность?
 
-### Великое княжество Литовское
-**Формирование государства:**
-- Объединение литовских племен при Миндовге (XIII век)
-- Включение западнорусских земель в состав ВКЛ
-- Политика веротерпимости и сохранения древнерусских традиций
+Монголы видели в Руси источник доходов, а не территорию для заселения. Они:
+- Сохранили местных правителей
+- Не насаждали свою религию
+- Использовали существующие административные структуры
 
-**Политическое устройство:**
-- Дуалистическая монархия
-- Магдебургское право для городов
-- Роль русского боярства в управлении
+## Два пути развития: Запад vs Восток
 
-## Северо-западные земли
+### Великое княжество Литовское - альтернатива Москве
 
-### Новгородская и Псковская республики
-**Эволюция республиканского строя:**
-- Вече как высший орган власти
-- Выборные должности: посадник, тысяцкий, архиепископ
-- Ограниченная роль князя как военного руководителя
+Литовские князья создали уникальное государство, где:
+- Русский язык стал официальным
+- Православие сохранялось наравне с католичеством
+- Древнерусские традиции продолжали развиваться
 
-**Международные связи:**
-- Новгород в системе балтийской торговли
-- Ганзейский союз и торговые конторы
-- Культурные и экономические связи с Западной Европой
+**Почему же Москва победила в борьбе за объединение?**
 
-### Европейские городские коммуны
-**Коммунальное движение:**
-- Борьба городов за самоуправление в Европе
-- Магдебургское право и городские вольности
-- Итальянские морские республики: Венеция, Генуя
+### Новгород и Псков - русские республики
 
-## Католическая церковь и русские земли
+Представьте: в Новгороде князя могли "указать путь" - попросту выгнать! Здесь:
+- **Вече** решало важнейшие вопросы
+- **Посадник** и **тысяцкий** выбирались народом
+- Князь был военачальником, а не полновластным правителем
 
-### Крестовые походы и ордена
-**Папство и экспансия на восток:**
-- Дранг нах Остен - немецкая экспансия в Прибалтику
-- Ордена крестоносцев: Тевтонский, Ливонский
-- Отношения русских земель с крестоносцами
+## Возвышение Москвы: от захудалого городка до столицы
 
-### Александр Невский
-**Исторический выбор:**
-- Невская битва (1240 г.) и Ледовое побоище (1242 г.)
-- Политика сотрудничества с Ордой против Запада
-- Споры о стратегическом выборе в современной историографии
+### Почему именно Москва?
 
-## Княжества Северо-Восточной Руси
+1. **Географическое положение** - центр river routes, защищенность лесами
+2. **Гибкая политика** князей - умели договариваться с Ордой
+3. **Поддержка Церкви** - перенос митрополичьей кафедры в 1325 году
+4. **Демографический фактор** - беженцы с юга укрепляли княжество
 
-### Борьба за великое княжение
-**Противостояние Твери и Москвы:**
-- Михаил Ярославич Тверской как великий князь всея Руси
-- Возвышение Московского княжества при Иване Калите
-- Политическая тактика московских князей
+### Иван Калита - "собиратель земель"
 
-### Дмитрий Донской и Куликовская битва
-**Предпосылки и значение:**
-- Битва на Куликовом поле (1380 г.)
-- Военно-политическая подготовка сражения
-- Закрепление первенствующего положения Москвы
+Прозвище "Калита" (кошель) получил не случайно:
+- Аккуратно собирал дань для Орды
+- Скупал земли соседних княжеств
+- Установил 40 лет мира - "великую тишину"
 
-## Православная церковь в ордынский период
+## Куликовская битва: мифы и реальность
 
-### Роль церкви в объединении Руси
-**Перенос митрополичьей кафедры:**
-- Переезд митрополита Петра в Москву (1325 г.)
-- Превращение Москвы в духовный центр Руси
-- Поддержка церковью объединительной политики
+### Что на самом деле произошло в 1380 году?
 
-### Сергий Радонежский
-**Духовное возрождение:**
-- Основание Троице-Сергиева монастыря
-- Благословение на Куликовскую битву
-- Влияние на духовную жизнь Руси
+**Миф:** Россия сбросила ордынское иго
+**Реальность:** Политическая победа Москвы над соперниками
 
-## Народы и государства степной зоны
+Через 2 года хан Тохтамыш сжег Москву, но:
+- Ярлык на великое княжение остался за московскими князьями
+- Авторитет Дмитрия Донского вырос enormously
+- Москва стала признанным лидером Северо-Восточной Руси
 
-### Золотая Орда в XIII-XV вв.
-**Политическое развитие:**
-- Расцвет при ханах Узбеке и Джанибеке
-- "Великая замятня" - период междоусобиц
-- Распад на отдельные ханства
+## Церковь как объединяющая сила
 
-**Культура и экономика:**
-- Городская культура: Сарай, Булгар, Хаджи-Тархан
-- Трансконтинентальная торговля по Шелковому пути
-- Религиозная политика: исламизация при Узбеке
+### Сергий Радонежский - духовный лидер эпохи
 
-### Государства-преемники
-**Образование новых ханств:**
-- Казанское ханство (1438 г.)
-- Крымское ханство (1441 г.)
-- Астраханское ханство (1459 г.)
-- Сибирское ханство (1490 г.)
+Основатель Троице-Сергиева монастыря:
+- Благословил Дмитрия на Куликовскую битву
+- Проповедовал единство русских земель
+- Создал модель общежительного монастыря
 
-## Международный контекст
+### Почему православная церковь поддерживала Москву?
 
-### Европа в XIII-XV веках
-**Политические процессы:**
-- Столетняя война (1337-1453 гг.)
-- Завершение Реконкисты на Пиренейском полуострове
+- Единство светской и духовной власти укрепляло обе
+- Противостояние католическому Западу требовало сильного центра
+- Церковь получала льготы и земли от московских князей
+
+## Международный контекст: Русь в системе мировых отношений
+
+### Что происходило в мире в это время?
+
+**В Европе:**
+- Столетняя война (1337-1453)
+- Расцвет Возрождения в Италии
+- Османская угроза нарастает
+
+**На Востоке:**
+- Распад Монгольской империи
 - Возвышение Османской империи
+- Появление новых государств в степной зоне
 
-**Культурные изменения:**
-- Эпоха Возрождения в Италии
-- Изобретение книгопечатания
-- Великие географические открытия
+### Почему XV век стал переломным?
 
-### Восточная Европа в системе международных отношений
-**Геополитическая ситуация:**
-- Борьба за влияние между Москвой, Вильно и Краковом
-- Роль Орды как арбитра в междукняжеских отношениях
-- Постепенное включение русских земель в европейскую политику
+К 1480 году (стояние на Угре) сложились условия для окончания зависимости:
+- Орда распалась на несколько ханств
+- Москва укрепила свою власть
+- Международная обстановка изменилась
 
-## Значение периода для русской истории
+## Наследие эпохи: что мы получили в наследство?
 
-### Формирование единого государства
-**Предпосылки объединения:**
-- Экономические: развитие вотчинного землевладения
-- Политические: необходимость противостояния внешним угрозам
-- Идеологические: концепция "собирания земель"
+Монгольский период сформировал:
+- **Авторитарную модель власти** - опыт управления большой территорией
+- **Изоляцию от Европы** - разрыв многих культурных связей
+- **Особый путь развития** - сочетание европейских и азиатских черт
 
-**Альтернативные пути развития:**
-- Литовско-русский вариант государственности
-- Новгородская боярская республика
-- Московская централизованная монархия
+**Главный урок:** История не имеет однозначных оценок - монгольское иго было и трагедией, и школой государственного строительства.`,
 
-### Историческое наследие
-Период середины XIII-XV веков определил основные векторы развития русской государственности, заложил основы централизованного государства и сформировал геополитическое положение Руси в системе европейских и азиатских отношений.`,
+    english: `# Russian Lands in the Era of Mongol Rule and Moscow's Rise
 
-    english: `# Russian Lands, Europe and the World in the mid-13th-15th Centuries
+## The Mongol Invasion and Its Consequences
 
-## Russian Lands in the mid-13th - 14th Centuries
+### How Did Rus Fall Under Horde Rule?
 
-### Mongol Empire and the Golden Horde
-**Conquests of Genghis Khan and his descendants:**
-- Formation of the Mongol Empire in early 13th century
-- Batu Khan's campaigns in Eastern and Central Europe (1236-1242)
-- Emergence of the Golden Horde as Jochi's ulus
+**1237-1242** - Batu's campaigns established a system of dependence. But what did this mean in practice?
 
-**System of dependence of Russian lands:**
-- Yarlick for grand princely rule as control instrument
-- Tax system: vykhod, tamga, yam
-- Military obligation and participation in Horde campaigns
+- **Yarlick** - not just "permission" to rule, but a control tool through princely rivalry
+- **Tribute** ("vykhod") was collected first by baskaks, later by princes themselves
+- **Military service** - Russian druzhinas participated in Horde campaigns
 
-### Debates about the role of Horde rule
-**Main viewpoints:**
-- Traditional: destructive consequences of invasion
-- Eurasian: symbiosis and mutual cultural influence
-- Modern approaches: comprehensive assessment of influence
+### Why Didn't the Mongols Destroy Russian Statehood?
 
-## Southern and Western Russian Lands
+The Mongols saw Rus as a source of income, not territory for settlement. They:
+- Preserved local rulers
+- Didn't impose their religion
+- Used existing administrative structures
 
-### Grand Duchy of Lithuania
-**State formation:**
-- Unification of Lithuanian tribes under Mindaugas (13th century)
-- Incorporation of Western Russian lands into GDL
-- Policy of religious tolerance and preservation of Old Russian traditions
+## Two Development Paths: West vs East
 
-**Political structure:**
-- Dual monarchy
-- Magdeburg Law for cities
-- Role of Russian boyars in administration
+### Grand Duchy of Lithuania - Moscow's Alternative
 
-## Northwestern Lands
+Lithuanian princes created a unique state where:
+- Russian language became official
+- Orthodoxy was preserved alongside Catholicism
+- Old Russian traditions continued to develop
 
-### Novgorod and Pskov Republics
-**Evolution of republican system:**
-- Veche as supreme authority
-- Elected positions: posadnik, tysyatsky, archbishop
-- Limited role of prince as military leader
+**So why did Moscow win the unification struggle?**
 
-**International connections:**
-- Novgorod in Baltic trade system
-- Hanseatic League and trading posts
-- Cultural and economic ties with Western Europe
+### Novgorod and Pskov - Russian Republics
 
-### European urban communes
-**Communal movement:**
-- Urban struggle for self-government in Europe
-- Magdeburg Law and urban liberties
-- Italian maritime republics: Venice, Genoa
+Imagine: in Novgorod, they could "show the way" to a prince - simply kick him out! Here:
+- **Veche** decided the most important issues
+- **Posadnik** and **tysyatsky** were elected by the people
+- The prince was a military leader, not an absolute ruler
 
-## Catholic Church and Russian Lands
+## Moscow's Rise: From Obscure Town to Capital
 
-### Crusades and orders
-**Papacy and eastern expansion:**
-- Drang nach Osten - German expansion in Baltic
-- Crusader orders: Teutonic, Livonian
-- Relations of Russian lands with crusaders
+### Why Specifically Moscow?
 
-### Alexander Nevsky
-**Historical choice:**
-- Battle of the Neva (1240) and Battle on the Ice (1242)
-- Policy of cooperation with Horde against West
-- Debates about strategic choice in modern historiography
+1. **Geographical position** - center of river routes, protected by forests
+2. **Flexible policy** of princes - knew how to negotiate with the Horde
+3. **Church support** - transfer of metropolitan seat in 1325
+4. **Demographic factor** - refugees from the south strengthened the principality
 
-## Principalities of Northeastern Rus
+### Ivan Kalita - "Gatherer of Lands"
 
-### Struggle for grand princely rule
-**Confrontation between Tver and Moscow:**
-- Mikhail Yaroslavich of Tver as grand prince of all Rus
-- Rise of Moscow principality under Ivan Kalita
-- Political tactics of Moscow princes
+Nicknamed "Kalita" (moneybag) for good reason:
+- Carefully collected tribute for the Horde
+- Bought lands of neighboring principalities
+- Established 40 years of peace - "great silence"
 
-### Dmitry Donskoy and Battle of Kulikovo
-**Prerequisites and significance:**
-- Battle of Kulikovo Field (1380)
-- Military-political preparation of the battle
-- Consolidation of Moscow's leading position
+## Battle of Kulikovo: Myths and Reality
 
-## Orthodox Church in the Horde period
+### What Really Happened in 1380?
 
-### Role of church in unifying Rus
-**Transfer of metropolitan seat:**
-- Move of Metropolitan Peter to Moscow (1325)
-- Transformation of Moscow into spiritual center of Rus
-- Church support for unifying policy
+**Myth:** Russia threw off the Mongol yoke
+**Reality:** Moscow's political victory over rivals
 
-### Sergius of Radonezh
-**Spiritual revival:**
-- Foundation of Trinity-Sergius Monastery
-- Blessing for Battle of Kulikovo
-- Influence on spiritual life of Rus
+Two years later, Khan Tokhtamysh burned Moscow, but:
+- The yarlick for grand princely rule remained with Moscow princes
+- Dmitry Donskoy's authority grew enormously
+- Moscow became the recognized leader of Northeastern Rus
 
-## Peoples and states of the steppe zone
+## The Church as a Unifying Force
 
-### Golden Horde in 13th-15th centuries
-**Political development:**
-- Flourishing under khans Uzbek and Jani Beg
-- "Great Troubles" - period of internecine strife
-- Disintegration into separate khanates
+### Sergius of Radonezh - Spiritual Leader of the Era
 
-**Culture and economy:**
-- Urban culture: Sarai, Bulgar, Hajji Tarkhan
-- Transcontinental trade along Silk Road
-- Religious policy: Islamization under Uzbek
+Founder of Trinity-Sergius Monastery:
+- Blessed Dmitry for the Battle of Kulikovo
+- Preached unity of Russian lands
+- Created the model of coenobitic monastery
 
-### Successor states
-**Formation of new khanates:**
-- Kazan Khanate (1438)
-- Crimean Khanate (1441)
-- Astrakhan Khanate (1459)
-- Siberian Khanate (1490)
+### Why Did the Orthodox Church Support Moscow?
 
-## International context
+- Unity of secular and spiritual power strengthened both
+- Confrontation with Catholic West required a strong center
+- The Church received privileges and lands from Moscow princes
 
-### Europe in 13th-15th centuries
-**Political processes:**
+## International Context: Rus in the System of World Relations
+
+### What Was Happening in the World at This Time?
+
+**In Europe:**
 - Hundred Years' War (1337-1453)
-- Completion of Reconquista on Iberian Peninsula
+- Renaissance flourishing in Italy
+- Ottoman threat growing
+
+**In the East:**
+- Disintegration of Mongol Empire
 - Rise of Ottoman Empire
+- Emergence of new states in the steppe zone
 
-**Cultural changes:**
-- Renaissance era in Italy
-- Invention of printing
-- Great Geographical Discoveries
+### Why Did the 15th Century Become a Turning Point?
 
-### Eastern Europe in international relations system
-**Geopolitical situation:**
-- Struggle for influence between Moscow, Vilnius and Krakow
-- Role of Horde as arbiter in interprincely relations
-- Gradual inclusion of Russian lands into European politics
+By 1480 (Standoff on the Ugra), conditions for ending dependence had developed:
+- The Horde disintegrated into several khanates
+- Moscow strengthened its power
+- The international situation changed
 
-## Significance of the period for Russian history
+## Legacy of the Era: What Heritage Did We Receive?
 
-### Formation of unified state
-**Prerequisites for unification:**
-- Economic: development of patrimonial landownership
-- Political: necessity to counter external threats
-- Ideological: concept of "gathering of lands"
+The Mongol period shaped:
+- **Authoritarian power model** - experience governing large territory
+- **Isolation from Europe** - rupture of many cultural ties
+- **Special development path** - combination of European and Asian features
 
-**Alternative development paths:**
-- Lithuanian-Russian version of statehood
-- Novgorod boyar republic
-- Moscow centralized monarchy
+**Main lesson:** History has no unambiguous assessments - the Mongol yoke was both a tragedy and a school of state-building.`,
 
-### Historical legacy
-The period of mid-13th to 15th centuries determined main vectors of Russian statehood development, laid foundations for centralized state, and formed geopolitical position of Rus in the system of European and Asian relations.`,
+    french: `# Les terres russes à l'époque de la domination mongole et de l'ascension de Moscou`,
 
-    french: `# Les terres russes, l'Europe et le monde du milieu du XIIIe au XVe siècle
-
-## Les terres russes du milieu du XIIIe au XIVe siècle
-
-### L'Empire mongol et la Horde d'Or
-**Conquêtes de Gengis Khan et de ses descendants :**
-- Formation de l'Empire mongol au début du XIIIe siècle
-- Campagnes de Batu en Europe orientale et centrale (1236-1242)
-- Émergence de la Horde d'Or comme ulus de Djötchi
-
-**Système de dépendance des terres russes :**
-- Iarlik pour la principauté suprême comme instrument de contrôle
-- Système fiscal : vykhod, tamga, yam
-- Obligation militaire et participation aux campagnes de la Horde
-
-### Débats sur le rôle de la domination de la Horde
-**Points de vue principaux :**
-- Traditionnel : conséquences destructrices de l'invasion
-- Eurasien : symbiose et influence culturelle mutuelle
-- Approches modernes : évaluation complète de l'influence
-
-## Terres russes méridionales et occidentales
-
-### Grand-duché de Lituanie
-**Formation de l'État :**
-- Unification des tribus lituaniennes sous Mindaugas (XIIIe siècle)
-- Incorporation des terres russes occidentales dans le GDL
-- Politique de tolérance religieuse et préservation des traditions vieilles-russes
-
-**Structure politique :**
-- Monarchie dualiste
-- Droit de Magdebourg pour les villes
-- Rôle des boyards russes dans l'administration
-
-## Terres du nord-ouest
-
-### Républiques de Novgorod et Pskov
-**Évolution du système républicain :**
-- Vétché comme autorité suprême
-- Postes élus : posadnik, tysiatski, archevêque
-- Rôle limité du prince comme chef militaire
-
-**Connexions internationales :**
-- Novgorod dans le système commercial baltique
-- Ligue hanséatique et comptoirs commerciaux
-- Liens culturels et économiques avec l'Europe occidentale
-
-### Communes urbaines européennes
-**Mouvement communal :**
-- Lutte des villes pour l'autonomie en Europe
-- Droit de Magdebourg et libertés urbaines
-- Républiques maritimes italiennes : Venise, Gênes
-
-## Église catholique et terres russes
-
-### Croisades et ordres
-**Papauté et expansion vers l'est :**
-- Drang nach Osten - expansion allemande en Baltique
-- Ordres croisés : Teutonique, Livonien
-- Relations des terres russes avec les croisés
-
-### Alexandre Nevski
-**Choix historique :**
-- Bataille de la Neva (1240) et bataille de la glace (1242)
-- Politique de coopération avec la Horde contre l'Ouest
-- Débats sur le choix stratégique dans l'historiographie moderne
-
-## Principautés de la Russie du Nord-Est
-
-### Lutte pour la principauté suprême
-**Confrontation entre Tver et Moscou :**
-- Michel Yaroslavich de Tver comme grand-prince de toute la Russie
-- Ascension de la principauté de Moscou sous Ivan Kalita
-- Tactiques politiques des princes moscovites
-
-### Dmitri Donskoï et bataille de Koulikovo
-**Prérequis et signification :**
-- Bataille du champ de Koulikovo (1380)
-- Préparation politico-militaire de la bataille
-- Consolidation de la position dominante de Moscou
-
-## Église orthodoxe à l'époque de la Horde
-
-### Rôle de l'église dans l'unification de la Russie
-**Transfert du siège métropolitain :**
-- Déménagement du métropolite Pierre à Moscou (1325)
-- Transformation de Moscou en centre spirituel de la Russie
-- Soutien de l'église à la politique unificatrice
-
-### Serge de Radonège
-**Renaissance spirituelle :**
-- Fondation du monastère de la Trinité-Saint-Serge
-- Bénédiction pour la bataille de Koulikovo
-- Influence sur la vie spirituelle de la Russie
-
-## Peuples et États de la zone steppique
-
-### Horde d'Or aux XIIIe-XVe siècles
-**Développement politique :**
-- Floraison sous les khans Uzbek et Djani Beg
-- "Grande Zamia" - période de luttes intestines
-- Désintégration en khanats séparés
-
-**Culture et économie :**
-- Culture urbaine : Saraï, Bulgar, Hadji-Tarkhan
-- Commerce transcontinental le long de la Route de la Soie
-- Politique religieuse : islamisation sous Uzbek
-
-### États successeurs
-**Formation de nouveaux khanats :**
-- Khanat de Kazan (1438)
-- Khanat de Crimée (1441)
-- Khanat d'Astrakhan (1459)
-- Khanat de Sibérie (1490)
-
-## Contexte international
-
-### Europe aux XIIIe-XVe siècles
-**Processus politiques :**
-- Guerre de Cent Ans (1337-1453)
-- Achèvement de la Reconquête dans la péninsule Ibérique
-- Ascension de l'Empire ottoman
-
-**Changements culturels :**
-- Ère de la Renaissance en Italie
-- Invention de l'imprimerie
-- Grandes découvertes géographiques
-
-### Europe orientale dans le système des relations internationales
-**Situation géopolitique :**
-- Lutte d'influence entre Moscou, Vilnius et Cracovie
-- Rôle de la Horde comme arbitre dans les relations interprincipales
-- Inclusion graduelle des terres russes dans la politique européenne
-
-## Importance de la période pour l'histoire russe
-
-### Formation d'un État unifié
-**Prérequis pour l'unification :**
-- Économiques : développement de la propriété foncière patrimoniale
-- Politiques : nécessité de contrer les menaces externes
-- Idéologiques : concept du "rassemblement des terres"
-
-**Voies alternatives de développement :**
-- Version lituano-russe de la construction étatique
-- République boyarde de Novgorod
-- Monarchie centralisée moscovite
-
-### Héritage historique
-La période du milieu du XIIIe au XVe siècle a déterminé les vecteurs principaux du développement de l'État russe, a jeté les bases d'un État centralisé et a formé la position géopolitique de la Russie dans le système des relations européennes et asiatiques.`,
-
-    spanish: `# Tierras rusas, Europa y el mundo a mediados del siglo XIII-XV
-
-## Tierras rusas a mediados del siglo XIII - XIV
-
-### Imperio mongol y la Horda de Oro
-**Conquistas de Gengis Kan y sus descendientes:**
-- Formación del Imperio mongol a principios del siglo XIII
-- Campañas de Batú en Europa Oriental y Central (1236-1242)
-- Emergencia de la Horda de Oro como ulus de Jochi
-
-**Sistema de dependencia de tierras rusas:**
-- Yarlik para el gran principado como instrumento de control
-- Sistema tributario: vyjod, tamga, yam
-- Obligación militar y participación en campañas de la Horda
-
-### Debates sobre el papel del dominio de la Horda
-**Puntos de vista principales:**
-- Tradicional: consecuencias destructivas de la invasión
-- Euroasiático: simbiosis e influencia cultural mutua
-- Enfoques modernos: evaluación integral de la influencia
-
-## Tierras rusas meridionales y occidentales
-
-### Gran Ducado de Lituania
-**Formación estatal:**
-- Unificación de tribus lituanas bajo Mindaugas (siglo XIII)
-- Incorporación de tierras rusas occidentales en el GDL
-- Política de tolerancia religiosa y preservación de tradiciones antiguas rusas
-
-**Estructura política:**
-- Monarquía dual
-- Derecho de Magdeburgo para ciudades
-- Rol de la nobleza rusa en administración
-
-## Tierras del noroeste
-
-### Repúblicas de Nóvgorod y Pskov
-**Evolución del sistema republicano:**
-- Vétche como autoridad suprema
-- Cargos electos: posádnik, tysiatski, arzobispo
-- Rol limitado del príncipe como líder militar
-
-**Conexiones internacionales:**
-- Nóvgorod en sistema comercial báltico
-- Liga Hanseática y puestos comerciales
-- Lazos culturales y económicos con Europa Occidental
-
-### Comunas urbanas europeas
-**Movimiento comunal:**
-- Lucha urbana por autogobierno en Europa
-- Derecho de Magdeburgo y libertades urbanas
-- Repúblicas marítimas italianas: Venecia, Génova
-
-## Iglesia católica y tierras rusas
-
-### Cruzadas y órdenes
-**Papado y expansión oriental:**
-- Drang nach Osten - expansión alemana en Báltico
-- Órdenes cruzadas: Teutónica, Livonia
-- Relaciones de tierras rusas con cruzados
-
-### Alejandro Nevski
-**Elección histórica:**
-- Batalla del Nevá (1240) y Batalla del hielo (1242)
-- Política de cooperación con Horda contra Occidente
-- Debates sobre elección estratégica en historiografía moderna
-
-## Principados del noreste de Rus
-
-### Lucha por el gran principado
-**Confrontación entre Tver y Moscú:**
-- Mijaíl Yaroslavich de Tver como gran príncipe de toda Rus
-- Ascenso del principado de Moscú bajo Iván Kalitá
-- Tácticas políticas de príncipes moscovitas
-
-### Dmitri Donskói y Batalla de Kulikovo
-**Prerrequisitos y significado:**
-- Batalla del campo de Kulikovo (1380)
-- Preparación político-militar de la batalla
-- Consolidación de posición líder de Moscú
-
-## Iglesia ortodoxa en período de la Horda
-
-### Rol de la iglesia en unificación de Rus
-**Traslado de sede metropolitana:**
-- Mudanza del metropolitano Pedro a Moscú (1325)
-- Transformación de Moscú en centro espiritual de Rus
-- Apoyo eclesiástico a política unificadora
-
-### Sergio de Rádonezh
-**Renacimiento espiritual:**
-- Fundación del Monasterio de la Trinidad y San Sergio
-- Bendición para Batalla de Kulikovo
-- Influencia en vida espiritual de Rus
-
-## Pueblos y estados de zona esteparia
-
-### Horda de Oro en siglos XIII-XV
-**Desarrollo político:**
-- Florecimiento bajo kanes Uzbek y Jani Beg
-- "Gran Trouble" - período de luchas internas
-- Desintegración en kanatos separados
-
-**Cultura y economía:**
-- Cultura urbana: Sarái, Búlgar, Hajji Tarkhan
-- Comercio transcontinental por Ruta de la Seda
-- Política religiosa: islamización bajo Uzbek
-
-### Estados sucesores
-**Formación de nuevos kanatos:**
-- Kanato de Kazán (1438)
-- Kanato de Crimea (1441)
-- Kanato de Astracán (1459)
-- Kanato de Siberia (1490)
-
-## Contexto internacional
-
-### Europa en siglos XIII-XV
-**Procesos políticos:**
-- Guerra de los Cien Años (1337-1453)
-- Finalización de Reconquista en península Ibérica
-- Ascenso del Imperio otomano
-
-**Cambios culturales:**
-- Era del Renacimiento en Italia
-- Invención de imprenta
-- Grandes Descubrimientos Geográficos
-
-### Europa Oriental en sistema de relaciones internacionales
-**Situación geopolítica:**
-- Lucha por influencia entre Moscú, Vilna y Cracovia
-- Rol de Horda como árbitro en relaciones interprincipescas
-- Inclusión gradual de tierras rusas en política europea
-
-## Significado del período para historia rusa
-
-### Formación de estado unificado
-**Prerrequisitos para unificación:**
-- Económicos: desarrollo de propiedad patrimonial de tierra
-- Políticos: necesidad de contrarrestar amenazas externas
-- Ideológicos: concepto de "reunión de tierras"
-
-**Caminos alternativos de desarrollo:**
-- Versión lituano-rusa de estatalidad
-- República boyarda de Nóvgorod
-- Monarquía centralizada moscovita
-
-### Legado histórico
-El período de mediados del siglo XIII al XV determinó vectores principales del desarrollo de la estatalidad rusa, sentó bases para estado centralizado y formó posición geopolítica de Rus en sistema de relaciones europeas y asiáticas.`
+    spanish: `# Tierras rusas en la era del dominio mongol y el ascenso de Moscú`
   },
   relatedMuseum: "Kremlin Museums, Moscow",
   museumConnection: {
-    russian: `Музеи Московского Кремля хранят уникальные памятники периода XIII-XV веков:
+    russian: `## Музеи Московского Кремля: свидетели эпохи
 
-**Архитектурные памятники:**
-- Успенский собор (1475-1479) - место венчания великих князей
-- Архангельский собор (1505-1508) - усыпальница московских князей
-- Грановитая палата (1487-1491) - символ государственной власти
+**Что можно увидеть сегодня из той эпохи?**
 
-**Церковные реликвии:**
-- Иконы и предметы культа эпохи ордынского владычества
-- Личные вещи митрополитов и святых того периода
-- Документы, отражающие отношения с Ордой и Литвой
+В Оружейной палате хранится **Шапка Мономаха** - но знаете ли вы, что это не византийская реликвия, а произведение среднеазиатских мастеров XIV века? Именно такие парадоксы характеризуют эпоху.
 
-**Государственные регалии:**
-- Шапка Мономаха - символ царской власти
-- Древние грамоты и договоры
-- Предметы дипломатических даров
+**Архитектурные памятники рассказывают историю:**
+- Успенский собор - здесь венчались на княжение московские правители, получая ордынский ярлык
+- Архангельский собор - усыпальница, где покоятся и победители, и побежденные монгольской эпохи
+- Колокольня Ивана Великого - символ возросшего значения Москвы как духовного центра
 
-**Археологические находки:**
-- Артефакты московского Кремля разных эпох
-- Предметы быта и вооружения XIII-XV веков
-- Документальные свидетельства Куликовской битвы
+**Артефакты, которые заставляют задуматься:**
+- Доспехи воинов Куликовской битвы - насколько они отличались от ордынских?
+- Дипломатические дары - как через вещи проявлялись сложные отношения с Востоком и Западом
+- Церковные облачения - свидетельства богатства и влияния Церкви
 
-Музеи Кремля позволяют проследить процесс превращения Москвы из небольшого княжества в центр объединения русских земель и становления централизованного государства.`,
+Музеи Кремля помогают понять: монгольское влияние не было только разрушительным - оно изменило русскую культуру, обогатило ее восточными элементами, создало тот уникальный сплав, который мы называем русской цивилизацией.`,
 
-    english: `The Kremlin Museums in Moscow preserve unique monuments from the 13th-15th centuries:
+    english: `## Kremlin Museums: Witnesses of the Era
 
-**Architectural monuments:**
-- Dormition Cathedral (1475-1479) - coronation site of grand princes
-- Archangel Cathedral (1505-1508) - burial place of Moscow princes
-- Faceted Palace (1487-1491) - symbol of state power
+**What can we see today from that era?**
 
-**Church relics:**
-- Icons and cult objects from the Horde period
-- Personal items of metropolitans and saints of that period
-- Documents reflecting relations with the Horde and Lithuania
+The Armory Chamber holds **Monomakh's Cap** - but did you know it's not a Byzantine relic, but a work of Central Asian masters from the 14th century? Such paradoxes characterize the era.
 
-**State regalia:**
-- Monomakh's Cap - symbol of tsarist power
-- Ancient charters and treaties
-- Items of diplomatic gifts
+**Architectural monuments tell the story:**
+- Dormition Cathedral - where Moscow rulers were crowned, receiving the Horde's yarlick
+- Archangel Cathedral - burial place where both winners and losers of the Mongol era rest
+- Ivan the Great Bell Tower - symbol of Moscow's growing importance as a spiritual center
 
-**Archaeological finds:**
-- Artifacts from Moscow Kremlin of different eras
-- Household items and weapons from 13th-15th centuries
-- Documentary evidence of the Battle of Kulikovo
+**Artifacts that make you think:**
+- Armor of Kulikovo Battle warriors - how different were they from Horde armor?
+- Diplomatic gifts - how complex relations with East and West manifested through objects
+- Church vestments - evidence of the Church's wealth and influence
 
-The Kremlin Museums allow tracing the process of Moscow's transformation from a small principality into the center of unification of Russian lands and formation of a centralized state.`,
+The Kremlin Museums help understand: Mongol influence wasn't only destructive - it changed Russian culture, enriched it with Eastern elements, created that unique blend we call Russian civilization.`,
 
-    french: `Les musées du Kremlin de Moscou conservent des monuments uniques des XIIIe-XVe siècles :
+    french: `## Musées du Kremlin : témoins de l'époque`,
 
-**Monuments architecturaux :**
-- Cathédrale de la Dormition (1475-1479) - lieu de couronnement des grands-princes
-- Cathédrale de l'Archange (1505-1508) - lieu de sépulture des princes moscovites
-- Palais à Facettes (1487-1491) - symbole du pouvoir d'État
-
-**Reliques ecclésiastiques :**
-- Icônes et objets cultuels de l'époque de la domination de la Horde
-- Effets personnels des métropolites et saints de cette période
-- Documents reflétant les relations avec la Horde et la Lituanie
-
-**Regalia d'État :**
-- Couronne de Monomaque - symbole du pouvoir tsariste
-- Chartes et traités anciens
-- Objets de cadeaux diplomatiques
-
-**Trouvailles archéologiques :**
-- Artefacts du Kremlin de Moscou de différentes époques
-- Objets domestiques et armes des XIIIe-XVe siècles
-- Preuves documentaires de la bataille de Koulikovo
-
-Les musées du Kremlin permettent de retracer le processus de transformation de Moscou d'une petite principauté en centre d'unification des terres russes et de formation d'un État centralisé.`,
-
-    spanish: `Los Museos del Kremlin de Moscú conservan monumentos únicos de los siglos XIII-XV:
-
-**Monumentos arquitectónicos:**
-- Catedral de la Dormición (1475-1479) - lugar de coronación de grandes príncipes
-- Catedral del Arcángel (1505-1508) - lugar de sepultura de príncipes moscovitas
-- Palacio de las Facetas (1487-1491) - símbolo de poder estatal
-
-**Reliquias eclesiásticas:**
-- Iconos y objetos de culto de época del dominio de la Horda
-- Objetos personales de metropolitanos y santos de ese período
-- Documentos que reflejan relaciones con la Horda y Lituania
-
-**Regalías estatales:**
-- Corona de Monómaco - símbolo de poder zarista
-- Cartas y tratados antiguos
-- Objetos de regalos diplomáticos
-
-**Hallazgos arqueológicos:**
-- Artefactos del Kremlin de Moscú de diferentes épocas
-- Objetos domésticos y armamento de siglos XIII-XV
-- Evidencia documental de Batalla de Kulikovo
-
-Los Museos del Kremlin permiten rastrear el proceso de transformación de Moscú de pequeño principado a centro de unificación de tierras rusas y formación de estado centralizado.`
+    spanish: `## Museos del Kremlin: testigos de la época`
   },
   quiz: [
     {
       question: {
-        russian: "В каком году произошла Куликовская битва?",
-        english: "In what year did the Battle of Kulikovo take place?",
-        french: "En quelle année a eu lieu la bataille de Koulikovo?",
-        spanish: "¿En qué año tuvo lugar la Batalla de Kulikovo?"
+        russian: "Почему монголы, установив контроль над русскими землями, сохранили местных князей у власти?",
+        english: "Why did the Mongols, having established control over Russian lands, keep local princes in power?",
+        french: "Pourquoi les Mongols, après avoir établi leur contrôle sur les terres russes, ont-ils maintenu les princes locaux au pouvoir?",
+        spanish: "¿Por qué los mongoles, tras establecer control sobre tierras rusas, mantuvieron a príncipes locales en el poder?"
       },
       options: [
         {
-          russian: "1380 год",
-          english: "1380 CE",
-          french: "1380 EC",
-          spanish: "1380 EC"
+          russian: "У монголов не было достаточных ресурсов для прямой администрации",
+          english: "The Mongols lacked sufficient resources for direct administration",
+          french: "Les Mongols manquaient de ressources suffisantes pour une administration directe",
+          spanish: "Los mongoles carecían de recursos suficientes para administración directa"
         },
         {
-          russian: "1240 год",
-          english: "1240 CE",
-          french: "1240 EC",
-          spanish: "1240 EC"
+          russian: "Местные князья лучше знали систему сбора дани",
+          english: "Local princes knew the tribute collection system better",
+          french: "Les princes locaux connaissaient mieux le système de collecte du tribut",
+          spanish: "Los príncipes locales conocían mejor el sistema de recolección de tributos"
         },
         {
-          russian: "1480 год",
-          english: "1480 CE",
-          french: "1480 EC",
-          spanish: "1480 EC"
+          russian: "Монголы видели в Руси источник доходов, а не территорию для заселения",
+          english: "The Mongols saw Rus as a source of income, not settlement territory",
+          french: "Les Mongols voyaient la Russie comme une source de revenus, pas un territoire de peuplement",
+          spanish: "Los mongoles veían a Rus como fuente de ingresos, no territorio para asentamiento"
         },
         {
-          russian: "1223 год",
-          english: "1223 CE",
-          french: "1223 EC",
-          spanish: "1223 EC"
+          russian: "Все перечисленные причины вместе",
+          english: "All of the above reasons combined",
+          french: "Toutes les raisons ci-dessus combinées",
+          spanish: "Todas las razones anteriores combinadas"
         }
       ],
-      correctAnswer: 0
+      correctAnswer: 3
     },
     {
       question: {
-        russian: "Какой город стал центром объединения русских земель в XIV-XV веках?",
-        english: "Which city became the center of unification of Russian lands in the 14th-15th centuries?",
-        french: "Quelle ville est devenue le centre d'unification des terres russes aux XIVe-XVe siècles?",
-        spanish: "¿Qué ciudad se convirtió en centro de unificación de tierras rusas en siglos XIV-XV?"
+        russian: "Какое событие 1382 года показало, что Куликовская битва не положила конец ордынской власти?",
+        english: "What event in 1382 showed that the Battle of Kulikovo didn't end Horde power?",
+        french: "Quel événement en 1382 a montré que la bataille de Koulikovo n'avait pas mis fin au pouvoir de la Horde?",
+        spanish: "¿Qué evento en 1382 mostró que la Batalla de Kulikovo no terminó con el poder de la Horda?"
       },
       options: [
         {
-          russian: "Москва",
-          english: "Moscow",
-          french: "Moscou",
-          spanish: "Moscú"
+          russian: "Битва на реке Воже",
+          english: "Battle on the Vozha River",
+          french: "Bataille sur la rivière Vozha",
+          spanish: "Batalla en el río Vozha"
         },
         {
-          russian: "Тверь",
-          english: "Tver",
-          french: "Tver",
-          spanish: "Tver"
+          russian: "Поход Тохтамыша и сожжение Москвы",
+          english: "Tokhtamysh's campaign and burning of Moscow",
+          french: "Campagne de Tokhtamych et incendie de Moscou",
+          spanish: "Campaña de Tojtamish y quema de Moscú"
         },
         {
-          russian: "Владимир",
-          english: "Vladimir",
-          french: "Vladimir",
-          spanish: "Vladimir"
+          russian: "Осада Твери ордынскими войсками",
+          english: "Siege of Tver by Horde forces",
+          french: "Siège de Tver par les forces de la Horde",
+          spanish: "Asedio de Tver por fuerzas de la Horda"
         },
         {
-          russian: "Новгород",
-          english: "Novgorod",
-          french: "Novgorod",
-          spanish: "Nóvgorod"
+          russian: "Заключение нового договора с Ордой",
+          english: "Signing of a new treaty with the Horde",
+          french: "Signature d'un nouveau traité avec la Horde",
+          spanish: "Firma de nuevo tratado con la Horda"
         }
       ],
-      correctAnswer: 0
+      correctAnswer: 1
     },
     {
       question: {
-        russian: "Какой ордынский хан способствовал возвышению Москвы при Иване Калите?",
-        english: "Which Horde khan contributed to the rise of Moscow under Ivan Kalita?",
-        french: "Quel khan de la Horde a contribué à l'ascension de Moscou sous Ivan Kalita?",
-        spanish: "¿Qué kan de la Horda contribuyó al ascenso de Moscú bajo Iván Kalitá?"
+        russian: "Что из перечисленного НЕ было причиной возвышения Москвы?",
+        english: "Which of the following was NOT a reason for Moscow's rise?",
+        french: "Lequel des éléments suivants n'était PAS une raison de l'ascension de Moscou?",
+        spanish: "¿Cuál de los siguientes NO fue una razón del ascenso de Moscú?"
       },
       options: [
         {
-          russian: "Узбек",
-          english: "Uzbek",
-          french: "Uzbek",
-          spanish: "Uzbek"
+          russian: "Выгодное географическое положение на торговых путях",
+          english: "Advantageous geographical position on trade routes",
+          french: "Position géographique avantageuse sur les routes commerciales",
+          spanish: "Posición geográfica ventajosa en rutas comerciales"
         },
         {
-          russian: "Батый",
-          english: "Batu",
-          french: "Batu",
-          spanish: "Batú"
+          russian: "Поддержка православной церкви и перенос митрополичьей кафедры",
+          english: "Support of Orthodox Church and transfer of metropolitan seat",
+          french: "Soutien de l'Église orthodoxe et transfert du siège métropolitain",
+          spanish: "Apoyo de Iglesia ortodoxa y traslado de sede metropolitana"
         },
         {
-          russian: "Мамай",
-          english: "Mamai",
-          french: "Mamaï",
-          spanish: "Mamái"
+          russian: "Военная помощь от европейских государств",
+          english: "Military assistance from European states",
+          french: "Aide militaire des États européens",
+          spanish: "Asistencia militar de estados europeos"
         },
         {
-          russian: "Тохтамыш",
-          english: "Tokhtamysh",
-          french: "Tokhtamych",
-          spanish: "Tojtamish"
+          russian: "Гибкая политика князей в отношениях с Ордой",
+          english: "Flexible policy of princes in relations with the Horde",
+          french: "Politique flexible des princes dans les relations avec la Horde",
+          spanish: "Política flexible de príncipes en relaciones con la Horda"
         }
       ],
-      correctAnswer: 0
+      correctAnswer: 2
     },
     {
       question: {
-        russian: "В каком году митрополит Петр перенес свою кафедру в Москву?",
-        english: "In what year did Metropolitan Peter move his seat to Moscow?",
-        french: "En quelle année le métropolite Pierre a-t-il déplacé son siège à Moscou?",
-        spanish: "¿En qué año el metropolitano Pedro trasladó su sede a Moscú?"
+        russian: "Почему Новгород и Псков смогли сохранить республиканское устройство, в отличие от других русских земель?",
+        english: "Why were Novgorod and Pskov able to maintain republican systems, unlike other Russian lands?",
+        french: "Pourquoi Novgorod et Pskov ont-ils pu maintenir des systèmes républicains, contrairement aux autres terres russes?",
+        spanish: "¿Por qué Nóvgorod y Pskov pudieron mantener sistemas republicanos, a diferencia de otras tierras rusas?"
       },
       options: [
         {
-          russian: "1325 год",
-          english: "1325 CE",
-          french: "1325 EC",
-          spanish: "1325 EC"
+          russian: "Они находились дальше от Орды и платили меньшую дань",
+          english: "They were farther from the Horde and paid less tribute",
+          french: "Ils étaient plus éloignés de la Horde et payaient moins de tribut",
+          spanish: "Estaban más lejos de la Horda y pagaban menos tributo"
         },
         {
-          russian: "1240 год",
-          english: "1240 CE",
-          french: "1240 EC",
-          spanish: "1240 EC"
+          russian: "Монголы не интересовались этими территориями из-за бедных почв",
+          english: "The Mongols weren't interested in these territories due to poor soils",
+          french: "Les Mongols ne s'intéressaient pas à ces territoires à cause des sols pauvres",
+          spanish: "Los mongoles no se interesaban por estos territorios debido a suelos pobres"
         },
         {
-          russian: "1380 год",
-          english: "1380 CE",
-          french: "1380 EC",
-          spanish: "1380 EC"
+          russian: "Сильные торговые связи и традиции самоуправления",
+          english: "Strong trade connections and self-government traditions",
+          french: "Fortes connexions commerciales et traditions d'autogouvernement",
+          spanish: "Fuertes conexiones comerciales y tradiciones de autogobierno"
         },
         {
-          russian: "1480 год",
-          english: "1480 CE",
-          french: "1480 EC",
-          spanish: "1480 EC"
+          russian: "Поддержка со стороны Литовского княжества",
+          english: "Support from the Lithuanian Principality",
+          french: "Soutien de la principauté de Lituanie",
+          spanish: "Apoyo del principado de Lituania"
         }
       ],
-      correctAnswer: 0
+      correctAnswer: 2
     },
     {
       question: {
-        russian: "Какое государство стало главным конкурентом Москвы в борьбе за русские земли?",
-        english: "Which state became Moscow's main competitor in the struggle for Russian lands?",
-        french: "Quel État est devenu le principal concurrent de Moscou dans la lutte pour les terres russes?",
-        spanish: "¿Qué estado se convirtió en principal competidor de Moscú en lucha por tierras rusas?"
+        russian: "Какое из этих последствий монгольского владычества оказало наибольшее влияние на дальнейшее развитие России?",
+        english: "Which of these consequences of Mongol rule had the greatest impact on Russia's further development?",
+        french: "Laquelle de ces conséquences de la domination mongole a eu le plus grand impact sur le développement ultérieur de la Russie?",
+        spanish: "¿Cuál de estas consecuencias del dominio mongol tuvo mayor impacto en el desarrollo posterior de Rusia?"
       },
       options: [
         {
-          russian: "Великое княжество Литовское",
-          english: "Grand Duchy of Lithuania",
-          french: "Grand-duché de Lituanie",
-          spanish: "Gran Ducado de Lituania"
+          russian: "Усиление авторитарных традиций власти",
+          english: "Strengthening of authoritarian power traditions",
+          french: "Renforcement des traditions de pouvoir autoritaire",
+          spanish: "Fortalecimiento de tradiciones de poder autoritario"
         },
         {
-          russian: "Польское королевство",
-          english: "Polish Kingdom",
-          french: "Royaume de Pologne",
-          spanish: "Reino de Polonia"
+          russian: "Экономическое отставание от Европы",
+          english: "Economic lag behind Europe",
+          french: "Retard économique par rapport à l'Europe",
+          spanish: "Retraso económico respecto a Europa"
         },
         {
-          russian: "Тевтонский орден",
-          english: "Teutonic Order",
-          french: "Ordre Teutonique",
-          spanish: "Orden Teutónica"
+          russian: "Культурная изоляция от западноевропейских процессов",
+          english: "Cultural isolation from Western European processes",
+          french: "Isolement culturel des processus ouest-européens",
+          spanish: "Aislamiento cultural de procesos europeos occidentales"
         },
         {
-          russian: "Шведское королевство",
-          english: "Swedish Kingdom",
-          french: "Royaume de Suède",
-          spanish: "Reino de Suecia"
+          russian: "Все перечисленные факторы в комплексе",
+          english: "All listed factors in combination",
+          french: "Tous les facteurs listés en combinaison",
+          spanish: "Todos los factores listados en combinación"
         }
       ],
-      correctAnswer: 0
+      correctAnswer: 3
     }
   ],
   learningObjectives: [
-    "Analyze the impact of Mongol rule on Russian lands and state development",
-    "Understand the political systems of Novgorod and Pskov republics",
-    "Evaluate the role of the Orthodox Church in unifying Russian lands",
-    "Identify the main stages of Moscow's rise to dominance",
-    "Assess international relations in Eastern Europe during 13th-15th centuries",
-    "Compare alternative paths of Russian state formation"
+    "Understand why Mongol rule lasted so long and how it shaped Russian institutions",
+    "Analyze the different political systems that developed in various Russian lands",
+    "Evaluate the complex factors behind Moscow's eventual dominance",
+    "Assess the role of the Orthodox Church in preserving Russian identity",
+    "Compare Russia's development path with contemporary European states",
+    "Develop critical thinking about historical myths and their modern interpretations"
   ],
   keyConcepts: [
-    "Mongol invasion",
-    "Golden Horde",
-    "Yoke period",
-    "Republicanism",
+    "System of dependence",
+    "Yarlick politics",
+    "Republican alternative",
+    "Church-state relations",
     "Unification process",
-    "Metropolitan authority",
-    "Lithuanian-Russian state",
-    "Kulikovo Battle",
-    "Feudal fragmentation",
-    "Centralization"
+    "Cultural synthesis",
+    "Geopolitical choice",
+    "Historical legacy",
+    "Power centralization",
+    "Civilizational identity"
   ]
 };
 

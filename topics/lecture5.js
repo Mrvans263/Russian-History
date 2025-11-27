@@ -8,998 +8,751 @@ const lecture5 = {
     spanish: "Lección 5. Formación del Estado ruso unificado (Moscú)"
   },
   content: {
-    russian: `# Становление единого Русского (Московского) государства
+    russian: `# Становление единого Русского государства в XV веке
 
-## Формирование единого Русского государства в XV в.
+## Почему именно Москва?
 
-### Образование национальных государств в Европе: общее и особенное
-**Раннее формирование единого государства:**
-- Франция: централизация при Капетингах
-- Англия: нормандское завоевание и укрепление королевской власти
-- Испания: борьба с арабским владычеством и Реконкиста
+К концу XV века раздробленные русские земли начинают объединяться вокруг небольшого, но стратегически важного города — Москвы. Почему же именно она стала центром будущей великой державы?
 
-**Наднациональные государственные образования:**
-- Священная Римская империя: федеративная структура
-- Консервация раздробленности в Италии и Германии
-- Фактор королевской власти: судьбы Бургундии и Великого княжества Литовского
+**Географические преимущества:**
+- Центральное положение среди русских земель
+- Удаленность от опасных границ
+- Перекресток торговых путей
+- Плодородные земли и природная защита
 
-## Русские земли в составе различных государств
-
-### Великое княжество Литовское в XIV–XV вв.
-**Политическое развитие:**
-- Расширение территории за счет русских земель
-- Грюнвальдская битва 1410 года: победа над Тевтонским орденом
-- Унии между Польшей и Литвой: Кревская 1385 г., Городельская 1413 г.
-
-**Статус русских земель:**
-- Автономия в составе княжества
-- Сохранение православной веры и традиций
-- Участие в управлении государством
-
-### Великое княжество Московское
-**Объединение русских земель вокруг Москвы:**
-- Географическое и экономическое преимущество
+**Политические факторы:**
+- Умелая политика московских князей
 - Поддержка православной церкви
-- Династическая преемственность московских князей
+- Мирные отношения с Ордой на ранних этапах
+- Система престолонаследия
 
-**Династическая война второй четверти XV в.:**
-- Борьба за престол между Василием II и его родственниками
-- Ослепление Василия II и его последствия
-- Укрепление великокняжеской власти после победы
+## Великое стояние на Угре — конец монгольского ига
 
-## Новгород и Псков в XV веке
+1480 год стал переломным моментом в русской истории. Войска хана Ахмата и великого князя Ивана III сошлись на реке Угре, но битвы так и не произошло. После нескольких недель对峙 (противостояния) монголы отступили.
 
-### Политический строй и отношения
-**Особенности государственного устройства:**
-- Вечевая республика в Новгороде
-- Княжеско-вечевой строй в Пскове
-- Выборность должностных лиц
+**Почему это важно:**
+- Формальный конец 240-летней зависимости
+- Рождение суверенного русского государства
+- Укрепление международного авторитета Москвы
+- Психологический перелом в сознании народа
 
-**Внешнеполитические связи:**
-- Отношения с Москвой: от сотрудничества к противостоянию
-- Контакты с Тевтонским орденом в Ливонии
-- Торговые отношения с Ганзой
-- Связи с Великим княжеством Литовским
+## Иван III — собиратель земель русских
 
-## Московское государство при Иване III
+Прозванный "собирателем земель русских", Иван III методично расширял территорию Московского княжества:
 
-### Изменение международного статуса
-**Падение Константинополя и его последствия:**
-- 1453 год - захват Константинополя османами
-- Изменение церковно-политической роли Москвы
-- Возникновение доктрины «Москва — третий Рим»
+**Ключевые присоединения:**
+- Новгород (1478) — потеря независимости вечевой республики
+- Тверь (1485) — устранение главного конкурента
+- Ярославль (1463) и Ростов (1474) — мирное включение
 
-**Внешняя политика Ивана III:**
-- Присоединение Новгорода (1478 г.)
-- Присоединение Твери (1485 г.)
-- Расширение международных связей
-
-### Освобождение от ордынской зависимости
-**Распад Золотой Орды:**
-- Нарастание центробежных тенденций
-- Образование отдельных ханств: Казанское, Крымское, Астраханское
-- Великое стояние на Угре 1480 года
-- Ликвидация зависимости от Орды
+**Методы объединения:**
+- Дипломатические браки
+- Военное давление
+- Экономические санкции
+- Идеологическое обоснование
 
 ## Государственное строительство
 
-### Судебник 1497 года
-**Основные положения:**
-- Первый общерусский свод законов
-- Унификация судебной системы
-- Регулирование поземельных отношений
+### Судебник 1497 года — первый общерусский закон
 
-**Положение крестьян:**
-- Введение Юрьева дня
-- Ограничение переходов крестьян
-- Начало закрепощения
+Этот документ стал важным шагом к созданию единой правовой системы:
 
-### Аппарат управления
-**Центральные органы власти:**
-- Двор великого князя
-- Боярская дума
-- Приказная система
+**Основные нововведения:**
+- Унификация судебных процедур
+- Регулирование земельных отношений
+- Введение Юрьева дня для крестьян
+- Установление единых наказаний
 
-**Государственная символика:**
-- Герб - двуглавый орел
-- Титул «государь всея Руси»
-- Регалии власти
+**Значение Юрьева дня:**
+Крестьяне получали право переходить к другому землевладельцу только за неделю до и после осеннего Юрьева дня (26 ноября). Это стало первым шагом к закрепощению.
 
-## Церковь и религиозная жизнь
+### Новая система управления
 
-### Взаимоотношения церкви и государства
-**Иосифляне и нестяжатели:**
-- Иосиф Волоцкий и теория божественного происхождения власти
-- Нил Сорский и идеи нестяжательства
-- Споры о церковном землевладении
+Иван III создал централизованный аппарат управления:
 
-**Неортодоксальные религиозные течения:**
-- «Новгородско-московская ересь»
-- Критика официальной церкви
-- Репрессии против еретиков
+**Центральные органы:**
+- Боярская дума — совещательный орган
+- Приказы — прообраз министерств
+- Дворцовые ведомства
 
-## Культурное развитие
+**Местное управление:**
+- Наместники в городах
+- Волостели в сельской местности
+- Система кормлений
 
-### Наследие крещения Руси
-**Роль христианства в культуре:**
-- Изменение основ мировоззрения
-- Представления о смысле жизни и мироустройстве
-- Нормы отношений между людьми, семьи и брака
+## "Москва — третий Рим"
 
-### Письменность и литература
-**Развитие литературы:**
-- Появление авторских текстов
-- Переводная литература
-- Основные жанры древнерусской литературы
+После падения Константинополя в 1453 году Москва начинает претендовать на роль центра православного мира. Монах Филофей сформулировал знаменитую теорию:
 
-**Выдающиеся произведения:**
-- Летописание: «Повесть временных лет»
-- Жития святых
-- Княжеско-дружинный эпос: «Слово о полку Игореве», «Задонщина»
-- «Поучение» Владимира Мономаха
-- «Хожение за три моря» Афанасия Никитина
+"Два Рима пали, третий стоит, а четвертому не бывать"
 
-### Музыкальное искусство
-**Церковное пение:**
-- Развитие знаменного распева
-- Крюковая нотация
-- Региональные певческие традиции
+**Что это означало на практике:**
+- Религиозное и политическое лидерство
+- Преемственность от Византии
+- Обоснование экспансионистской политики
+- Укрепление самодержавной власти
 
-## Архитектура и изобразительное искусство
+## Культурный расцвет
 
-### Каменное строительство
-**Ранний период:**
-- Софийские соборы в Киеве, Новгороде, Полоцке
-- Византийское влияние на архитектуру
-- Западноевропейские элементы
+Объединение страны способствовало культурному развитию:
 
-**Региональные школы:**
-- Владимиро-суздальские храмы
-- Новгородские церкви
-- Возобновление строительства после монгольского нашествия
+**Архитектура:**
+- Строительство Московского Кремля
+- Приглашение итальянских мастеров
+- Синтез русских и европейских традиций
 
-### Изобразительное искусство
-**Основные виды:**
-- Мозаики и фрески
-- Иконопись
+**Искусство:**
+- Расцвет иконописи (Андрей Рублев)
+- Развитие книгописания
+- Создание летописных сводов
 
-**Выдающиеся мастера:**
-- Творчество Феофана Грека
-- Андрей Рублев и его «Троица»
-- Приглашение Иваном III итальянских мастеров
+## Международное признание
 
-**Ансамбль Московского Кремля:**
-- Строительство новых стен и башен
-- Успенский, Архангельский, Благовещенский соборы
-- Грановитая палата
+К концу XV века Московское государство стало полноправным участником европейской политики:
 
-## Образование и знания
+**Дипломатические успехи:**
+- Брак с византийской принцессой Софьей Палеолог
+- Связи с Венецией, Римом, Священной Римской империей
+- Признание царского титула
 
-### Уровень грамотности и обучения
-**Система образования:**
-- Монастырские школы
-- Обучение грамоте в городах
-- Перевод научных трудов
+**Военные достижения:**
+- Освобождение от ордынской зависимости
+- Успешные войны с Литвой
+- Укрепление западных границ
 
-**Технологии и знания:**
-- Строительные технологии
-- Военное дело
-- Медицинские знания
-- Географические представления
+## Наследие эпохи
 
-## Историческое значение
+К 1505 году, когда умер Иван III, Московское государство представляло собой:
 
-### Итоги формирования единого государства
-**Политические результаты:**
-- Создание централизованного государства
-- Укрепление международного положения
-- Формирование национальной идентичности
+- Крупнейшую страну в Европе
+- Централизованную монархию
+- Многонациональную империю в зародыше
+- Важного игрока в международных отношениях
 
-**Культурное наследие:**
-- Синтез византийских и национальных традиций
-- Создание оригинальной художественной школы
-- Заложение основ русской культуры
+Этот период заложил основы российской государственности на следующие столетия.`,
 
-Период становления Московского государства определил дальнейший путь развития России, создал предпосылки для превращения в крупную европейскую державу и сформировал уникальные культурные традиции, оказавшие влияние на последующие века русской истории.`,
+    english: `# Formation of the Unified Russian State in the 15th Century
 
-    english: `# Formation of the Unified Russian (Moscow) State
+## Why Moscow?
 
-## Formation of the Unified Russian State in the 15th Century
+By the end of the 15th century, the fragmented Russian lands began to unite around a small but strategically important city—Moscow. Why did it become the center of a future great power?
 
-### Formation of National States in Europe: Common and Distinctive Features
-**Early formation of unified states:**
-- France: centralization under the Capetians
-- England: Norman conquest and strengthening of royal power
-- Spain: struggle against Arab rule and Reconquista
+**Geographical advantages:**
+- Central location among Russian lands
+- Distance from dangerous borders
+- Crossroads of trade routes
+- Fertile lands and natural protection
 
-**Supranational state formations:**
-- Holy Roman Empire: federal structure
-- Preservation of fragmentation in Italy and Germany
-- Factor of royal power: fates of Burgundy and Grand Duchy of Lithuania
+**Political factors:**
+- Skillful politics of Moscow princes
+- Support of the Orthodox Church
+- Peaceful relations with the Horde in early stages
+- System of succession
 
-## Russian Lands within Various States
+## Great Stand on the Ugra—End of Mongol Yoke
 
-### Grand Duchy of Lithuania in 14th-15th Centuries
-**Political development:**
-- Territorial expansion at the expense of Russian lands
-- Battle of Grunwald 1410: victory over Teutonic Order
-- Unions between Poland and Lithuania: Krevo 1385, Horodło 1413
+The year 1480 became a turning point in Russian history. The troops of Khan Ahmed and Grand Prince Ivan III faced each other on the Ugra River, but no battle occurred. After several weeks of standoff, the Mongols retreated.
 
-**Status of Russian lands:**
-- Autonomy within the principality
-- Preservation of Orthodox faith and traditions
-- Participation in state governance
+**Why this matters:**
+- Formal end of 240-year dependence
+- Birth of a sovereign Russian state
+- Strengthening of Moscow's international authority
+- Psychological breakthrough in people's consciousness
 
-### Grand Principality of Moscow
-**Unification of Russian lands around Moscow:**
-- Geographical and economic advantages
-- Support of Orthodox Church
-- Dynastic continuity of Moscow princes
+## Ivan III—Gatherer of Russian Lands
 
-**Dynastic war of second quarter of 15th century:**
-- Struggle for throne between Vasily II and his relatives
-- Blinding of Vasily II and its consequences
-- Strengthening of grand princely power after victory
+Nicknamed "gatherer of Russian lands," Ivan III methodically expanded the territory of the Moscow Principality:
 
-## Novgorod and Pskov in the 15th Century
+**Key annexations:**
+- Novgorod (1478)—loss of independence of the veche republic
+- Tver (1485)—elimination of the main competitor
+- Yaroslavl (1463) and Rostov (1474)—peaceful inclusion
 
-### Political System and Relations
-**Features of state structure:**
-- Veche republic in Novgorod
-- Princely-veche system in Pskov
-- Election of officials
-
-**Foreign relations:**
-- Relations with Moscow: from cooperation to confrontation
-- Contacts with Teutonic Order in Livonia
-- Trade relations with Hanseatic League
-- Connections with Grand Duchy of Lithuania
-
-## Moscow State under Ivan III
-
-### Change in International Status
-**Fall of Constantinople and its consequences:**
-- 1453 - capture of Constantinople by Ottomans
-- Change in church-political role of Moscow
-- Emergence of doctrine "Moscow - Third Rome"
-
-**Foreign policy of Ivan III:**
-- Annexation of Novgorod (1478)
-- Annexation of Tver (1485)
-- Expansion of international connections
-
-### Liberation from Mongol Dependence
-**Disintegration of Golden Horde:**
-- Growing centrifugal tendencies
-- Formation of separate khanates: Kazan, Crimean, Astrakhan
-- Great Stand on the Ugra River 1480
-- Elimination of dependence from the Horde
+**Methods of unification:**
+- Diplomatic marriages
+- Military pressure
+- Economic sanctions
+- Ideological justification
 
 ## State Building
 
-### Sudebnik of 1497
-**Main provisions:**
-- First all-Russian law code
-- Unification of judicial system
+### Sudebnik of 1497—First All-Russian Law
+
+This document was an important step toward creating a unified legal system:
+
+**Main innovations:**
+- Unification of judicial procedures
 - Regulation of land relations
+- Introduction of St. George's Day for peasants
+- Establishment of uniform punishments
 
-**Peasant status:**
-- Introduction of St. George's Day
-- Restrictions on peasant movements
-- Beginning of serfdom
+**Significance of St. George's Day:**
+Peasants gained the right to move to another landowner only during the week before and after autumn St. George's Day (November 26). This became the first step toward serfdom.
 
-### Administrative Apparatus
-**Central governing bodies:**
-- Court of the Grand Prince
-- Boyar Duma
-- Prikaz system
+### New System of Governance
 
-**State symbols:**
-- Coat of arms - double-headed eagle
-- Title "Sovereign of all Rus"
-- Regalia of power
+Ivan III created a centralized administrative apparatus:
 
-## Church and Religious Life
+**Central bodies:**
+- Boyar Duma—advisory body
+- Prikazy—prototype of ministries
+- Palace departments
 
-### Church-State Relations
-**Josephites and Non-Possessors:**
-- Joseph Volotsky and theory of divine origin of power
-- Nil Sorsky and ideas of non-possession
-- Disputes about church landownership
+**Local governance:**
+- Governors in cities
+- Volostels in rural areas
+- System of kormleniya (feeding)
 
-**Non-orthodox religious movements:**
-- "Novgorod-Moscow heresy"
-- Criticism of official church
-- Repressions against heretics
+## "Moscow—Third Rome"
 
-## Cultural Development
+After the fall of Constantinople in 1453, Moscow began claiming the role of center of the Orthodox world. Monk Philotheus formulated the famous theory:
 
-### Legacy of Baptism of Rus
-**Role of Christianity in culture:**
-- Change in worldview foundations
-- Concepts of life meaning and world order
-- Norms of interpersonal relations, family and marriage
+"Two Romes have fallen, the third stands, and there will be no fourth"
 
-### Writing and Literature
-**Development of literature:**
-- Emergence of authorial texts
-- Translated literature
-- Main genres of Old Russian literature
+**What this meant in practice:**
+- Religious and political leadership
+- Succession from Byzantium
+- Justification of expansionist policy
+- Strengthening of autocratic power
 
-**Outstanding works:**
-- Chronicles: "Tale of Bygone Years"
-- Saints' lives
-- Princely-retinue epic: "Tale of Igor's Campaign", "Zadonshchina"
-- "Instruction" of Vladimir Monomakh
-- "Journey Beyond Three Seas" by Afanasy Nikitin
+## Cultural Flourishing
 
-### Musical Art
-**Church singing:**
-- Development of znamenny chant
-- Hook notation
-- Regional singing traditions
+The unification of the country contributed to cultural development:
 
-## Architecture and Visual Arts
+**Architecture:**
+- Construction of Moscow Kremlin
+- Invitation of Italian masters
+- Synthesis of Russian and European traditions
 
-### Stone Construction
-**Early period:**
-- Sophia Cathedrals in Kiev, Novgorod, Polotsk
-- Byzantine influence on architecture
-- Western European elements
+**Art:**
+- Golden age of icon painting (Andrei Rublev)
+- Development of book writing
+- Creation of chronicle collections
 
-**Regional schools:**
-- Vladimir-Suzdal temples
-- Novgorod churches
-- Resumption of construction after Mongol invasion
+## International Recognition
 
-### Visual Arts
-**Main types:**
-- Mosaics and frescoes
-- Icon painting
+By the end of the 15th century, the Moscow State became a full participant in European politics:
 
-**Outstanding masters:**
-- Work of Theophanes the Greek
-- Andrei Rublev and his "Trinity"
-- Invitation of Italian masters by Ivan III
+**Diplomatic successes:**
+- Marriage to Byzantine princess Sophia Paleologue
+- Connections with Venice, Rome, Holy Roman Empire
+- Recognition of tsarist title
 
-**Ensemble of Moscow Kremlin:**
-- Construction of new walls and towers
-- Dormition, Archangel, Annunciation Cathedrals
-- Faceted Palace
+**Military achievements:**
+- Liberation from Mongol dependence
+- Successful wars with Lithuania
+- Strengthening of western borders
 
-## Education and Knowledge
+## Legacy of the Era
 
-### Literacy and Education Level
-**Education system:**
-- Monastery schools
-- Literacy training in cities
-- Translation of scientific works
+By 1505, when Ivan III died, the Moscow State represented:
 
-**Technologies and knowledge:**
-- Construction technologies
-- Military affairs
-- Medical knowledge
-- Geographical concepts
+- The largest country in Europe
+- A centralized monarchy
+- A multinational empire in embryo
+- An important player in international relations
 
-## Historical Significance
+This period laid the foundations of Russian statehood for the following centuries.`,
 
-### Results of State Formation
-**Political outcomes:**
-- Creation of centralized state
-- Strengthening of international position
-- Formation of national identity
+    french: `# Formation de l'État russe unifié au XVe siècle
 
-**Cultural heritage:**
-- Synthesis of Byzantine and national traditions
-- Creation of original artistic school
-- Foundation of Russian culture
+## Pourquoi Moscou ?
 
-The period of Moscow State formation determined Russia's further development path, created prerequisites for becoming a major European power, and formed unique cultural traditions that influenced subsequent centuries of Russian history.`,
+À la fin du XVe siècle, les terres russes fragmentées commencent à s'unir autour d'une ville petite mais stratégiquement importante — Moscou. Pourquoi est-elle devenue le centre d'une future grande puissance ?
 
-    french: `# Formation de l'État russe unifié (Moscou)
+**Avantages géographiques :**
+- Position centrale parmi les terres russes
+- Éloignement des frontières dangereuses
+- Carrefour des routes commerciales
+- Terres fertiles et protection naturelle
 
-## Formation de l'État russe unifié au XVe siècle
-
-### Formation des États nationaux en Europe : généralités et particularités
-**Formation précoce d'États unifiés :**
-- France : centralisation sous les Capétiens
-- Angleterre : conquête normande et renforcement du pouvoir royal
-- Espagne : lutte contre la domination arabe et Reconquista
-
-**Formations étatiques supranationales :**
-- Saint-Empire romain germanique : structure fédérale
-- Conservation de la fragmentation en Italie et Allemagne
-- Facteur du pouvoir royal : destins de la Bourgogne et du Grand-duché de Lituanie
-
-## Terres russes au sein de divers États
-
-### Grand-duché de Lituanie aux XIVe-XVe siècles
-**Développement politique :**
-- Expansion territoriale aux dépens des terres russes
-- Bataille de Grunwald 1410 : victoire sur l'Ordre Teutonique
-- Unions entre Pologne et Lituanie : Krewo 1385, Horodło 1413
-
-**Statut des terres russes :**
-- Autonomie au sein du duché
-- Préservation de la foi orthodoxe et des traditions
-- Participation à la gouvernance étatique
-
-### Grande-principauté de Moscou
-**Unification des terres russes autour de Moscou :**
-- Avantages géographiques et économiques
+**Facteurs politiques :**
+- Politique habile des princes moscovites
 - Soutien de l'Église orthodoxe
-- Continuité dynastique des princes moscovites
+- Relations pacifiques avec la Horde aux premiers stades
+- Système de succession
 
-**Guerre dynastique du deuxième quart du XVe siècle :**
-- Lutte pour le trône entre Vassili II et ses parents
-- Aveuglement de Vassili II et ses conséquences
-- Renforcement du pouvoir grand-ducal après la victoire
+## Grande halte sur l'Ougra — fin du joug mongol
 
-## Novgorod et Pskov au XVe siècle
+L'année 1480 devint un tournant dans l'histoire russe. Les troupes du khan Ahmed et du grand-prince Ivan III se firent face sur la rivière Ougra, mais aucune bataille n'eut lieu. Après plusieurs semaines de confrontation, les Mongols se retirèrent.
 
-### Système politique et relations
-**Caractéristiques de la structure étatique :**
-- République véché à Novgorod
-- Système princier-véché à Pskov
-- Élection des fonctionnaires
+**Pourquoi c'est important :**
+- Fin formelle de 240 ans de dépendance
+- Naissance d'un État russe souverain
+- Renforcement de l'autorité internationale de Moscou
+- Rupture psychologique dans la conscience du peuple
 
-**Relations extérieures :**
-- Relations avec Moscou : de la coopération à la confrontation
-- Contacts avec l'Ordre Teutonique en Livonie
-- Relations commerciales avec la Ligue hanséatique
-- Liens avec le Grand-duché de Lituanie
+## Ivan III — rassembleur des terres russes
 
-## État moscovite sous Ivan III
+Surnommé « rassembleur des terres russes », Ivan III étendit méthodiquement le territoire de la principauté de Moscou :
 
-### Changement de statut international
-**Chute de Constantinople et ses conséquences :**
-- 1453 - prise de Constantinople par les Ottomans
-- Changement du rôle politico-ecclésiastique de Moscou
-- Émergence de la doctrine « Moscou - Troisième Rome »
+**Annexions clés :**
+- Novgorod (1478) — perte d'indépendance de la république véché
+- Tver (1485) — élimination du principal concurrent
+- Yaroslavl (1463) et Rostov (1474) — inclusion pacifique
 
-**Politique étrangère d'Ivan III :**
-- Annexion de Novgorod (1478)
-- Annexion de Tver (1485)
-- Expansion des relations internationales
-
-### Libération de la dépendance mongole
-**Désintégration de la Horde d'Or :**
-- Croissance des tendances centrifuges
-- Formation de khanats séparés : Kazan, Crimée, Astrakhan
-- Grande halte sur l'Ougra 1480
-- Élimination de la dépendance envers la Horde
+**Méthodes d'unification :**
+- Mariages diplomatiques
+- Pression militaire
+- Sanctions économiques
+- Justification idéologique
 
 ## Construction étatique
 
-### Code judiciaire de 1497
-**Dispositions principales :**
-- Premier code juridique pan-russe
-- Unification du système judiciaire
+### Code judiciaire de 1497 — première loi pan-russe
+
+Ce document fut une étape importante vers la création d'un système juridique unifié :
+
+**Principales innovations :**
+- Unification des procédures judiciaires
 - Régulation des relations foncières
+- Introduction du jour de la Saint-Georges pour les paysans
+- Établissement de punitions uniformes
 
-**Statut des paysans :**
-- Introduction du jour de la Saint-Georges
-- Restrictions sur les mouvements paysans
-- Début du servage
+**Signification du jour de la Saint-Georges :**
+Les paysans obtinrent le droit de déménager vers un autre propriétaire terrien seulement pendant la semaine avant et après le jour de la Saint-Georges d'automne (26 novembre). Ce fut le premier pas vers le servage.
 
-### Appareil administratif
-**Organes centraux de gouvernement :**
-- Cour du grand-prince
-- Douma des boyards
-- Système des prikazes
+### Nouveau système de gouvernance
 
-**Symboles étatiques :**
-- Armoiries - aigle bicéphale
-- Titre « souverain de toute la Russie »
-- Regalia du pouvoir
+Ivan III créa un appareil administratif centralisé :
 
-## Église et vie religieuse
+**Organes centraux :**
+- Douma des boyards — organe consultatif
+- Prikazes — prototype des ministères
+- Départements du palais
 
-### Relations Église-État
-**Josephites et Non-possesseurs :**
-- Joseph Volotski et théorie de l'origine divine du pouvoir
-- Nil Sorski et idées de non-possession
-- Disputes sur la propriété foncière ecclésiastique
+**Gouvernance locale :**
+- Gouverneurs dans les villes
+- Volostels dans les zones rurales
+- Système de kormlenie (entretien)
 
-**Mouvements religieux non orthodoxes :**
-- « Hérésie de Novgorod-Moscou »
-- Critique de l'Église officielle
-- Répression contre les hérétiques
+## « Moscou — Troisième Rome »
 
-## Développement culturel
+Après la chute de Constantinople en 1453, Moscou commença à revendiquer le rôle de centre du monde orthodoxe. Le moine Philothée formula la célèbre théorie :
 
-### Héritage du baptême de la Russie
-**Rôle du christianisme dans la culture :**
-- Changement des fondements de la vision du monde
-- Concepts du sens de la vie et de l'ordre mondial
-- Normes des relations interpersonnelles, famille et mariage
+« Deux Romes sont tombées, la troisième se tient, et il n'y en aura pas de quatrième »
 
-### Écriture et littérature
-**Développement de la littérature :**
-- Émergence de textes d'auteur
-- Littérature traduite
-- Principaux genres de la littérature vieille-russe
+**Ce que cela signifiait en pratique :**
+- Leadership religieux et politique
+- Succession de Byzance
+- Justification de la politique expansionniste
+- Renforcement du pouvoir autocratique
 
-**Œuvres remarquables :**
-- Chroniques : « Récit des temps passés »
-- Vies de saints
-- Épopée princière-drujinnique : « Dit de la campagne d'Igor », « Zadonchtchina »
-- « Enseignement » de Vladimir Monomaque
-- « Voyage au-delà de trois mers » d'Afanassi Nikitine
+## Essor culturel
 
-### Art musical
-**Chant ecclésiastique :**
-- Développement du chant znamenny
-- Notation en crochets
-- Traditions chant régionales
+L'unification du pays contribua au développement culturel :
 
-## Architecture et arts visuels
+**Architecture :**
+- Construction du Kremlin de Moscou
+- Invitation de maîtres italiens
+- Synthèse des traditions russes et européennes
 
-### Construction en pierre
-**Période précoce :**
-- Cathédrales Sainte-Sophie à Kiev, Novgorod, Polotsk
-- Influence byzantine sur l'architecture
-- Éléments ouest-européens
+**Art :**
+- Âge d'or de la peinture d'icônes (Andreï Roublev)
+- Développement de l'écriture de livres
+- Création de collections de chroniques
 
-**Écoles régionales :**
-- Temples de Vladimir-Souzdal
-- Églises de Novgorod
-- Reprise de la construction après l'invasion mongole
+## Reconnaissance internationale
 
-### Arts visuels
-**Principaux types :**
-- Mosaïques et fresques
-- Peinture d'icônes
+À la fin du XVe siècle, l'État moscovite devint un participant à part entière de la politique européenne :
 
-**Maîtres remarquables :**
-- Œuvre de Théophane le Grec
-- Andreï Roublev et sa « Trinité »
-- Invitation de maîtres italiens par Ivan III
+**Succès diplomatiques :**
+- Mariage avec la princesse byzantine Sophie Paléologue
+- Connexions avec Venise, Rome, Saint-Empire romain germanique
+- Reconnaissance du titre tsariste
 
-**Ensemble du Kremlin de Moscou :**
-- Construction de nouveaux murs et tours
-- Cathédrales de la Dormition, de l'Archange, de l'Annonciation
-- Palais à Facettes
+**Réalisations militaires :**
+- Libération de la dépendance mongole
+- Guerres réussies avec la Lituanie
+- Renforcement des frontières occidentales
 
-## Éducation et savoir
+## Héritage de l'ère
 
-### Niveau d'alphabétisation et d'éducation
-**Système éducatif :**
-- Écoles monastiques
-- Formation à l'alphabétisation dans les villes
-- Traduction d'œuvres scientifiques
+En 1505, quand Ivan III mourut, l'État moscovite représentait :
 
-**Technologies et savoirs :**
-- Technologies de construction
-- Affaires militaires
-- Connaissances médicales
-- Concepts géographiques
+- Le plus grand pays d'Europe
+- Une monarchie centralisée
+- Un empire multinational en embryon
+- Un acteur important dans les relations internationales
 
-## Importance historique
+Cette période jeta les bases de l'État russe pour les siècles suivants.`,
 
-### Résultats de la formation étatique
-**Résultats politiques :**
-- Création d'un État centralisé
-- Renforcement de la position internationale
-- Formation de l'identité nationale
+    spanish: `# Formación del Estado ruso unificado en el siglo XV
 
-**Héritage culturel :**
-- Synthèse des traditions byzantines et nationales
-- Création d'une école artistique originale
-- Fondation de la culture russe
+## ¿Por qué Moscú?
 
-La période de formation de l'État moscovite a déterminé le développement ultérieur de la Russie, a créé les conditions préalables pour devenir une grande puissance européenne et a formé des traditions culturelles uniques qui ont influencé les siècles suivants de l'histoire russe.`,
+A finales del siglo XV, las fragmentadas tierras rusas comenzaron a unirse alrededor de una ciudad pequeña pero estratégicamente importante: Moscú. ¿Por qué se convirtió en el centro de una futura gran potencia?
 
-    spanish: `# Formación del Estado ruso unificado (Moscú)
+**Ventajas geográficas:**
+- Posición central entre las tierras rusas
+- Alejamiento de fronteras peligrosas
+- Cruce de rutas comerciales
+- Tierras fértiles y protección natural
 
-## Formación del Estado ruso unificado en el siglo XV
+**Factores políticos:**
+- Hábil política de los príncipes moscovitas
+- Apoyo de la Iglesia Ortodoxa
+- Relaciones pacíficas con la Horda en etapas tempranas
+- Sistema de sucesión
 
-### Formación de estados nacionales en Europa: general y particular
-**Formación temprana de estados unificados:**
-- Francia: centralización bajo los Capetos
-- Inglaterra: conquista normanda y fortalecimiento del poder real
-- España: lucha contra dominio árabe y Reconquista
+## Gran enfrentamiento en el río Ugrá — fin del yugo mongol
 
-**Formaciones estatales supranacionales:**
-- Sacro Imperio Romano Germánico: estructura federal
-- Conservación de fragmentación en Italia y Alemania
-- Factor del poder real: destinos de Borgoña y Gran Ducado de Lituania
+El año 1480 se convirtió en un punto de inflexión en la historia rusa. Las tropas del kan Ahmed y el gran príncipe Iván III se enfrentaron en el río Ugrá, pero no se produjo ninguna batalla. Después de varias semanas de enfrentamiento, los mongoles se retiraron.
 
-## Tierras rusas dentro de varios estados
+**Por qué esto es importante:**
+- Fin formal de 240 años de dependencia
+- Nacimiento de un estado ruso soberano
+- Fortalecimiento de la autoridad internacional de Moscú
+- Ruptura psicológica en la conciencia del pueblo
 
-### Gran Ducado de Lituania en siglos XIV-XV
-**Desarrollo político:**
-- Expansión territorial a expensas de tierras rusas
-- Batalla de Grunwald 1410: victoria sobre Orden Teutónica
-- Uniones entre Polonia y Lituania: Krewo 1385, Horodło 1413
+## Iván III — reunificador de las tierras rusas
 
-**Estatus de tierras rusas:**
-- Autonomía dentro del ducado
-- Preservación de fe ortodoxa y tradiciones
-- Participación en gobierno estatal
+Apodado "reunificador de las tierras rusas", Iván III expandió metódicamente el territorio del Principado de Moscú:
 
-### Gran Principado de Moscú
-**Unificación de tierras rusas alrededor de Moscú:**
-- Ventajas geográficas y económicas
-- Apoyo de Iglesia Ortodoxa
-- Continuidad dinástica de príncipes moscovitas
+**Anexiones clave:**
+- Nóvgorod (1478)—pérdida de independencia de la república veche
+- Tver (1485)—eliminación del principal competidor
+- Yaroslavl (1463) y Rostov (1474)—inclusión pacífica
 
-**Guerra dinástica del segundo cuarto del siglo XV:**
-- Lucha por trono entre Basilio II y sus parientes
-- Cegamiento de Basilio II y sus consecuencias
-- Fortalecimiento de poder gran ducal tras victoria
-
-## Nóvgorod y Pskov en el siglo XV
-
-### Sistema político y relaciones
-**Características de estructura estatal:**
-- República veche en Nóvgorod
-- Sistema principesco-veche en Pskov
-- Elección de funcionarios
-
-**Relaciones exteriores:**
-- Relaciones con Moscú: de cooperación a confrontación
-- Contactos con Orden Teutónica en Livonia
-- Relaciones comerciales con Liga Hanseática
-- Conexiones con Gran Ducado de Lituania
-
-## Estado moscovita bajo Iván III
-
-### Cambio en estatus internacional
-**Caída de Constantinopla y sus consecuencias:**
-- 1453 - captura de Constantinopla por otomanos
-- Cambio en rol político-eclesiástico de Moscú
-- Surgimiento de doctrina "Moscú - Tercera Roma"
-
-**Política exterior de Iván III:**
-- Anexión de Nóvgorod (1478)
-- Anexión de Tver (1485)
-- Expansión de conexiones internacionales
-
-### Liberación de dependencia mongola
-**Desintegración de Horda Dorada:**
-- Crecimiento de tendencias centrífugas
-- Formación de kanatos separados: Kazán, Crimea, Astracán
-- Gran enfrentamiento en el río Ugrá 1480
-- Eliminación de dependencia de la Horda
+**Métodos de unificación:**
+- Matrimonios diplomáticos
+- Presión militar
+- Sanciones económicas
+- Justificación ideológica
 
 ## Construcción estatal
 
-### Código Legal de 1497
-**Disposiciones principales:**
-- Primer código legal pan-ruso
-- Unificación de sistema judicial
+### Código Legal de 1497 — primera ley pan-rusa
+
+Este documento fue un paso importante hacia la creación de un sistema legal unificado:
+
+**Principales innovaciones:**
+- Unificación de procedimientos judiciales
 - Regulación de relaciones terratenientes
+- Introducción del Día de San Jorge para campesinos
+- Establecimiento de castigos uniformes
 
-**Situación de campesinos:**
-- Introducción del Día de San Jorge
-- Restricciones a movimientos campesinos
-- Inicio de servidumbre
+**Significado del Día de San Jorge:**
+Los campesinos obtuvieron el derecho a mudarse a otro terrateniente solo durante la semana antes y después del Día de San Jorge de otoño (26 de noviembre). Esto se convirtió en el primer paso hacia la servidumbre.
 
-### Aparato administrativo
-**Órganos centrales de gobierno:**
-- Corte del gran príncipe
-- Duma de boyardos
-- Sistema de prikaz
+### Nuevo sistema de gobierno
 
-**Simbología estatal:**
-- Escudo - águila bicéfala
-- Título "soberano de toda Rus"
-- Insignias de poder
+Iván III creó un aparato administrativo centralizado:
 
-## Iglesia y vida religiosa
+**Órganos centrales:**
+- Duma de boyardos—órgano consultivo
+- Prikaz—prototipo de ministerios
+- Departamentos palaciegos
 
-### Relaciones Iglesia-Estado
-**Josephitas y No-posesores:**
-- José Volotski y teoría de origen divino del poder
-- Nil Sorski e ideas de no-posesión
-- Disputas sobre tenencia de tierras eclesiásticas
+**Gobierno local:**
+- Gobernadores en ciudades
+- Volostels en áreas rurales
+- Sistema de kormlenie (sustento)
 
-**Movimientos religiosos no ortodoxos:**
-- "Herejía de Nóvgorod-Moscú"
-- Crítica a iglesia oficial
-- Represiones contra herejes
+## "Moscú — Tercera Roma"
 
-## Desarrollo cultural
+Después de la caída de Constantinopla en 1453, Moscú comenzó a reclamar el papel de centro del mundo ortodoxo. El monje Filoteo formuló la famosa teoría:
 
-### Legado del bautismo de Rus
-**Rol del cristianismo en cultura:**
-- Cambio en bases de cosmovisión
-- Conceptos sobre sentido de vida y orden mundial
-- Normas de relaciones interpersonales, familia y matrimonio
+"Dos Romas han caído, la tercera permanece, y no habrá una cuarta"
 
-### Escritura y literatura
-**Desarrollo de literatura:**
-- Surgimiento de textos de autor
-- Literatura traducida
-- Principales géneros de literatura antigua rusa
+**Lo que esto significó en la práctica:**
+- Liderazgo religioso y político
+- Sucesión de Bizancio
+- Justificación de política expansionista
+- Fortalecimiento del poder autocrático
 
-**Obras destacadas:**
-- Crónicas: "Relato de los años pasados"
-- Vidas de santos
-- Épica principesco-druzhínica: "Cantar de la hueste de Ígor", "Zadónschina"
-- "Instrucción" de Vladimiro Monómaco
-- "Viaje más allá de tres mares" de Afanasi Nikitin
+## Florecimiento cultural
 
-### Arte musical
-**Canto eclesiástico:**
-- Desarrollo de canto znamenny
-- Notación de kryuki
-- Tradiciones cantonales regionales
+La unificación del país contribuyó al desarrollo cultural:
 
-## Arquitectura y artes visuales
+**Arquitectura:**
+- Construcción del Kremlin de Moscú
+- Invitación de maestros italianos
+- Síntesis de tradiciones rusas y europeas
 
-### Construcción en piedra
-**Periodo temprano:**
-- Catedrales de Santa Sofía en Kiev, Nóvgorod, Polotsk
-- Influencia bizantina en arquitectura
-- Elementos europeos occidentales
+**Arte:**
+- Edad de oro de la pintura de iconos (Andrés Rubliov)
+- Desarrollo de la escritura de libros
+- Creación de colecciones de crónicas
 
-**Escuelas regionales:**
-- Templos de Vladímir-Súzdal
-- Iglesias de Nóvgorod
-- Reanudación de construcción tras invasión mongola
+## Reconocimiento internacional
 
-### Artes visuales
-**Tipos principales:**
-- Mosaicos y frescos
-- Pintura de iconos
+A finales del siglo XV, el Estado moscovita se convirtió en un participante completo de la política europea:
 
-**Maestros destacados:**
-- Obra de Teófanes el Griego
-- Andrés Rubliov y su "Trinidad"
-- Invitación de maestros extranjeros por Iván III
+**Éxitos diplomáticos:**
+- Matrimonio con la princesa bizantina Sofía Paleóloga
+- Conexiones con Venecia, Roma, Sacro Imperio Romano Germánico
+- Reconocimiento del título zarista
 
-**Conjunto del Kremlin de Moscú:**
-- Construcción de nuevos muros y torres
-- Catedrales de la Dormición, del Arcángel, de la Anunciación
-- Palacio de las Facetas
+**Logros militares:**
+- Liberación de la dependencia mongola
+- Guerras exitosas con Lituania
+- Fortalecimiento de fronteras occidentales
 
-## Educación y conocimiento
+## Legado de la era
 
-### Nivel de alfabetización y enseñanza
-**Sistema educativo:**
-- Escuelas monásticas
-- Enseñanza de alfabetización en ciudades
-- Traducción de obras científicas
+Para 1505, cuando Iván III murió, el Estado moscovita representaba:
 
-**Tecnologías y conocimientos:**
-- Tecnologías de construcción
-- Asuntos militares
-- Conocimientos médicos
-- Conceptos geográficos
+- El país más grande de Europa
+- Una monarquía centralizada
+- Un imperio multinacional en embrión
+- Un actor importante en relaciones internacionales
 
-## Significado histórico
-
-### Resultados de formación estatal
-**Resultados políticos:**
-- Creación de estado centralizado
-- Fortalecimiento de posición internacional
-- Formación de identidad nacional
-
-**Legado cultural:**
-- Síntesis de tradiciones bizantinas y nacionales
-- Creación de escuela artística original
-- Cimentación de cultura rusa
-
-El período de formación del Estado moscovita determinó el desarrollo posterior de Rusia, creó prerrequisitos para convertirse en gran potencia europea y formó tradiciones culturales únicas que influyeron en siglos posteriores de historia rusa.`
+Este período sentó las bases del estado ruso para los siglos siguientes.`
   },
   relatedMuseum: "Moscow Kremlin Museums",
   museumConnection: {
-    russian: `Московский Кремль является главным музеем-заповедником, иллюстрирующим становление единого Русского государства:
+    russian: `Московский Кремль — это живой учебник истории становления русского государства. Прогуливаясь по его территории, можно буквально "прочитать" историю XV века:
 
-**Архитектурный ансамбль Кремля**
-- Успенский собор - место венчания на царство
-- Архангельский собор - усыпальница московских князей
-- Благовещенский собор - домовая церковь великих князей
-- Грановитая палата - место приема иностранных послов
+**Успенский собор (1475-1479)**
+- Построен итальянским архитектором Аристотелем Фиораванти
+- Место венчания на царство всех русских правителей
+- Образец синтеза русской и итальянской архитектурных традиций
 
-**Государственные регалии**
-- Шапка Мономаха - символ царской власти
-- Трон Ивана Грозного
-- Царские облачения и предметы церемониала
+**Грановитая палата (1487-1491)**
+- Первое гражданское здание из кирпича в Москве
+- Место приема иностранных послов и важных государственных церемоний
+- Демонстрация мощи и богатства Московского государства
 
-**Иконы и фрески**
-- Иконостас Успенского собора работы Феофана Грека
-- Фрески Архангельского собора
-- Иконы Андрея Рублева и Дионисия
+**Стены и башни Кремля (1485-1495)**
+- Строительство под руководством итальянских мастеров
+- Превращение Кремля в неприступную крепость
+- Символ защиты и единства русских земель
 
-**Документы и рукописи**
-- Судебник 1497 года
-- Летописные своды
-- Дипломатическая переписка Ивана III
+**Царь-пушка и Царь-колокол**
+- Памятники русского литейного искусства XVI-XVII веков
+- Демонстрация технологического развития государства
+- Символы мощи и величия России
 
-Московский Кремль представляет собой уникальный комплекс, демонстрирующий процесс централизации власти, развитие государственной символики и формирование идеологии Московского царства.`,
+Экспозиции Оружейной палаты и Алмазного фонда сохранили материальные свидетельства эпохи: царские регалии, дипломатические дары, предметы быта, которые помогают понять, как жили и мыслили люди того времени.`,
 
-    english: `The Moscow Kremlin is the main museum-reserve illustrating the formation of the unified Russian state:
+    english: `The Moscow Kremlin is a living textbook of the history of Russian state formation. Walking through its territory, you can literally "read" the history of the 15th century:
 
-**Kremlin Architectural Ensemble**
-- Dormition Cathedral - coronation site
-- Archangel Cathedral - burial place of Moscow princes
-- Annunciation Cathedral - house church of grand princes
-- Faceted Palace - reception site for foreign ambassadors
+**Dormition Cathedral (1475-1479)**
+- Built by Italian architect Aristotle Fioravanti
+- Coronation site of all Russian rulers
+- Example of synthesis of Russian and Italian architectural traditions
 
-**State Regalia**
-- Monomakh's Cap - symbol of tsarist power
-- Throne of Ivan the Terrible
-- Tsarist vestments and ceremonial items
+**Faceted Palace (1487-1491)**
+- First civil brick building in Moscow
+- Reception site for foreign ambassadors and important state ceremonies
+- Demonstration of the power and wealth of the Moscow State
 
-**Icons and Frescoes**
-- Iconostasis of Dormition Cathedral by Theophanes the Greek
-- Frescoes of Archangel Cathedral
-- Icons by Andrei Rublev and Dionisiy
+**Kremlin Walls and Towers (1485-1495)**
+- Construction under guidance of Italian masters
+- Transformation of the Kremlin into an impregnable fortress
+- Symbol of protection and unity of Russian lands
 
-**Documents and Manuscripts**
-- Sudebnik of 1497
-- Chronicle collections
-- Diplomatic correspondence of Ivan III
+**Tsar Cannon and Tsar Bell**
+- Monuments of Russian casting art from 16th-17th centuries
+- Demonstration of technological development of the state
+- Symbols of Russia's power and greatness
 
-The Moscow Kremlin represents a unique complex demonstrating the process of power centralization, development of state symbolism, and formation of Muscovite Tsardom ideology.`,
+The exhibitions of the Armory Chamber and Diamond Fund preserve material evidence of the era: royal regalia, diplomatic gifts, household items that help understand how people lived and thought at that time.`,
 
-    french: `Le Kremlin de Moscou est le principal musée-réserve illustrant la formation de l'État russe unifié :
+    french: `Le Kremlin de Moscou est un manuel d'histoire vivant de la formation de l'État russe. En se promenant sur son territoire, on peut littéralement « lire » l'histoire du XVe siècle :
 
-**Ensemble architectural du Kremlin**
-- Cathédrale de la Dormition - lieu de couronnement
-- Cathédrale de l'Archange - lieu de sépulture des princes moscovites
-- Cathédrale de l'Annonciation - église domestique des grands-princes
-- Palais à Facettes - lieu de réception des ambassadeurs étrangers
+**Cathédrale de la Dormition (1475-1479)**
+- Construite par l'architecte italien Aristotle Fioravanti
+- Lieu de couronnement de tous les souverains russes
+- Exemple de synthèse des traditions architecturales russes et italiennes
 
-**Regalia d'État**
-- Couronne de Monomaque - symbole du pouvoir tsariste
-- Trône d'Ivan le Terrible
-- Vêtements tsaristes et objets cérémoniels
+**Palais à Facettes (1487-1491)**
+- Premier bâtiment civil en brique à Moscou
+- Lieu de réception des ambassadeurs étrangers et des cérémonies d'État importantes
+- Démonstration de la puissance et de la richesse de l'État moscovite
 
-**Icônes et fresques**
-- Iconostase de la cathédrale de la Dormition par Théophane le Grec
-- Fresques de la cathédrale de l'Archange
-- Icônes d'Andreï Roublev et Dionisi
+**Murs et tours du Kremlin (1485-1495)**
+- Construction sous la direction de maîtres italiens
+- Transformation du Kremlin en forteresse imprenable
+- Symbole de la protection et de l'unité des terres russes
 
-**Documents et manuscrits**
-- Code judiciaire de 1497
-- Collections de chroniques
-- Correspondance diplomatique d'Ivan III
+**Tsar Pouchka et Tsar Kolokol**
+- Monuments de l'art de la fonderie russe des XVIe-XVIIe siècles
+- Démonstration du développement technologique de l'État
+- Symboles de la puissance et de la grandeur de la Russie
 
-Le Kremlin de Moscou représente un complexe unique démontrant le processus de centralisation du pouvoir, le développement de la symbolique étatique et la formation de l'idéologie du Tsarat de Moscou.`,
+Les expositions de la Chambre de l'Armurerie et du Fonds des Diamants conservent des preuves matérielles de l'époque : regalia royaux, cadeaux diplomatiques, objets domestiques qui aident à comprendre comment les gens vivaient et pensaient à cette époque.`,
 
-    spanish: `El Kremlin de Moscú es el principal museo-reserva que ilustra la formación del estado ruso unificado:
+    spanish: `El Kremlin de Moscú es un libro de texto viviente de la historia de la formación del estado ruso. Caminando por su territorio, se puede literalmente "leer" la historia del siglo XV:
 
-**Conjunto arquitectónico del Kremlin**
-- Catedral de la Dormición - lugar de coronación
-- Catedral del Arcángel - lugar de sepultura de príncipes moscovitas
-- Catedral de la Anunciación - iglesia doméstica de grandes príncipes
-- Palacio de las Facetas - lugar de recepción de embajadores extranjeros
+**Catedral de la Dormición (1475-1479)**
+- Construida por el arquitecto italiano Aristóteles Fioravanti
+- Lugar de coronación de todos los gobernantes rusos
+- Ejemplo de síntesis de tradiciones arquitectónicas rusas e italianas
 
-**Insignias estatales**
-- Corona de Monómaco - símbolo de poder zarista
-- Trono de Iván el Terrible
-- Vestimentas zaristas y objetos ceremoniales
+**Palacio de las Facetas (1487-1491)**
+- Primer edificio civil de ladrillo en Moscú
+- Lugar de recepción de embajadores extranjeros y ceremonias estatales importantes
+- Demostración del poder y riqueza del Estado moscovita
 
-**Iconos y frescos**
-- Iconostasio de la Catedral de la Dormición por Teófanes el Griego
-- Frescos de la Catedral del Arcángel
-- Iconos de Andrés Rubliov y Dionisiy
+**Muros y torres del Kremlin (1485-1495)**
+- Construcción bajo dirección de maestros italianos
+- Transformación del Kremlin en fortaleza inexpugnable
+- Símbolo de protección y unidad de las tierras rusas
 
-**Documentos y manuscritos**
-- Código Legal de 1497
-- Colecciones de crónicas
-- Correspondencia diplomática de Iván III
+**Zar Cañón y Zar Campana**
+- Monumentos del arte de fundición ruso de siglos XVI-XVII
+- Demostración del desarrollo tecnológico del estado
+- Símbolos del poder y grandeza de Rusia
 
-El Kremlin de Moscú representa un complejo único que demuestra el proceso de centralización del poder, desarrollo de simbología estatal y formación de la ideología del Zarato moscovita.`
+Las exposiciones de la Armería y el Fondo de Diamantes conservan evidencia material de la era: insignias reales, regalos diplomáticos, objetos domésticos que ayudan a entender cómo vivían y pensaban las personas de esa época.`
   },
   quiz: [
     {
       question: {
-        russian: "Какое событие считается окончанием зависимости русских земель от Орды?",
-        english: "What event is considered the end of Russian lands' dependence from the Horde?",
-        french: "Quel événement est considéré comme la fin de la dépendance des terres russes envers la Horde?",
-        spanish: "¿Qué evento se considera el fin de la dependencia de las tierras rusas de la Horda?"
+        russian: "Какой из перечисленных факторов НЕ был решающим для возвышения Москвы в XIV-XV веках?",
+        english: "Which of the following factors was NOT decisive for Moscow's rise in the 14th-15th centuries?",
+        french: "Lequel des facteurs suivants n'était PAS décisif pour l'ascension de Moscou aux XIVe-XVe siècles ?",
+        spanish: "¿Cuál de los siguientes factores NO fue decisivo para el ascenso de Moscú en los siglos XIV-XV?"
       },
       options: [
         {
-          russian: "Великое стояние на Угре 1480 года",
-          english: "Great Stand on the Ugra River 1480",
-          french: "Grande halte sur l'Ougra 1480",
-          spanish: "Gran enfrentamiento en el río Ugrá 1480"
+          russian: "Наличие крупных месторождений золота и серебра",
+          english: "Presence of large gold and silver deposits",
+          french: "Présence de grands gisements d'or et d'argent",
+          spanish: "Presencia de grandes depósitos de oro y plata"
         },
         {
-          russian: "Куликовская битва 1380 года",
-          english: "Battle of Kulikovo 1380",
-          french: "Bataille de Koulikovo 1380",
-          spanish: "Batalla de Kulikovo 1380"
+          russian: "Выгодное географическое положение в центре русских земель",
+          english: "Favorable geographical position in the center of Russian lands",
+          french: "Position géographique favorable au centre des terres russes",
+          spanish: "Posición geográfica favorable en el centro de las tierras rusas"
         },
         {
-          russian: "Битва на реке Воже 1378 года",
-          english: "Battle on the Vozha River 1378",
-          french: "Bataille sur la rivière Vozha 1378",
-          spanish: "Batalla en el río Vozha 1378"
+          russian: "Поддержка со стороны православной церкви",
+          english: "Support from the Orthodox Church",
+          french: "Soutien de l'Église orthodoxe",
+          spanish: "Apoyo de la Iglesia Ortodoxa"
         },
         {
-          russian: "Падение Казани 1552 года",
-          english: "Fall of Kazan 1552",
-          french: "Chute de Kazan 1552",
-          spanish: "Caída de Kazán 1552"
+          russian: "Умелая дипломатическая политика московских князей",
+          english: "Skillful diplomatic policy of Moscow princes",
+          french: "Politique diplomatique habile des princes moscovites",
+          spanish: "Hábil política diplomática de los príncipes moscovitas"
         }
       ],
       correctAnswer: 0
     },
     {
       question: {
-        russian: "Какой документ впервые законодательно ограничил переход крестьян?",
-        english: "Which document first legally restricted peasant movements?",
-        french: "Quel document a premièrement restreint légalement les mouvements paysans?",
-        spanish: "¿Qué documento primero restringió legalmente los movimientos campesinos?"
+        russian: "Какое историческое значение имело введение Юрьева дня по Судебнику 1497 года?",
+        english: "What was the historical significance of introducing St. George's Day according to the Sudebnik of 1497?",
+        french: "Quelle était la signification historique de l'introduction du jour de la Saint-Georges selon le Code judiciaire de 1497 ?",
+        spanish: "¿Qué significado histórico tuvo la introducción del Día de San Jorge según el Código Legal de 1497?"
       },
       options: [
         {
-          russian: "Судебник 1497 года",
-          english: "Sudebnik of 1497",
-          french: "Code judiciaire de 1497",
-          spanish: "Código Legal de 1497"
+          russian: "Установление ежегодного церковного праздника в честь святого Георгия",
+          english: "Establishment of an annual church holiday in honor of St. George",
+          french: "Établissement d'une fête ecclésiastique annuelle en l'honneur de saint Georges",
+          spanish: "Establecimiento de una fiesta eclesiástica anual en honor a San Jorge"
         },
         {
-          russian: "Русская Правда",
-          english: "Russkaya Pravda",
-          french: "Rousskaïa Pravda",
-          spanish: "Rúskaya Pravda"
+          russian: "Начало процесса закрепощения крестьянства в России",
+          english: "Beginning of the process of peasant enserfment in Russia",
+          french: "Début du processus d'asservissement des paysans en Russie",
+          spanish: "Inicio del proceso de servidumbre campesina en Rusia"
         },
         {
-          russian: "Соборное Уложение 1649 года",
-          english: "Sobornoye Ulozheniye of 1649",
-          french: "Oulojénié de 1649",
-          spanish: "Ulozheniye de 1649"
+          russian: "Введение нового сельскохозяйственного календаря",
+          english: "Introduction of a new agricultural calendar",
+          french: "Introduction d'un nouveau calendrier agricole",
+          spanish: "Introducción de un nuevo calendario agrícola"
         },
         {
-          russian: "Уставная грамота 1397 года",
-          english: "Charter of 1397",
-          french: "Charte de 1397",
-          spanish: "Carta de 1397"
+          russian: "Установление дня проведения вечевых собраний в Новгороде",
+          english: "Establishment of the day for veche assemblies in Novgorod",
+          french: "Établissement du jour des assemblées véché à Novgorod",
+          spanish: "Establecimiento del día para asambleas veche en Nóvgorod"
+        }
+      ],
+      correctAnswer: 1
+    },
+    {
+      question: {
+        russian: "Какое из этих событий произошло ПОЗЖЕ всех остальных?",
+        english: "Which of these events happened LATER than all the others?",
+        french: "Lequel de ces événements s'est produit PLUS TARD que tous les autres ?",
+        spanish: "¿Cuál de estos eventos ocurrió MÁS TARDE que todos los demás?"
+      },
+      options: [
+        {
+          russian: "Куликовская битва",
+          english: "Battle of Kulikovo",
+          french: "Bataille de Koulikovo",
+          spanish: "Batalla de Kulikovo"
+        },
+        {
+          russian: "Падение Константинополя",
+          english: "Fall of Constantinople",
+          french: "Chute de Constantinople",
+          spanish: "Caída de Constantinopla"
+        },
+        {
+          russian: "Принятие Судебника Ивана III",
+          english: "Adoption of Ivan III's Sudebnik",
+          french: "Adoption du Code judiciaire d'Ivan III",
+          spanish: "Adopción del Código Legal de Iván III"
+        },
+        {
+          russian: "Битва на реке Калке",
+          english: "Battle on the Kalka River",
+          french: "Bataille sur la rivière Kalka",
+          spanish: "Batalla en el río Kalka"
+        }
+      ],
+      correctAnswer: 2
+    },
+    {
+      question: {
+        russian: "Что означала теория «Москва — третий Рим» в практической политике Ивана III?",
+        english: "What did the theory \"Moscow - Third Rome\" mean in Ivan III's practical politics?",
+        french: "Que signifiait la théorie « Moscou - Troisième Rome » dans la politique pratique d'Ivan III ?",
+        spanish: "¿Qué significó la teoría \"Moscú - Tercera Roma\" en la política práctica de Iván III?"
+      },
+      options: [
+        {
+          russian: "Обоснование претензий на византийское наследство и лидерство в православном мире",
+          english: "Justification of claims to Byzantine heritage and leadership in the Orthodox world",
+          french: "Justification des revendications sur l'héritage byzantin et le leadership dans le monde orthodoxe",
+          spanish: "Justificación de reclamos sobre herencia bizantina y liderazgo en el mundo ortodoxo"
+        },
+        {
+          russian: "Планы по завоеванию Рима и создания всемирной империи",
+          english: "Plans to conquer Rome and create a world empire",
+          french: "Plans de conquête de Rome et de création d'un empire mondial",
+          spanish: "Planes para conquistar Roma y crear un imperio mundial"
+        },
+        {
+          russian: "Намерение перенести столицу России в Константинополь",
+          english: "Intention to move Russia's capital to Constantinople",
+          french: "Intention de déplacer la capitale de la Russie à Constantinople",
+          spanish: "Intención de mover la capital de Rusia a Constantinopla"
+        },
+        {
+          russian: "Отказ от православия и переход в католичество",
+          english: "Rejection of Orthodoxy and conversion to Catholicism",
+          french: "Rejet de l'orthodoxie et conversion au catholicisme",
+          spanish: "Rechazo de la ortodoxia y conversión al catolicismo"
         }
       ],
       correctAnswer: 0
     },
     {
       question: {
-        russian: "Какая битва положила конец экспансии Тевтонского ордена в Восточной Европе?",
-        english: "Which battle ended the Teutonic Order's expansion in Eastern Europe?",
-        french: "Quelle bataille a mis fin à l'expansion de l'Ordre Teutonique en Europe orientale?",
-        spanish: "¿Qué batalla terminó con la expansión de la Orden Teutónica en Europa Oriental?"
+        russian: "Какое архитектурное сооружение Московского Кремля было построено ПЕРВЫМ из перечисленных?",
+        english: "Which architectural structure of Moscow Kremlin was built FIRST from those listed?",
+        french: "Laquelle de ces structures architecturales du Kremlin de Moscou a été construite en PREMIÈRE ?",
+        spanish: "¿Qué estructura arquitectónica del Kremlin de Moscú fue construida PRIMERO de las listadas?"
       },
       options: [
         {
-          russian: "Грюнвальдская битва 1410 года",
-          english: "Battle of Grunwald 1410",
-          french: "Bataille de Grunwald 1410",
-          spanish: "Batalla de Grunwald 1410"
+          russian: "Храм Василия Блаженного на Красной площади",
+          english: "St. Basil's Cathedral on Red Square",
+          french: "Cathédrale Saint-Basile sur la place Rouge",
+          spanish: "Catedral de San Basilio en la Plaza Roja"
         },
-        {
-          russian: "Ледовое побоище 1242 года",
-          english: "Battle on the Ice 1242",
-          french: "Bataille de la glace 1242",
-          spanish: "Batalla del Hielo 1242"
-        },
-        {
-          russian: "Битва при Шяуляе 1236 года",
-          english: "Battle of Saule 1236",
-          french: "Bataille de Saulé 1236",
-          spanish: "Batalla de Saule 1236"
-        },
-        {
-          russian: "Битва при Дурбе 1260 года",
-          english: "Battle of Durbe 1260",
-          french: "Bataille de Durbe 1260",
-          spanish: "Batalla de Durbe 1260"
-        }
-      ],
-      correctAnswer: 0
-    },
-    {
-      question: {
-        russian: "Какой собор Московского Кремля стал главным храмом русского государства?",
-        english: "Which cathedral of Moscow Kremlin became the main church of the Russian state?",
-        french: "Quelle cathédrale du Kremlin de Moscou est devenue l'église principale de l'État russe?",
-        spanish: "¿Qué catedral del Kremlin de Moscú se convirtió en la iglesia principal del estado ruso?"
-      },
-      options: [
         {
           russian: "Успенский собор",
           english: "Dormition Cathedral",
@@ -1007,81 +760,40 @@ El Kremlin de Moscú representa un complejo único que demuestra el proceso de c
           spanish: "Catedral de la Dormición"
         },
         {
-          russian: "Архангельский собор",
-          english: "Archangel Cathedral",
-          french: "Cathédrale de l'Archange",
-          spanish: "Catedral del Arcángel"
+          russian: "Большой Кремлевский дворец",
+          english: "Grand Kremlin Palace",
+          french: "Grand Palais du Kremlin",
+          spanish: "Gran Palacio del Kremlin"
         },
         {
-          russian: "Благовещенский собор",
-          english: "Annunciation Cathedral",
-          french: "Cathédrale de l'Annonciation",
-          spanish: "Catedral de la Anunciación"
-        },
-        {
-          russian: "Покровский собор",
-          english: "Intercession Cathedral",
-          french: "Cathédrale de l'Intercession",
-          spanish: "Catedral de la Intercesión"
+          russian: "Оружейная палата",
+          english: "Armory Chamber",
+          french: "Chambre de l'Armurerie",
+          spanish: "Cámara de la Armería"
         }
       ],
-      correctAnswer: 0
-    },
-    {
-      question: {
-        russian: "Какая религиозная доктрина обосновывала особую роль Москвы после падения Константинополя?",
-        english: "Which religious doctrine justified Moscow's special role after the fall of Constantinople?",
-        french: "Quelle doctrine religieuse justifiait le rôle spécial de Moscou après la chute de Constantinople?",
-        spanish: "¿Qué doctrina religiosa justificó el rol especial de Moscú tras la caída de Constantinopla?"
-      },
-      options: [
-        {
-          russian: "«Москва — третий Рим»",
-          english: "«Moscow - Third Rome»",
-          french: "« Moscou - Troisième Rome »",
-          spanish: "«Moscú - Tercera Roma»"
-        },
-        {
-          russian: "Теория «Симфонии властей»",
-          english: "Theory of «Symphony of Powers»",
-          french: "Théorie de la « Symphonie des pouvoirs »",
-          spanish: "Teoría de la «Sinfonía de poderes»"
-        },
-        {
-          russian: "Доктрина «Двух мечей»",
-          english: "Doctrine of «Two Swords»",
-          french: "Doctrine des « Deux épées »",
-          spanish: "Doctrina de las «Dos espadas»"
-        },
-        {
-          russian: "Концепция «Нового Иерусалима»",
-          english: "Concept of «New Jerusalem»",
-          french: "Concept de la « Nouvelle Jérusalem »",
-          spanish: "Concepto de la «Nueva Jerusalén»"
-        }
-      ],
-      correctAnswer: 0
+      correctAnswer: 1
     }
   ],
   learningObjectives: [
-    "Analyze the process of Russian lands unification around Moscow",
-    "Compare the formation of national states in Europe and Russia",
-    "Evaluate the significance of liberation from Mongol dependence",
-    "Understand the state building under Ivan III",
-    "Assess the cultural and religious development of the period",
-    "Recognize the international position of Moscow State"
+    "Understand the reasons for Moscow's rise as the center of Russian unification",
+    "Analyze the significance of the end of Mongol dependence",
+    "Evaluate Ivan III's methods of state building",
+    "Explain the ideological foundations of Moscow's claims to leadership",
+    "Assess the cultural achievements of the period",
+    "Recognize the international position of the emerging Russian state"
   ],
   keyConcepts: [
     "Centralization of power",
-    "National state formation",
-    "Mongol dependence",
+    "Mongol yoke liberation",
     "State building",
-    "Church-state relations",
+    "Legal codification",
+    "Ideological justification",
     "Cultural synthesis",
-    "International relations",
-    "Political ideology",
-    "Administrative system",
-    "Cultural heritage"
+    "International recognition",
+    "Territorial expansion",
+    "Administrative reforms",
+    "Religious authority"
   ]
 };
 

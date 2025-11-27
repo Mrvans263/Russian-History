@@ -8,1052 +8,608 @@ const lecture6 = {
     spanish: "Lección 6. Rusia y el mundo al inicio de la Era Moderna. Finalización de la unificación de las tierras rusas"
   },
   content: {
-    russian: `# Россия и мир к началу эпохи Нового времени. Завершение объединения русских земель
-
-## Россия в начале XVI в.
-
-### Завершение процесса объединения русских земель
-**Территориальное расширение Московского государства:**
-- Включение Брянска и Северских земель
-- Присоединение Пскова (1510 г.)
-- Возвращение Смоленска (1514 г.)
-- Вхождение Рязани в состав государства (1521 г.)
-
-**Внешняя политика первой трети XVI в.:**
-- Военные конфликты с Великим княжеством Литовским
-- Противостояние с Крымским ханством
-- Борьба с Казанским ханством
-
-### Правление Василия III Ивановича
-**Усиление великокняжеской власти:**
-- Формирование аппарата центрального управления
-- Деятельность Боярской думы
-- Создание первых приказов
-- Ликвидация удельной системы
-
-**Идеологическое обоснование власти:**
-- Завершение формирования доктрины "Москва – Третий Рим"
-- Формула монаха Филофея о духовном преемстве
-
-### Церковная и политическая борьба
-**Идейно-политическая борьба в Русской православной церкви:**
-- "Иосифляне" – сторонники церковного землевладения
-- "Нестяжатели" – противники церковного богатства
-- Взаимоотношения между светской и церковной властью
-
-## Мировые процессы начала Нового времени
-
-### Формирование национальных государств в Европе
-**Политическая трансформация:**
-- Создание централизованных государств
-- Османский фактор и его влияние на Европу
-- Изменение экономической и политической ситуации
-
-### Великие географические открытия
-**Расширение горизонтов европейской цивилизации:**
-- Открытие Америки Христофором Колумбом
-- Первые кругосветные путешествия
-- Испанская конкиста в Америке
-- Проникновение португальцев в Индию, Китай и Японию
-
-**Экономические последствия:**
-- Смещение основных торговых путей в океаны
-- "Революция цен" в Европе
-- Становление капиталистических форм производства
-
-### Социально-экономическое развитие Европы
-**Дивергенция путей развития:**
-- Капиталистические отношения в Западной Европе
-- "Второе издание крепостничества" в Восточной Европе
-- Региональные особенности экономического развития
-
-### Религиозные движения
-**Реформация и контрреформация:**
-- Распространение протестантизма в Европе
-- Деятельность католической церкви по сохранению влияния
-- Религиозные войны во Франции
-
-## Эпоха Ивана IV Грозного
-
-### Начало правления
-**Регентство и боярское правление:**
-- Регентство великой княгини Елены Глинской
-- Период боярского правления после ее смерти
-- Официальное принятие Иваном IV царского титула (1547 г.)
-
-### Реформы "Избранной рады"
-**Правительственные преобразования:**
-- Оформление приказной системы органов центрального управления
-- Земская реформа – создание органов местного самоуправления
-- Первые Земские соборы и сословное представительство
-
-**Законодательные и церковные реформы:**
-- Принятие общерусского Судебника 1550 г.
-- "Стоглавый собор" 1551 г. и церковные реформы
-- Усиление зависимости Русской православной церкви от государства
-
-**Военная реорганизация:**
-- Уложение о службе
-- Формирование стрелецких полков
-- Падение правительства "Избранной рады"
-
-### Опричнина
-**Споры о причинах и характере:**
-- Различные трактовки в исторической науке
-- Послания Ивана Грозного о сущности самодержавной власти
-- Переписка с князем Андреем Курбским
-
-**Опричный террор и его последствия:**
-- Разорение Новгорода и Пскова
-- Массовые репрессии и конфискации земель
-- Отмена опричнины и ее исторические последствия
-
-**Последние годы правления:**
-- "Великое княжение" Симеона Бекбулатовича
-- Продолжение политики укрепления самодержавия
-
-## Внешняя политика Московского государства
-
-### Западное направление
-**Военные конфликты с соседями:**
-- Столкновения с Великим княжеством Литовским (Речью Посполитой)
-- Военные действия против Швеции
-- Ливонская война: задачи и причины поражения России
-
-**Развитие международных связей:**
-- Расширение политических и экономических контактов со странами Европы
-- Начало морской торговли через гавани Белого моря
-
-### Восточное направление
-**Борьба с татарскими ханствами:**
-- Включение Казанского ханства в состав России
-- Присоединение Астраханского ханства
-- Походы на Крым и набеги крымских ханов
-
-**Важные военные события:**
-- Молодинская битва и ее историческое значение
-- Усиление влияния на Ногайскую орду
-- Установление связей с государствами Северного Кавказа
-
-**Первые контакты с Османской империей:**
-- Первое столкновение в 1569 году
-- Установление дипломатических отношений
-
-### Экспансия на восток
-**Начало освоения Сибири:**
-- Поход атамана Ермака Тимофеевича
-- Начало присоединения Западной Сибири
-- Освоение новых территорий и ресурсов
-
-## Социально-экономическое развитие
-
-### Экономическая структура
-**Аграрный характер экономики:**
-- Преобладание сельского хозяйства
-- Низкий уровень урбанизации
-- Архаичные способы земледелия
-- Господство натурального хозяйства
-
-### Ремесло и торговля
-**Развитие производственной сферы:**
-- Рост ремесленного производства
-- Специализация городского ремесла
-- Развитие внутренней торговли
-
-**Денежная система и финансы:**
-- Денежная реформа правительства Елены Глинской
-- Складывание единой монетной системы в России
-
-### Региональная специализация
-**Территориальное разделение труда:**
-- Хозяйственная специализация регионов
-- Развитие внешней торговли с Азией и Европой
-- Расцвет городов на волжском и беломорском торговых путях
-- Упадок Новгорода и Пскова
-
-## Историческое значение периода
-
-### Место России в мировом процессе
-**Особенности исторического развития:**
-- Создание единого национального государства
-- Синхронность с европейскими процессами
-- Геополитическое положение на периферии Европы
-
-**Социально-экономические особенности:**
-- Консервация крепостнических тенденций
-- Развитие феодальных отношений
-- Особенности геополитического положения
-
-### Политическое развитие
-**Формирование абсолютистской модели:**
-- Становление российского самодержавия
-- Ускорение в годы правления Ивана IV Грозного
-- Утверждение неограниченности власти монарха
-- Роль опричнины в укреплении самодержавия
-
-**Сравнительный анализ:**
-- Параллели с европейским абсолютизмом
-- Национальные особенности российской государственности
-- Исторические последствия выбранного пути развития`,
-
-    english: `# Russia and the World at the Beginning of the Modern Era. Completion of the Unification of Russian Lands
-
-## Russia in the Early 16th Century
-
-### Completion of the Unification Process
-**Territorial expansion of the Muscovite State:**
-- Inclusion of Bryansk and Seversk lands
-- Annexation of Pskov (1510)
-- Return of Smolensk (1514)
-- Incorporation of Ryazan into the state (1521)
-
-**Foreign policy in the first third of the 16th century:**
-- Military conflicts with the Grand Duchy of Lithuania
-- Confrontation with the Crimean Khanate
-- Struggle with the Kazan Khanate
-
-### Reign of Vasily III Ivanovich
-**Strengthening of Grand Princely Power:**
-- Formation of central administration apparatus
-- Activities of the Boyar Duma
-- Creation of the first prikazy (government offices)
-- Liquidation of the appanage system
-
-**Ideological justification of power:**
-- Completion of the "Moscow - Third Rome" doctrine
-- Monk Filofei's formula about spiritual succession
-
-### Church and Political Struggle
-**Ideological-political struggle in the Russian Orthodox Church:**
-- "Josephites" - supporters of church landownership
-- "Non-possessors" - opponents of church wealth
-- Relations between secular and church authority
-
-## World Processes at the Beginning of the Modern Era
-
-### Formation of Nation-States in Europe
-**Political transformation:**
-- Creation of centralized states
-- Ottoman factor and its influence on Europe
-- Changes in economic and political situation
-
-### Great Geographical Discoveries
-**Expansion of European civilization horizons:**
-- Discovery of America by Christopher Columbus
-- First circumnavigations
-- Spanish conquest in America
-- Portuguese penetration into India, China, and Japan
-
-**Economic consequences:**
-- Shift of main trade routes to oceans
-- "Price revolution" in Europe
-- Emergence of capitalist forms of production
-
-### Socio-economic Development of Europe
-**Divergence of development paths:**
-- Capitalist relations in Western Europe
-- "Second serfdom" in Eastern Europe
-- Regional features of economic development
-
-### Religious Movements
-**Reformation and Counter-Reformation:**
-- Spread of Protestantism in Europe
-- Catholic Church activities to preserve influence
-- Religious wars in France
-
-## Era of Ivan IV the Terrible
-
-### Beginning of Reign
-**Regency and boyar rule:**
-- Regency of Grand Princess Elena Glinskaya
-- Period of boyar rule after her death
-- Official adoption of tsarist title by Ivan IV (1547)
-
-### Reforms of the "Chosen Council"
-**Government transformations:**
-- Formation of the prikaz system of central administration
-- Zemstvo reform - creation of local self-government bodies
-- First Zemsky Sobors and estate representation
-
-**Legislative and church reforms:**
-- Adoption of the general Law Code of 1550
-- "Hundred Chapter Council" of 1551 and church reforms
-- Strengthening dependence of Russian Orthodox Church on the state
-
-**Military reorganization:**
-- Service regulations
-- Formation of streltsy regiments
-- Fall of the "Chosen Council" government
-
-### Oprichnina
-**Disputes about causes and character:**
-- Various interpretations in historical science
-- Ivan the Terrible's messages about the essence of autocratic power
-- Correspondence with Prince Andrey Kurbsky
-
-**Oprichnina terror and its consequences:**
-- Devastation of Novgorod and Pskov
-- Mass repressions and land confiscations
-- Abolition of oprichnina and its historical consequences
-
-**Final years of reign:**
-- "Grand Principality" of Simeon Bekbulatovich
-- Continuation of autocracy strengthening policy
-
-## Foreign Policy of the Muscovite State
-
-### Western Direction
-**Military conflicts with neighbors:**
-- Clashes with Grand Duchy of Lithuania (Polish-Lithuanian Commonwealth)
-- Military actions against Sweden
-- Livonian War: objectives and reasons for Russia's defeat
-
-**Development of international relations:**
-- Expansion of political and economic contacts with European countries
-- Beginning of sea trade through White Sea harbors
-
-### Eastern Direction
-**Struggle with Tatar khanates:**
-- Inclusion of Kazan Khanate into Russia
-- Annexation of Astrakhan Khanate
-- Campaigns against Crimea and raids of Crimean khans
-
-**Important military events:**
-- Battle of Molodi and its historical significance
-- Strengthening influence on Nogai Horde
-- Establishment of relations with North Caucasus states
-
-**First contacts with Ottoman Empire:**
-- First clash in 1569
-- Establishment of diplomatic relations
-
-### Eastern Expansion
-**Beginning of Siberian development:**
-- Campaign of Ataman Yermak Timofeyevich
-- Beginning of Western Siberia annexation
-- Development of new territories and resources
-
-## Socio-economic Development
-
-### Economic Structure
-**Agrarian character of economy:**
-- Predominance of agriculture
-- Low level of urbanization
-- Archaic methods of farming
-- Dominance of subsistence economy
-
-### Crafts and Trade
-**Development of production sphere:**
-- Growth of craft production
-- Specialization of urban crafts
-- Development of internal trade
-
-**Monetary system and finances:**
-- Monetary reform of Elena Glinskaya's government
-- Formation of unified coinage system in Russia
-
-### Regional Specialization
-**Territorial division of labor:**
-- Economic specialization of regions
-- Development of foreign trade with Asia and Europe
-- Flourishing of cities on Volga and White Sea trade routes
-- Decline of Novgorod and Pskov
-
-## Historical Significance of the Period
-
-### Russia's Place in World Process
-**Features of historical development:**
-- Creation of unified national state
-- Synchronization with European processes
-- Geopolitical position on European periphery
-
-**Socio-economic features:**
-- Conservation of serfdom tendencies
-- Development of feudal relations
-- Features of geopolitical position
-
-### Political Development
-**Formation of absolutist model:**
-- Establishment of Russian autocracy
-- Acceleration during Ivan IV the Terrible's reign
-- Assertion of unlimited monarchical power
-- Role of oprichnina in strengthening autocracy
-
-**Comparative analysis:**
-- Parallels with European absolutism
-- National features of Russian statehood
-- Historical consequences of chosen development path`,
-
-    french: `# La Russie et le monde au début de l'époque moderne. Achèvement de l'unification des terres russes
-
-## La Russie au début du XVIe siècle
-
-### Achèvement du processus d'unification
-**Expansion territoriale de l'État moscovite :**
-- Inclusion de Briansk et des terres septentrionales
-- Annexation de Pskov (1510)
-- Retour de Smolensk (1514)
-- Incorporation de Riazan dans l'État (1521)
-
-**Politique étrangère du premier tiers du XVIe siècle :**
-- Conflits militaires avec le Grand-Duché de Lituanie
-- Affrontement avec le khanat de Crimée
-- Lutte avec le khanat de Kazan
-
-### Règne de Vassili III Ivanovitch
-**Renforcement du pouvoir grand-ducal :**
-- Formation de l'appareil d'administration centrale
-- Activités de la Douma des boyards
-- Création des premiers prikazes (bureaux gouvernementaux)
-- Liquidation du système des apanages
-
-**Justification idéologique du pouvoir :**
-- Achèvement de la doctrine "Moscou - Troisième Rome"
-- Formule du moine Philothée sur la succession spirituelle
-
-### Lutte ecclésiastique et politique
-**Lutte idéologico-politique dans l'Église orthodoxe russe :**
-- "Josephites" - partisans de la propriété foncière ecclésiastique
-- "Non-possesseurs" - opposants à la richesse de l'Église
-- Relations entre pouvoir séculier et ecclésiastique
-
-## Processus mondiaux au début de l'époque moderne
-
-### Formation des États-nations en Europe
-**Transformation politique :**
-- Création d'États centralisés
-- Facteur ottoman et son influence sur l'Europe
-- Changements de la situation économique et politique
-
-### Grandes découvertes géographiques
-**Élargissement des horizons de la civilisation européenne :**
-- Découverte de l'Amérique par Christophe Colomb
-- Premiers tours du monde
-- Conquête espagnole en Amérique
-- Pénétration portugaise en Inde, Chine et Japon
-
-**Conséquences économiques :**
-- Déplacement des principales routes commerciales vers les océans
-- "Révolution des prix" en Europe
-- Émergence des formes capitalistes de production
-
-### Développement socio-économique de l'Europe
-**Divergence des voies de développement :**
-- Relations capitalistes en Europe occidentale
-- "Second servage" en Europe orientale
-- Caractéristiques régionales du développement économique
-
-### Mouvements religieux
-**Réforme et Contre-Réforme :**
-- Diffusion du protestantisme en Europe
-- Activités de l'Église catholique pour préserver son influence
-- Guerres de religion en France
-
-## Époque d'Ivan IV le Terrible
-
-### Début du règne
-**Régence et gouvernement des boyards :**
-- Régence de la grande-princesse Hélène Glinskaïa
-- Période de gouvernement des boyards après sa mort
-- Adoption officielle du titre tsariste par Ivan IV (1547)
-
-### Réformes du "Conseil élu"
-**Transformations gouvernementales :**
-- Formation du système des prikazes de l'administration centrale
-- Réforme du zemstvo - création d'organes d'autonomie locale
-- Premiers Zemski sobor et représentation des états
-
-**Réformes législatives et ecclésiastiques :**
-- Adoption du Code juridique général de 1550
-- "Concile des Cent Chapitres" de 1551 et réformes ecclésiastiques
-- Renforcement de la dépendance de l'Église orthodoxe russe envers l'État
-
-**Réorganisation militaire :**
-- Règlement du service
-- Formation des régiments de streltsy
-- Chute du gouvernement du "Conseil élu"
-
-### Oprichnina
-**Débats sur les causes et le caractère :**
-- Différentes interprétations dans la science historique
-- Messages d'Ivan le Terrible sur l'essence du pouvoir autocratique
-- Correspondance avec le prince André Kourbski
-
-**Terreur de l'oprichnina et ses conséquences :**
-- Dévastation de Novgorod et Pskov
-- Répressions massives et confiscations de terres
-- Abolition de l'oprichnina et ses conséquences historiques
-
-**Dernières années de règne :**
-- "Grand-principauté" de Siméon Bekbulatovitch
-- Poursuite de la politique de renforcement de l'autocratie
-
-## Politique étrangère de l'État moscovite
-
-### Direction occidentale
-**Conflits militaires avec les voisins :**
-- Affrontements avec le Grand-Duché de Lituanie (République des Deux Nations)
-- Actions militaires contre la Suède
-- Guerre de Livonie : objectifs et raisons de la défaite de la Russie
-
-**Développement des relations internationales :**
-- Expansion des contacts politiques et économiques avec les pays européens
-- Début du commerce maritime par les ports de la mer Blanche
-
-### Direction orientale
-**Lutte avec les khanats tatars :**
-- Inclusion du khanat de Kazan dans la Russie
-- Annexion du khanat d'Astrakhan
-- Campagnes contre la Crimée et raids des khans criméens
-
-**Événements militaires importants :**
-- Bataille de Molodi et sa signification historique
-- Renforcement de l'influence sur la Horde nogaye
-- Établissement de relations avec les États du Caucase du Nord
-
-**Premiers contacts avec l'Empire ottoman :**
-- Premier affrontement en 1569
-- Établissement de relations diplomatiques
-
-### Expansion vers l'est
-**Début du développement de la Sibérie :**
-- Campagne de l'ataman Yermak Timofeïévitch
-- Début de l'annexion de la Sibérie occidentale
-- Développement de nouveaux territoires et ressources
-
-## Développement socio-économique
-
-### Structure économique
-**Caractère agraire de l'économie :**
-- Prédominance de l'agriculture
-- Faible niveau d'urbanisation
-- Méthodes archaïques d'agriculture
-- Dominance de l'économie de subsistance
-
-### Artisanat et commerce
-**Développement de la sphère productive :**
-- Croissance de la production artisanale
-- Spécialisation de l'artisanat urbain
-- Développement du commerce intérieur
-
-**Système monétaire et finances :**
-- Réforme monétaire du gouvernement d'Hélène Glinskaïa
-- Formation d'un système monétaire unifié en Russie
-
-### Spécialisation régionale
-**Division territoriale du travail :**
-- Spécialisation économique des régions
-- Développement du commerce extérieur avec l'Asie et l'Europe
-- Essor des villes sur les routes commerciales de la Volga et de la mer Blanche
-- Déclin de Novgorod et Pskov
-
-## Signification historique de la période
-
-### Place de la Russie dans le processus mondial
-**Caractéristiques du développement historique :**
-- Création d'un État national unifié
-- Synchronisation avec les processus européens
-- Position géopolitique en périphérie de l'Europe
-
-**Caractéristiques socio-économiques :**
-- Conservation des tendances serviles
-- Développement des relations féodales
-- Caractéristiques de la position géopolitique
-
-### Développement politique
-**Formation du modèle absolutiste :**
-- Établissement de l'autocratie russe
-- Accélération pendant le règne d'Ivan IV le Terrible
-- Affirmation du pouvoir illimité du monarque
-- Rôle de l'oprichnina dans le renforcement de l'autocratie
-
-**Analyse comparative :**
-- Parallèles avec l'absolutisme européen
-- Caractéristiques nationales de la construction étatique russe
-- Conséquences historiques de la voie de développement choisie`,
-
-    spanish: `# Rusia y el mundo al inicio de la Era Moderna. Finalización de la unificación de las tierras rusas
-
-## Rusia a principios del siglo XVI
-
-### Finalización del proceso de unificación
-**Expansión territorial del Estado moscovita:**
-- Inclusión de Briansk y tierras séverskie
-- Anexión de Pskov (1510)
-- Regreso de Smolensk (1514)
-- Incorporación de Riazán al estado (1521)
-
-**Política exterior del primer tercio del siglo XVI:**
-- Conflictos militares con el Gran Ducado de Lituania
-- Enfrentamiento con el kanato de Crimea
-- Lucha con el kanato de Kazán
-
-### Reinado de Vasili III Ivánovich
-**Fortalecimiento del poder del gran príncipe:**
-- Formación del aparato de administración central
-- Actividades de la Duma de los boyardos
-- Creación de los primeros prikaz (oficinas gubernamentales)
-- Liquidación del sistema de appanages
-
-**Justificación ideológica del poder:**
-- Finalización de la doctrina "Moscú - Tercera Roma"
-- Fórmula del monje Filoféi sobre sucesión espiritual
-
-### Lucha eclesiástica y política
-**Lucha ideológico-política en la Iglesia Ortodoxa Rusa:**
-- "Iosiflyane" - partidarios de la propiedad eclesiástica de tierras
-- "No poseedores" - opositores a la riqueza eclesiástica
-- Relaciones entre autoridad secular y eclesiástica
-
-## Procesos mundiales al inicio de la Era Moderna
-
-### Formación de estados nacionales en Europa
-**Transformación política:**
-- Creación de estados centralizados
-- Factor otomano y su influencia en Europa
-- Cambios en la situación económica y política
-
-### Grandes Descubrimientos Geográficos
-**Ampliación de horizontes de la civilización europea:**
-- Descubrimiento de América por Cristóbal Colón
-- Primeras circunnavegaciones
-- Conquista española en América
-- Penetración portuguesa en India, China y Japón
-
-**Consecuencias económicas:**
-- Desplazamiento de rutas comerciales principales a océanos
-- "Revolución de precios" en Europa
-- Surgimiento de formas capitalistas de producción
-
-### Desarrollo socioeconómico de Europa
-**Divergencia de caminos de desarrollo:**
-- Relaciones capitalistas en Europa Occidental
-- "Segunda servidumbre" en Europa Oriental
-- Características regionales del desarrollo económico
-
-### Movimientos religiosos
-**Reforma y Contrarreforma:**
-- Difusión del protestantismo en Europa
-- Actividades de la Iglesia Católica para preservar influencia
-- Guerras de religión en Francia
-
-## Época de Iván IV el Terrible
-
-### Inicio del reinado
-**Regencia y gobierno de boyardos:**
-- Regencia de la gran princesa Elena Glinskaya
-- Período de gobierno de boyardos tras su muerte
-- Adopción oficial del título zarista por Iván IV (1547)
-
-### Reformas del "Consejo Elegido"
-**Transformaciones gubernamentales:**
-- Formación del sistema de prikaz de administración central
-- Reforma zemstvo - creación de órganos de autogobierno local
-- Primeros Zemski Sobor y representación estamental
-
-**Reformas legislativas y eclesiásticas:**
-- Adopción del Código Legal general de 1550
-- "Concilio de los Cien Capítulos" de 1551 y reformas eclesiásticas
-- Fortalecimiento de dependencia de la Iglesia Ortodoxa Rusa del estado
-
-**Reorganización militar:**
-- Reglamento de servicio
-- Formación de regimientos de streltsý
-- Caída del gobierno del "Consejo Elegido"
-
-### Opríchnina
-**Disputas sobre causas y carácter:**
-- Diferentes interpretaciones en la ciencia histórica
-- Mensajes de Iván el Terrible sobre esencia del poder autocrático
-- Correspondencia con príncipe Andrés Kurbski
-
-**Terror de la opríchnina y sus consecuencias:**
-- Devastación de Nóvgorod y Pskov
-- Represiones masivas y confiscaciones de tierras
-- Abolición de la opríchnina y sus consecuencias históricas
-
-**Últimos años de reinado:**
-- "Gran principado" de Simeón Bekbulátovich
-- Continuación de política de fortalecimiento de la autocracia
-
-## Política exterior del Estado moscovita
-
-### Dirección occidental
-**Conflictos militares con vecinos:**
-- Enfrentamientos con Gran Ducado de Lituania (Mancomunidad polaco-lituana)
-- Acciones militares contra Suecia
-- Guerra de Livonia: objetivos y causas de derrota de Rusia
-
-**Desarrollo de relaciones internacionales:**
-- Expansión de contactos políticos y económicos con países europeos
-- Inicio de comercio marítimo mediante puertos del mar Blanco
-
-### Dirección oriental
-**Lucha con kanatos tártaros:**
-- Inclusión del kanato de Kazán en Rusia
-- Anexión del kanato de Astracán
-- Campañas contra Crimea y incursiones de kanes crimeos
-
-**Eventos militares importantes:**
-- Batalla de Molodi y su significado histórico
-- Fortalecimiento de influencia sobre Horda nogái
-- Establecimiento de relaciones con formaciones estatales del Cáucaso Norte
-
-**Primeros contactos con Imperio otomano:**
-- Primer enfrentamiento en 1569
-- Establecimiento de relaciones diplomáticas
-
-### Expansión hacia el este
-**Inicio del desarrollo de Siberia:**
-- Campaña del atamán Yermak Timoféyevich
-- Inicio de anexión de Siberia Occidental
-- Desarrollo de nuevos territorios y recursos
-
-## Desarrollo socioeconómico
-
-### Estructura económica
-**Carácter agrario de la economía:**
-- Predominio de agricultura
-- Bajo nivel de urbanización
-- Métodos arcaicos de agricultura
-- Dominio de economía de subsistencia
-
-### Artesanía y comercio
-**Desarrollo de esfera productiva:**
-- Crecimiento de producción artesanal
-- Especialización de artesanía urbana
-- Desarrollo de comercio interno
-
-**Sistema monetario y finanzas:**
-- Reforma monetaria del gobierno de Elena Glinskaya
-- Formación de sistema monetario unificado en Rusia
-
-### Especialización regional
-**División territorial del trabajo:**
-- Especialización económica de regiones
-- Desarrollo de comercio exterior con Asia y Europa
-- Florecimiento de ciudades en rutas comerciales del Volga y mar Blanco
-- Decadencia de Nóvgorod y Pskov
-
-## Significado histórico del período
-
-### Lugar de Rusia en proceso mundial
-**Características del desarrollo histórico:**
-- Creación de estado nacional unificado
-- Sincronización con procesos europeos
-- Posición geopolítica en periferia de Europa
-
-**Características socioeconómicas:**
-- Conservación de tendencias serviles
-- Desarrollo de relaciones feudales
-- Características de posición geopolítica
-
-### Desarrollo político
-**Formación del modelo absolutista:**
-- Establecimiento de la autocracia rusa
-- Aceleración durante reinado de Iván IV el Terrible
-- Afirmación de ilimitación del poder monárquico
-- Rol de la opríchnina en fortalecimiento de autocracia
-
-**Análisis comparativo:**
-- Paralelos con absolutismo europeo
-- Características nacionales de la estatalidad rusa
-- Consecuencias históricas del camino de desarrollo elegido`
+    russian: `# Россия и мир к началу эпохи Нового времени
+
+## Собирание русских земель: итоги и значение
+
+К началу XVI века Московское княжество завершило долгий процесс объединения раздробленных русских земель. Представьте себе сложную мозаику, где каждая часть — это отдельное княжество со своими законами, армией и правителем. Московским князьям удалось собрать эту мозаику в единую картину — centralized государство.
+
+**Ключевые присоединения:**
+- **Псков (1510)** — важный торговый центр, "окно в Европу"
+- **Смоленск (1514)** — стратегическая крепость на западных рубежах
+- **Рязань (1521)** — последнее крупное независимое княжество
+
+## Василий III: укрепление государства
+
+При Василии III Московское государство окончательно сформировалось как единое целое. Исчезла удельная система — больше не было мелких княжеств внутри большого государства. Появилась централизованная система управления:
+
+- **Боярская дума** — совет знати при князе
+- **Приказы** — первые министерства, ведавшие разными сферами
+- **Местное управление** — наместники, назначаемые из Москвы
+
+**Идеологическое обоснование:** Монах Филофей сформулировал теорию "Москва — Третий Рим", которая утверждала, что после падения Рима и Константинополя Москва становится центром православного мира.
+
+## Мир в эпоху перемен
+
+Пока Россия объединялась, в Европе происходили революционные изменения:
+
+**Великие географические открытия** изменили мировую экономику. Торговые пути сместились из Средиземноморья в Атлантику. Появились новые товары — картофель, томаты, какао. "Революция цен" — резкий рост стоимости жизни из-за притока золота из Америки.
+
+**Реформация** расколола Европу на католиков и протестантов. Религиозные войны потрясали Францию и Германию.
+
+**Важный контраст:** В Западной Европе развивался капитализм, а в Восточной, включая Россию, укреплялось крепостное право.
+
+## Иван Грозный: противоречивый правитель
+
+### Молодой реформатор
+Иван IV стал правителем в 3 года. Период его детства — время боярских междоусобиц. В 1547 году он первым из московских правителей принял титул **царя**, что уравнивало его с европейскими монархами.
+
+**Реформы "Избранной рады"** (1549-1560):
+- Созданы постоянные войска — **стрельцы**
+- Издан новый **Судебник** — единый свод законов
+- Созваны первые **Земские соборы** — прообраз парламента
+- Проведена **земская реформа** — местное самоуправление
+
+### Тёмная сторона: опричнина
+В 1565 году Иван IV ввёл **опричнину** — особый порядок управления, когда часть страны находилась под его личным контролем. Опричники, одетые в чёрное, терроризировали население. Пиком стал разгром Новгорода в 1570 году.
+
+**Историки спорят:** Была ли опричнина:
+- Борьбой с боярской оппозицией?
+- Проявлением психической болезни царя?
+- Попыткой ускорить централизацию?
+
+## Внешняя политика: успехи и поражения
+
+### Восточное направление — успех
+- **1552** — взятие Казани
+- **1556** — присоединение Астрахани
+- **1581** — начало покорения Сибири (поход Ермака)
+
+Россия получила контроль над Волжским торговым путём и доступ к богатствам Урала и Сибири.
+
+### Западное направление — неудача
+**Ливонская война** (1558-1583) за выход к Балтийскому морю закончилась поражением. 25 лет войны истощили страну, но не принесли желаемого результата.
+
+## Экономика и общество
+
+Россия оставалась **аграрной страной**:
+- 95% населения — крестьяне
+- Господство трёхпольной системы
+- Ремесло развивалось медленно
+- Города были небольшими
+
+**Особенность:** В отличие от Европы, в России не сложился мощный класс горожан-буржуа. Власть дворянства и крепостное право определяли социальную структуру.
+
+## Историческое значение
+
+XVI век определил путь развития России на столетия вперёд:
+- Сформировалось **централизованное государство**
+- Утвердилось **самодержавие** — неограниченная власть монарха
+- Закрепилось **крепостное право**
+- Сложилась **многонациональная империя**
+
+Россия оказалась на перепутье: близко к Европе географически, но далеко по пути развития. Этот парадокс будет определять её историю в последующие века.`,
+
+    english: `# Russia and the World at the Beginning of the Modern Era
+
+## The Gathering of Russian Lands: Results and Significance
+
+By the early 16th century, the Moscow Principality had completed the long process of unifying fragmented Russian lands. Imagine a complex mosaic where each piece represents a separate principality with its own laws, army, and ruler. The Moscow princes managed to assemble this mosaic into a single picture—a centralized state.
+
+**Key Annexations:**
+- **Pskov (1510)** — important trade center, "window to Europe"
+- **Smolensk (1514)** — strategic fortress on western borders
+- **Ryazan (1521)** — last major independent principality
+
+## Vasily III: Strengthening the State
+
+Under Vasily III, the Moscow State finally formed as a unified whole. The appanage system disappeared—there were no more small principalities within the large state. A centralized management system emerged:
+
+- **Boyar Duma** — council of nobility under the prince
+- **Prikazy** — first ministries managing different spheres
+- **Local government** — governors appointed from Moscow
+
+**Ideological Foundation:** Monk Filofey formulated the "Moscow - Third Rome" theory, asserting that after the fall of Rome and Constantinople, Moscow became the center of the Orthodox world.
+
+## The World in an Era of Change
+
+While Russia was unifying, revolutionary changes were occurring in Europe:
+
+**Great Geographical Discoveries** changed the global economy. Trade routes shifted from the Mediterranean to the Atlantic. New goods appeared—potatoes, tomatoes, cocoa. The "Price Revolution"—a sharp increase in living costs due to gold inflow from America.
+
+**Reformation** split Europe into Catholics and Protestants. Religious wars shook France and Germany.
+
+**Important Contrast:** Capitalism was developing in Western Europe, while serfdom was strengthening in Eastern Europe, including Russia.
+
+## Ivan the Terrible: Controversial Ruler
+
+### Young Reformer
+Ivan IV became ruler at age 3. His childhood was a time of boyar strife. In 1547, he became the first Moscow ruler to accept the title of **Tsar**, equating him with European monarchs.
+
+**Reforms of the "Chosen Council"** (1549-1560):
+- Created permanent troops—**streltsy**
+- Issued new **Law Code**—unified legal code
+- Convened first **Zemsky Sobors**—prototype of parliament
+- Conducted **zemstvo reform**—local self-government
+
+### Dark Side: Oprichnina
+In 1565, Ivan IV introduced the **oprichnina**—a special management order where part of the country was under his personal control. Oprichniki, dressed in black, terrorized the population. The peak was the devastation of Novgorod in 1570.
+
+**Historians Debate:** Was the oprichnina:
+- A struggle against boyar opposition?
+- A manifestation of the tsar's mental illness?
+- An attempt to accelerate centralization?
+
+## Foreign Policy: Successes and Failures
+
+### Eastern Direction—Success
+- **1552** — capture of Kazan
+- **1556** — annexation of Astrakhan
+- **1581** — beginning of Siberian conquest (Yermak's campaign)
+
+Russia gained control over the Volga trade route and access to the wealth of the Urals and Siberia.
+
+### Western Direction—Failure
+The **Livonian War** (1558-1583) for access to the Baltic Sea ended in defeat. 25 years of war exhausted the country but didn't bring the desired result.
+
+## Economy and Society
+
+Russia remained an **agrarian country**:
+- 95% of population—peasants
+- Dominance of three-field system
+- Crafts developed slowly
+- Cities were small
+
+**Feature:** Unlike Europe, Russia didn't develop a powerful class of urban bourgeoisie. The power of nobility and serfdom determined the social structure.
+
+## Historical Significance
+
+The 16th century determined Russia's development path for centuries ahead:
+- **Centralized state** formed
+- **Autocracy**—unlimited monarchical power—established
+- **Serfdom** consolidated
+- **Multinational empire** emerged
+
+Russia found itself at a crossroads: close to Europe geographically, but distant in development path. This paradox would define its history in subsequent centuries.`,
+
+    french: `# La Russie et le monde au début de l'époque moderne
+
+## Le rassemblement des terres russes : résultats et signification
+
+Au début du XVIe siècle, la principauté de Moscou a achevé le long processus d'unification des terres russes fragmentées. Imaginez une mosaïque complexe où chaque pièce représente une principauté distincte avec ses propres lois, armée et souverain. Les princes moscovites ont réussi à assembler cette mosaïque en une image unique—un état centralisé.
+
+**Annexions clés :**
+- **Pskov (1510)** — centre commercial important, "fenêtre sur l'Europe"
+- **Smolensk (1514)** — forteresse stratégique sur les frontières occidentales
+- **Riazan (1521)** — dernière principauté indépendante majeure
+
+## Vassili III : renforcement de l'État
+
+Sous Vassili III, l'État moscovite s'est finalement formé comme un tout unifié. Le système des apanages a disparu—il n'y avait plus de petites principautés au sein du grand état. Un système de gestion centralisé a émergé :
+
+- **Douma des boyards** — conseil de la noblesse sous le prince
+- **Prikazes** — premiers ministères gérant différents domaines
+- **Gouvernement local** — gouverneurs nommés depuis Moscou
+
+**Fondation idéologique :** Le moine Philothée a formulé la théorie "Moscou - Troisième Rome", affirmant qu'après la chute de Rome et Constantinople, Moscou devenait le centre du monde orthodoxe.
+
+## Le monde dans une ère de changement
+
+Pendant que la Russie s'unifiait, des changements révolutionnaires se produisaient en Europe :
+
+**Grandes découvertes géographiques** ont changé l'économie mondiale. Les routes commerciales se sont déplacées de la Méditerranée vers l'Atlantique. De nouvelles marchandises sont apparues—pommes de terre, tomates, cacao. La "révolution des prix"—augmentation brutale du coût de la vie due à l'afflux d'or d'Amérique.
+
+**Réforme** a divisé l'Europe en catholiques et protestants. Les guerres de religion ont secoué la France et l'Allemagne.
+
+**Contraste important :** Le capitalisme se développait en Europe occidentale, tandis que le servage se renforçait en Europe orientale, y compris en Russie.
+
+## Ivan le Terrible : souverain controversé
+
+### Jeune réformateur
+Ivan IV est devenu souverain à 3 ans. Son enfance fut une période de conflits entre boyards. En 1547, il devient le premier souverain moscovite à accepter le titre de **Tsar**, l'égalant aux monarques européens.
+
+**Réformes du "Conseil élu"** (1549-1560) :
+- Création de troupes permanentes—**streltsy**
+- Publication nouveau **Code juridique**—code légal unifié
+- Convocation premiers **Zemski sobor**—prototype de parlement
+- Conduite **réforme du zemstvo**—autonomie locale
+
+### Côté obscur : Oprichnina
+En 1565, Ivan IV introduit l'**oprichnina**—ordre spécial de gestion où une partie du pays était sous son contrôle personnel. Les oprichniki, vêtus de noir, ont terrorisé la population. Le point culminant fut la dévastation de Novgorod en 1570.
+
+**Les historiens débattent :** L'oprichnina était-elle :
+- Une lutte contre l'opposition des boyards ?
+- Une manifestation de la maladie mentale du tsar ?
+- Une tentative d'accélérer la centralisation ?
+
+## Politique étrangère : succès et échecs
+
+### Direction orientale—Succès
+- **1552** — prise de Kazan
+- **1556** — annexion d'Astrakhan
+- **1581** — début de la conquête de la Sibérie (campagne de Yermak)
+
+La Russie a obtenu le contrôle de la route commerciale de la Volga et l'accès aux richesses de l'Oural et de la Sibérie.
+
+### Direction occidentale—Échec
+La **guerre de Livonie** (1558-1583) pour l'accès à la mer Baltique s'est terminée par une défaite. 25 ans de guerre ont épuisé le pays mais n'ont pas apporté le résultat souhaité.
+
+## Économie et société
+
+La Russie restait un **pays agraire** :
+- 95% de la population—paysans
+- Dominance du système d'assolement triennal
+- L'artisanat s'est développé lentement
+- Les villes étaient petites
+
+**Caractéristique :** Contrairement à l'Europe, la Russie n'a pas développé de classe puissante de bourgeoisie urbaine. Le pouvoir de la noblesse et le servage déterminaient la structure sociale.
+
+## Signification historique
+
+Le XVIe siècle a déterminé la voie de développement de la Russie pour les siècles à venir :
+- **État centralisé** formé
+- **Autocratie**—pouvoir monarchique illimité—établie
+- **Servage** consolidé
+- **Empire multinational** émergé
+
+La Russie s'est trouvée à la croisée des chemins : proche de l'Europe géographiquement, mais distante dans la voie de développement. Ce paradoxe définirait son histoire dans les siècles suivants.`,
+
+    spanish: `# Rusia y el mundo al inicio de la Era Moderna
+
+## La reunificación de las tierras rusas: resultados y significado
+
+A principios del siglo XVI, el Principado de Moscú completó el largo proceso de unificación de las fragmentadas tierras rusas. Imagine un mosaico complejo donde cada pieza representa un principado separado con sus propias leyes, ejército y gobernante. Los príncipes moscovitas lograron ensamblar este mosaico en una imagen única—un estado centralizado.
+
+**Anexiones clave:**
+- **Pskov (1510)** — importante centro comercial, "ventana a Europa"
+- **Smolensk (1514)** — fortaleza estratégica en fronteras occidentales
+- **Riazán (1521)** — último gran principado independiente
+
+## Vasili III: Fortalecimiento del estado
+
+Bajo Vasili III, el Estado moscovita finalmente se formó como un todo unificado. Desapareció el sistema de appanages—ya no había pequeños principados dentro del gran estado. Emergió un sistema de gestión centralizado:
+
+- **Duma de los boyardos** — consejo de nobleza bajo el príncipe
+- **Prikaz** — primeros ministerios gestionando diferentes esferas
+- **Gobierno local** — gobernadores nombrados desde Moscú
+
+**Fundamento ideológico:** El monje Filoféi formuló la teoría "Moscú - Tercera Roma", afirmando que después de la caída de Roma y Constantinopla, Moscú se convertía en el centro del mundo ortodoxo.
+
+## El mundo en una era de cambios
+
+Mientras Rusia se unificaba, ocurrían cambios revolucionarios en Europa:
+
+**Grandes Descubrimientos Geográficos** cambiaron la economía global. Las rutas comerciales se desplazaron del Mediterráneo al Atlántico. Aparecieron nuevos productos—patatas, tomates, cacao. La "Revolución de precios"—aumento brusco del costo de vida debido al influjo de oro de América.
+
+**Reforma** dividió Europa en católicos y protestantes. Guerras religiosas sacudieron Francia y Alemania.
+
+**Contraste importante:** El capitalismo se desarrollaba en Europa Occidental, mientras la servidumbre se fortalecía en Europa Oriental, incluyendo Rusia.
+
+## Iván el Terrible: Gobernante controvertido
+
+### Joven reformador
+Iván IV se convirtió en gobernante a los 3 años. Su infancia fue tiempo de conflictos entre boyardos. En 1547, se convirtió en el primer gobernante moscovita en aceptar el título de **Zar**, equiparándolo con monarcas europeos.
+
+**Reformas del "Consejo Elegido"** (1549-1560):
+- Creación de tropas permanentes—**streltsý**
+- Emisión nuevo **Código Legal**—código legal unificado
+- Convocación primeros **Zemski Sobor**—prototipo de parlamento
+- Realización **reforma zemstvo**—autogobierno local
+
+### Lado oscuro: Opríchnina
+En 1565, Iván IV introdujo la **opríchnina**—orden especial de gestión donde parte del país estaba bajo su control personal. Los opríchniki, vestidos de negro, aterrorizaron a la población. El punto culminante fue la devastación de Nóvgorod en 1570.
+
+**Los historiadores debaten:** ¿Fue la opríchnina:
+- ¿Una lucha contra la oposición boyarda?
+- ¿Una manifestación de la enfermedad mental del zar?
+- ¿Un intento de acelerar la centralización?
+
+## Política exterior: Éxitos y fracasos
+
+### Dirección oriental—Éxito
+- **1552** — toma de Kazán
+- **1556** — anexión de Astracán
+- **1581** — inicio de conquista de Siberia (campaña de Yermak)
+
+Rusia obtuvo control sobre ruta comercial del Volga y acceso a riquezas de los Urales y Siberia.
+
+### Dirección occidental—Fracaso
+La **Guerra de Livonia** (1558-1583) por acceso al mar Báltico terminó en derrota. 25 años de guerra agotaron al país pero no trajeron el resultado deseado.
+
+## Economía y sociedad
+
+Rusia permaneció como **país agrario**:
+- 95% de población—campesinos
+- Dominio del sistema de tres campos
+- La artesanía se desarrolló lentamente
+- Las ciudades eran pequeñas
+
+**Característica:** A diferencia de Europa, Rusia no desarrolló una clase poderosa de burguesía urbana. El poder de la nobleza y la servidumbre determinaron la estructura social.
+
+## Significado histórico
+
+El siglo XVI determinó la vía de desarrollo de Rusia para siglos adelante:
+- Se formó **estado centralizado**
+- Se estableció **autocracia**—poder monárquico ilimitado
+- Se consolidó **servidumbre**
+- Emergió **imperio multinacional**
+
+Rusia se encontró en una encrucijada: cercana a Europa geográficamente, pero distante en vía de desarrollo. Esta paradoja definiría su historia en siglos subsiguientes.`
   },
   relatedMuseum: "Moscow Kremlin Museums",
   museumConnection: {
-    russian: `Московский Кремль является уникальным памятником истории и культуры, иллюстрирующим эпоху становления Российского государства:
+    russian: `Московский Кремль — живое свидетельство эпохи становления Российского государства. Здесь можно увидеть:
 
-**Архитектурные памятники XVI века:**
-- Успенский собор - место венчания на царство Ивана IV
-- Архангельский собор - усыпальница великих князей и царей
-- Колокольня Ивана Великого - символ могущества государства
+**Архитектурные символы власти:**
+- Успенский собор — здесь венчались на царство все русские цари
+- Грановитая палата — место торжественных приёмов и заседаний Боярской думы
+- Колокольня Ивана Великого — самое высокое здание России XVI века
 
-**Царские регалии и сокровища:**
-- Шапка Мономаха - символ царской власти
-- Трон Ивана Грозного и другие царские инсигнии
-- Церковная утварь и иконы эпохи Ивана IV
+**Царские регалии в Оружейной палате:**
+- Шапка Мономаха — корона русских царей
+- Трон Ивана Грозного — символ самодержавной власти
+- Царские кафтаны и посох — атрибуты власти
 
-**Оружейная палата:**
-- Доспехи и оружие русских воинов XVI века
-- Дипломатические дары от европейских и восточных правителей
-- Предметы быта и церемониальные облачения
+**Предметы быта и культуры:**
+- Иконы и церковная утварь эпохи
+- Доспехи русских воинов
+- Дипломатические дары от европейских дворов
 
-**Археологические находки:**
-- Артефакты времен опричнины
-- Предметы материальной культуры XVI века
-- Документы и рукописи эпохи
+Кремль помогает понять, как из княжеской резиденции Москва превратилась в столицу мощного централизованного государства.`,
 
-Московский Кремль предоставляет наглядное представление о величии и мощи Российского государства в эпоху Ивана Грозного, демонстрируя сложные процессы политического и культурного развития.`,
+    english: `The Moscow Kremlin is a living witness to the era of the formation of the Russian State. Here you can see:
 
-    english: `The Moscow Kremlin is a unique historical and cultural monument illustrating the era of the formation of the Russian State:
+**Architectural Symbols of Power:**
+- Dormition Cathedral—where all Russian tsars were crowned
+- Faceted Palace—venue for ceremonial receptions and Boyar Duma meetings
+- Ivan the Great Bell Tower—tallest building in 16th century Russia
 
-**16th Century Architectural Monuments:**
-- Dormition Cathedral - site of Ivan IV's coronation
-- Archangel Cathedral - burial place of grand princes and tsars
-- Ivan the Great Bell Tower - symbol of state power
+**Royal Regalia in the Armory:**
+- Monomakh's Cap—crown of Russian tsars
+- Ivan the Terrible's Throne—symbol of autocratic power
+- Tsar's caftans and staff—attributes of power
 
-**Royal Regalia and Treasures:**
-- Monomakh's Cap - symbol of tsarist power
-- Ivan the Terrible's throne and other royal insignia
-- Church utensils and icons from Ivan IV's era
+**Everyday Items and Culture:**
+- Icons and church utensils of the era
+- Armor of Russian warriors
+- Diplomatic gifts from European courts
 
-**Armory Chamber:**
-- Armor and weapons of 16th century Russian warriors
-- Diplomatic gifts from European and Eastern rulers
-- Household items and ceremonial vestments
+The Kremlin helps understand how Moscow transformed from a princely residence into the capital of a powerful centralized state.`,
 
-**Archaeological Finds:**
-- Artifacts from the oprichnina period
-- Items of 16th century material culture
-- Documents and manuscripts from the era
+    french: `Le Kremlin de Moscou est un témoin vivant de l'époque de la formation de l'État russe. Ici vous pouvez voir :
 
-The Moscow Kremlin provides a visual representation of the grandeur and power of the Russian State during Ivan the Terrible's era, demonstrating complex processes of political and cultural development.`,
+**Symboles architecturaux du pouvoir :**
+- Cathédrale de la Dormition—où tous les tsars russes étaient couronnés
+- Palais à Facettes—lieu des réceptions solennelles et réunions de la Douma des boyards
+- Clocher d'Ivan le Grand—bâtiment le plus haut de la Russie du XVIe siècle
 
-    french: `Le Kremlin de Moscou est un monument historique et culturel unique illustrant l'époque de la formation de l'État russe :
+**Regalia royaux dans l'Armurerie :**
+- Couronne de Monomaque—couronne des tsars russes
+- Trône d'Ivan le Terrible—symbole du pouvoir autocratique
+- Caftans et bâton du tsar—attributs du pouvoir
 
-**Monuments architecturaux du XVIe siècle :**
-- Cathédrale de la Dormition - lieu du couronnement d'Ivan IV
-- Cathédrale de l'Archange - lieu de sépulture des grands-princes et tsars
-- Clocher d'Ivan le Grand - symbole de la puissance de l'État
+**Objets du quotidien et culture :**
+- Icônes et ustensiles d'église de l'époque
+- Armures des guerriers russes
+- Cadeaux diplomatiques des cours européennes
 
-**Regalia et trésors royaux :**
-- Couronne de Monomaque - symbole du pouvoir tsariste
-- Trône d'Ivan le Terrible et autres insignes royaux
-- Ustensiles d'église et icônes de l'époque d'Ivan IV
+Le Kremlin aide à comprendre comment Moscou s'est transformée d'une résidence princière en capitale d'un état centralisé puissant.`,
 
-**Chambre de l'Armurerie :**
-- Armures et armes des guerriers russes du XVIe siècle
-- Cadeaux diplomatiques des souverains européens et orientaux
-- Objets domestiques et vêtements cérémoniels
+    spanish: `El Kremlin de Moscú es testigo vivo de la época de formación del Estado ruso. Aquí se puede ver:
 
-**Trouvailles archéologiques :**
-- Artefacts de la période de l'oprichnina
-- Objets de la culture matérielle du XVIe siècle
-- Documents et manuscrits de l'époque
+**Símbolos arquitectónicos del poder:**
+- Catedral de la Asunción—donde todos los zares rusos fueron coronados
+- Palacio de las Facetas—lugar de recepciones ceremoniales y reuniones de la Duma de boyardos
+- Campanario de Iván el Grande—edificio más alto de la Rusia del siglo XVI
 
-Le Kremlin de Moscou fournit une représentation visuelle de la grandeur et de la puissance de l'État russe durant l'époque d'Ivan le Terrible, démontrant les processus complexes de développement politique et culturel.`,
+**Regalías reales en la Armería:**
+- Corona de Monómaco—corona de los zares rusos
+- Trono de Iván el Terrible—símbolo del poder autocrático
+- Caftanes y bastón del zar—atributos del poder
 
-    spanish: `El Kremlin de Moscú es un monumento histórico y cultural único que ilustra la época de formación del Estado ruso:
+**Objetos cotidianos y cultura:**
+- Iconos y utensilios eclesiásticos de la época
+- Armaduras de guerreros rusos
+- Regalos diplomáticos de cortes europeas
 
-**Monumentos arquitectónicos del siglo XVI:**
-- Catedral de la Asunción - lugar de coronación de Iván IV
-- Catedral del Arcángel - lugar de sepultura de grandes príncipes y zares
-- Campanario de Iván el Grande - símbolo del poder estatal
-
-**Regalías y tesoros reales:**
-- Corona de Monómaco - símbolo del poder zarista
-- Trono de Iván el Terrible y otras insignias reales
-- Utensilios eclesiásticos e iconos de la época de Iván IV
-
-**Cámara de la Armería:**
-- Armaduras y armas de guerreros rusos del siglo XVI
-- Regalos diplomáticos de gobernantes europeos y orientales
-- Objetos domésticos y vestimentas ceremoniales
-
-**Hallazgos arqueológicos:**
-- Artefactos del período de la opríchnina
-- Objetos de cultura material del siglo XVI
-- Documentos y manuscritos de la época
-
-El Kremlin de Moscú proporciona una representación visual de la grandeza y poder del Estado ruso durante la época de Iván el Terrible, demostrando procesos complejos de desarrollo político y cultural.`
+El Kremlin ayuda a comprender cómo Moscú se transformó de residencia principesca en capital de un estado centralizado poderoso.`
   },
   quiz: [
     {
       question: {
-        russian: "В каком году Иван IV официально принял царский титул?",
-        english: "In what year did Ivan IV officially adopt the tsarist title?",
-        french: "En quelle année Ivan IV a-t-il officiellement adopté le titre tsariste?",
-        spanish: "¿En qué año Iván IV adoptó oficialmente el título zarista?"
+        russian: "Почему принятие Иваном IV царского титула в 1547 году имело важное международное значение?",
+        english: "Why did Ivan IV's adoption of the tsarist title in 1547 have important international significance?",
+        french: "Pourquoi l'adoption du titre tsariste par Ivan IV en 1547 avait-elle une importance internationale significative?",
+        spanish: "¿Por qué la adopción del título zarista por Iván IV en 1547 tuvo importante significado internacional?"
       },
       options: [
         {
-          russian: "1547 год",
-          english: "1547 CE",
-          french: "1547 EC",
-          spanish: "1547 EC"
+          russian: "Оно подтверждало права на польский престол",
+          english: "It confirmed rights to the Polish throne",
+          french: "Cela confirmait les droits au trône polonais",
+          spanish: "Confirmaba derechos al trrono polaco"
         },
         {
-          russian: "1550 год",
-          english: "1550 CE",
-          french: "1550 EC",
-          spanish: "1550 EC"
+          russian: "Оно уравнивало русского правителя с европейскими монархами",
+          english: "It equated the Russian ruler with European monarchs",
+          french: "Elle égalait le souverain russe aux monarques européens",
+          spanish: "Equiparaba al gobernante ruso con monarcas europeos"
         },
         {
-          russian: "1533 год",
-          english: "1533 CE",
-          french: "1533 EC",
-          spanish: "1533 EC"
+          russian: "Оно означало независимость от Золотой Орды",
+          english: "It meant independence from the Golden Horde",
+          french: "Cela signifiait l'indépendance de la Horde d'Or",
+          spanish: "Significaba independencia de la Horda Dorada"
         },
         {
-          russian: "1565 год",
-          english: "1565 CE",
-          french: "1565 EC",
-          spanish: "1565 EC"
+          russian: "Оно давало контроль над православными церквями",
+          english: "It gave control over Orthodox churches",
+          french: "Cela donnait le contrôle sur les églises orthodoxes",
+          spanish: "Daba control sobre iglesias ortodoxas"
         }
       ],
-      correctAnswer: 0
+      correctAnswer: 1
     },
     {
       question: {
-        russian: "Какая доктрина завершила свое формирование в правление Василия III?",
-        english: "Which doctrine completed its formation during the reign of Vasily III?",
-        french: "Quelle doctrine a achevé sa formation durant le règne de Vassili III?",
-        spanish: "¿Qué doctrina completó su formación durante el reinado de Vasili III?"
+        russian: "Какое из последствий Великих географических открытий наиболее сильно повлияло на экономику Европы в XVI веке?",
+        english: "Which consequence of the Great Geographical Discoveries most strongly affected Europe's economy in the 16th century?",
+        french: "Quelle conséquence des Grandes découvertes géographiques a le plus affecté l'économie européenne au XVIe siècle?",
+        spanish: "¿Qué consecuencia de los Grandes Descubrimientos Geográficos afectó más fuertemente la economía europea en el siglo XVI?"
       },
       options: [
         {
-          russian: "Москва – Третий Рим",
-          english: "Moscow - Third Rome",
-          french: "Moscou - Troisième Rome",
-          spanish: "Moscú - Tercera Roma"
+          russian: "Начало колонизации Америки",
+          english: "Beginning of American colonization",
+          french: "Début de la colonisation américaine",
+          spanish: "Inicio de colonización americana"
         },
         {
-          russian: "Православие, самодержавие, народность",
-          english: "Orthodoxy, Autocracy, Nationality",
-          french: "Orthodoxie, Autocratie, Nationalité",
-          spanish: "Ortodoxia, Autocracia, Nacionalidad"
+          russian: "Появление новых сельскохозяйственных культур",
+          english: "Appearance of new agricultural crops",
+          french: "Apparition de nouvelles cultures agricoles",
+          spanish: "Aparición de nuevos cultivos agrícolas"
         },
         {
-          russian: "Симфония властей",
-          english: "Symphony of Powers",
-          french: "Symphonie des pouvoirs",
-          spanish: "Sinfonía de poderes"
+          russian: "Революция цен из-за притока золота",
+          english: "Price revolution due to gold inflow",
+          french: "Révolution des prix due à l'afflux d'or",
+          spanish: "Revolución de precios por influjo de oro"
         },
         {
-          russian: "Доктрина естественных границ",
-          english: "Doctrine of Natural Borders",
-          french: "Doctrine des frontières naturelles",
-          spanish: "Doctrina de fronteras naturales"
+          russian: "Смещение торговых путей в Атлантику",
+          english: "Shift of trade routes to the Atlantic",
+          french: "Déplacement des routes commerciales vers l'Atlantique",
+          spanish: "Desplazamiento de rutas comerciales al Atlántico"
         }
       ],
-      correctAnswer: 0
+      correctAnswer: 2
     },
     {
       question: {
-        russian: "Какое событие считается началом присоединения Сибири к России?",
-        english: "What event is considered the beginning of Siberia's annexation to Russia?",
-        french: "Quel événement est considéré comme le début de l'annexion de la Sibérie à la Russie?",
-        spanish: "¿Qué evento se considera el inicio de la anexión de Siberia a Rusia?"
+        russian: "Что было главным отличием развития России от Западной Европы в XVI веке?",
+        english: "What was the main difference between Russia's development and Western Europe's in the 16th century?",
+        french: "Quelle était la principale différence entre le développement de la Russie et celui de l'Europe occidentale au XVIe siècle?",
+        spanish: "¿Cuál fue la principal diferencia entre el desarrollo de Rusia y Europa Occidental en el siglo XVI?"
       },
       options: [
         {
-          russian: "Поход Ермака Тимофеевича",
-          english: "Campaign of Yermak Timofeyevich",
-          french: "Campagne de Yermak Timofeïévitch",
-          spanish: "Campaña de Yermak Timoféyevich"
+          russian: "Развитие капиталистических отношений",
+          english: "Development of capitalist relations",
+          french: "Développement des relations capitalistes",
+          spanish: "Desarrollo de relaciones capitalistas"
         },
         {
-          russian: "Основание Тобольска",
-          english: "Foundation of Tobolsk",
-          french: "Fondation de Tobolsk",
-          spanish: "Fundación de Tobolsk"
+          russian: "Преобладание протестантизма над православием",
+          english: "Predominance of Protestantism over Orthodoxy",
+          french: "Prédominance du protestantisme sur l'orthodoxie",
+          spanish: "Predominio de protestantismo sobre ortodoxia"
         },
         {
-          russian: "Присоединение Казанского ханства",
-          english: "Annexation of Kazan Khanate",
-          french: "Annexion du khanat de Kazan",
-          spanish: "Anexión del kanato de Kazán"
+          russian: "Укрепление крепостного права при слабом развитии городов",
+          english: "Strengthening of serfdom with weak urban development",
+          french: "Renforcement du servage avec faible développement urbain",
+          spanish: "Fortalecimiento de servidumbre con débil desarrollo urbano"
         },
         {
-          russian: "Строительство острогов",
-          english: "Construction of ostrogs",
-          french: "Construction d'ostrogs",
-          spanish: "Construcción de ostrogs"
+          russian: "Отсутствие централизованной власти",
+          english: "Lack of centralized power",
+          french: "Absence de pouvoir centralisé",
+          spanish: "Falta de poder centralizado"
         }
       ],
-      correctAnswer: 0
+      correctAnswer: 2
     },
     {
       question: {
-        russian: "Как назывался особый порядок управления, введенный Иваном Грозным?",
-        english: "What was the name of the special administration order introduced by Ivan the Terrible?",
-        french: "Comment s'appelait l'ordre d'administration spécial introduit par Ivan le Terrible?",
-        spanish: "¿Cómo se llamaba el orden especial de administración introducido por Iván el Terrible?"
+        russian: "Какая реформа Ивана Грозного демонстрировала его стремление к созданию сословно-представительной монархии?",
+        english: "Which reform of Ivan the Terrible demonstrated his desire to create an estate-representative monarchy?",
+        french: "Quelle réforme d'Ivan le Terrible démontrait son désir de créer une monarchie représentative des états?",
+        spanish: "¿Qué reforma de Iván el Terrible demostró su deseo de crear monarquía estamental representativa?"
       },
       options: [
         {
-          russian: "Опричнина",
-          english: "Oprichnina",
-          french: "Oprichnina",
-          spanish: "Opríchnina"
+          russian: "Введение опричнины",
+          english: "Introduction of oprichnina",
+          french: "Introduction de l'oprichnina",
+          spanish: "Introducción de opríchnina"
         },
         {
-          russian: "Земщина",
-          english: "Zemshchina",
-          french: "Zemchtchina",
-          spanish: "Zemstchina"
+          russian: "Принятие Судебника 1550 года",
+          english: "Adoption of the Law Code of 1550",
+          french: "Adoption du Code juridique de 1550",
+          spanish: "Adopción del Código Legal de 1550"
         },
         {
-          russian: "Самодержавие",
-          english: "Autocracy",
-          french: "Autocratie",
-          spanish: "Autocracia"
+          russian: "Создание стрелецкого войска",
+          english: "Creation of streltsy troops",
+          french: "Création des troupes de streltsy",
+          spanish: "Creación de tropas de streltsý"
         },
         {
-          russian: "Приказная система",
-          english: "Prikaz system",
-          french: "Système des prikazes",
-          spanish: "Sistema de prikaz"
+          russian: "Создание Земских соборов",
+          english: "Creation of Zemsky Sobors",
+          french: "Création des Zemski sobor",
+          spanish: "Creación de Zemski Sobor"
         }
       ],
-      correctAnswer: 0
+      correctAnswer: 3
     },
     {
       question: {
-        russian: "Какое сражение остановило экспансию Крымского ханства в 1572 году?",
-        english: "Which battle stopped the expansion of the Crimean Khanate in 1572?",
-        french: "Quelle bataille a arrêté l'expansion du khanat de Crimée en 1572?",
-        spanish: "¿Qué batalla detuvo la expansión del kanato de Crimea en 1572?"
+        russian: "Почему Ливонская война считается поворотным моментом в царствовании Ивана Грозного?",
+        english: "Why is the Livonian War considered a turning point in Ivan the Terrible's reign?",
+        french: "Pourquoi la guerre de Livonie est-elle considérée comme un tournant dans le règne d'Ivan le Terrible?",
+        spanish: "¿Por qué la Guerra de Livonia se considera punto de inflexión en reinado de Iván el Terrible?"
       },
       options: [
         {
-          russian: "Молодинская битва",
-          english: "Battle of Molodi",
-          french: "Bataille de Molodi",
-          spanish: "Batalla de Molodi"
+          russian: "В её ходе Россия получила выход к Балтийскому морю",
+          english: "During it Russia gained access to the Baltic Sea",
+          french: "Pendant celle-ci la Russie a gagné l'accès à la mer Baltique",
+          spanish: "Durante ella Rusia obtuvo acceso al mar Báltico"
         },
         {
-          russian: "Битва при Ведроши",
-          english: "Battle of Vedrosha",
-          french: "Bataille de Vedrocha",
-          spanish: "Batalla de Vedrosha"
+          russian: "Она объединила все сословия против внешнего врага",
+          english: "It united all estates against an external enemy",
+          french: "Elle a uni tous les états contre un ennemi extérieur",
+          spanish: "Unió a todos los estamentos contra enemigo externo"
         },
         {
-          russian: "Оршинская битва",
-          english: "Battle of Orsha",
-          french: "Bataille d'Orcha",
-          spanish: "Batalla de Orsha"
+          russian: "Она привела к экономическому истощению и способствовала введению опричнины",
+          english: "It led to economic exhaustion and contributed to the introduction of oprichnina",
+          french: "Elle a conduit à l'épuisement économique et contribué à l'introduction de l'oprichnina",
+          spanish: "Condujo a agotamiento económico y contribuyó a introducción de opríchnina"
         },
         {
-          russian: "Битва на реке Угре",
-          english: "Battle on the Ugra River",
-          french: "Bataille sur la rivière Ougra",
-          spanish: "Batalla en el río Ugrá"
+          russian: "В результате войны было отменено крепостное право",
+          english: "As a result of the war serfdom was abolished",
+          french: "Suite à la guerre le servage a été aboli",
+          spanish: "Como resultado de guerra se abolió servidumbre"
         }
       ],
-      correctAnswer: 0
+      correctAnswer: 2
     }
   ],
   learningObjectives: [
-    "Understand the process of completing the unification of Russian lands under Moscow",
-    "Analyze the political and administrative reforms of Ivan IV",
-    "Evaluate the significance of the oprichnina in Russian history",
-    "Identify the main directions of Russian foreign policy in the 16th century",
-    "Assess the socio-economic development of Muscovite Russia",
-    "Recognize Russia's place in the world historical process of the Modern Era"
+    "Understand the process of completing Russian lands unification under Moscow's leadership",
+    "Analyze the political reforms of Ivan IV and their historical significance", 
+    "Evaluate the impact of European developments on Russia's historical path",
+    "Identify the main differences between Eastern and Western European development models",
+    "Assess the consequences of the oprichnina for Russian statehood",
+    "Recognize the geopolitical importance of Russia's eastern expansion"
   ],
   keyConcepts: [
-    "Unification of Russian lands",
-    "Autocracy",
+    "Centralized state",
+    "Autocracy", 
     "Oprichnina",
     "Zemsky Sobor",
-    "Great Geographical Discoveries",
-    "Reformation",
     "Serfdom",
-    "Centralized state",
-    "Foreign policy",
-    "Economic development"
+    "Price revolution",
+    "Geographical discoveries",
+    "Reformation",
+    "Eastern expansion",
+    "Modern era"
   ]
 };
 

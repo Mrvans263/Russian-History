@@ -10,1014 +10,438 @@ const lecture9 = {
   content: {
     russian: `# Россия в эпоху Петра I и «дворцовых переворотов»
 
-## Россия в эпоху преобразований Петра I
+## Преобразования Петра Великого: Модернизация России
 
-### Необходимость и характер преобразований
-**Предпосылки реформ:**
-- Экономическое и военное отставание от европейских стран
-- Необходимость выхода к морям для развития торговли
-- Укрепление централизованного государственного аппарата
+### Почему реформы были необходимы?
+К началу XVIII века Россия значительно отставала от европейских стран. Не было выхода к морям, что ограничивало торговлю. Армия уступала европейским по организации и вооружению. Государственное управление было неэффективным.
 
-**Методы и принципы реформ:**
-- Жесткая централизация управления
-- Активное заимствование европейского опыта
-- Приоритет государственных интересов над частными
-- Ускоренная модернизация всех сфер жизни
+### Ключевые изменения в обществе
 
-### Социальные преобразования
-**Формирование дворянского сословия:**
-- Консолидация служилых чинов в единое дворянство
-- Указ о единонаследии (1714 г.)
-- Табель о рангах (1722 г.) - новые принципы карьеры
+**Дворянство:** Раньше знатность определялась происхождением. Петр ввел **Табель о рангах** (1722) - теперь чины можно было получить за службу, а не только по рождению.
 
-**Положение других сословий:**
-- Расширение прав купечества и городского самоуправления
-- Введение подушной подати и ее социальные последствия
-- Стратификация крестьянства: владельческие, государственные, дворцовые
-- Усиление крепостного права через фискальные реформы
+**Города:** Купцы получили больше прав в самоуправлении, но и налоги увеличились.
 
-### Государственные реформы
-**Центральное управление:**
-- Упразднение Боярской думы
-- Создание Сената как высшего органа власти
-- Замена приказов коллегиями
-- Введение Генерального регламента
+**Крестьяне:** Введена **подушная подать** - налог с каждой "души" (человека). Это усилило крепостное право, так как помещики отвечали за сбор налогов со своих крестьян.
 
-**Местное управление:**
-- Областные реформы 1708 и 1719 гг.
-- Создание губерний и провинций
-- Реформы городского самоуправления
-- Учреждение Главного магистрата
+### Новое государственное управление
 
-**Контрольные органы:**
-- Создание прокуратуры (открытый контроль)
-- Институт фискалов (тайный контроль)
-- Система ревизий и отчетности
+Вместо старых приказов Петр создал **коллегии** - прообраз современных министерств. Появился **Сенат** для управления страной в отсутствие царя. Для контроля созданы **прокуратура** (открытый надзор) и **фискалы** (тайный надзор).
 
-### Военные преобразования
-**Создание регулярной армии:**
-- Введение рекрутской повинности
-- Единая система обучения и снабжения
-- Создание военных учебных заведений
+### Военные успехи
+**Северная война** (1700-1721) против Швеции дала России выход к Балтийскому морю. Были построены современная армия и флот. Основан Санкт-Петербург - "окно в Европу".
 
-**Развитие флота:**
-- Строительство Балтийского флота
-- Создание военно-морских баз
-- Подготовка морских офицеров
+### Экономическое развитие
+Создавались мануфактуры, развивалась металлургия на Урале. Государство поддерживало отечественную промышленность (**протекционизм**).
 
-### Внешняя политика
-**Основные направления:**
-- Борьба за выход к Балтийскому морю
-- Укрепление позиций на Черном море
-- Расширение влияния на Востоке
+## Эпоха дворцовых переворотов (1725-1762)
 
-**Северная война (1700-1721 гг.):**
-- Ключевые сражения: Лесная, Полтава, Гангут, Гренгам
-- Взятие ключевых крепостей: Нотебург, Нарва, Рига
-- Ништадтский мир и его последствия
+### Почему началась нестабильность?
+Петр не назначил четкого наследника. Гвардейские полки стали главной силой в борьбе за власть. Разные группировки знати боролись за влияние.
 
-**Восточная политика:**
-- Прутский поход 1711 г.
-- Каспийский поход 1722-1723 гг.
-- Развитие отношений с Китаем
+### Основные правители эпохи:
 
-### Экономические преобразования
-**Промышленное развитие:**
-- Политика меркантилизма и протекционизма
-- Создание новых промышленных районов
-- Развитие уральской металлургии
-- Строительство мануфактур и верфей
+**Екатерина I** (1725-1727) - жена Петра, при ней усилился Меншиков
 
-**Торговля и финансы:**
-- Первый таможенный тариф (1724 г.)
-- Развитие транспортных систем
-- Денежная реформа
-- Создание банковской системы
+**Петр II** (1727-1730) - внук Петра, умер юношей от оспы
 
-### Социальный протест и оппозиция
-**Крупные восстания:**
-- Стрелецкие восстания 1682, 1689, 1698 гг.
-- Астраханское восстание (1705-1706 гг.)
-- Восстание Кондратия Булавина (1707-1708 гг.)
-- Башкирское восстание (1704-1711 гг.)
+**Анна Иоанновна** (1730-1740) - племянница Петра, при ней усилилось влияние иностранцев
 
-**Церковные противоречия:**
-- Старообрядческое движение
-- Отмена патриаршества и создание Синода
-- Начало секуляризации церковных земель
+**Елизавета Петровна** (1741-1761) - дочь Петра, вернула столицу в Петербург
 
-### Культурные преобразования
-**Образование и наука:**
-- Создание светских учебных заведений
-- Открытие Славяно-греко-латинской академии
-- Основание Академии наук
-- Создание Кунсткамеры
+**Петр III** (1761-1762) - внук Петра I, свергнут женой Екатериной
 
-**Культура и быт:**
-- Введение гражданского шрифта
-- Развитие светской литературы и театра
-- Изменение быта по европейскому образцу
-- Новые формы досуга и развлечений
+### Важные изменения:
+- **Манифест о вольности дворянской** (1762) освободил дворян от обязательной службы
+- Дворянство получало все больше привилегий
+- Россия участвовала в европейских конфликтах (Семилетняя война)
 
-## Эпоха дворцовых переворотов (1725-1762 гг.)
+## Значение эпохи
 
-### Причины политической нестабильности
-**Факторы нестабильности:**
-- Неопределенность в престолонаследии
-- Усиление роли гвардии в политике
-- Борьба придворных группировок
-- Противоречия между старой и новой знатью
-
-### Правление Екатерины I (1725-1727)
-**Основные события:**
-- Создание Верховного тайного совета
-- Продолжение петровского курса
-- Укрепление положения Меншикова
-
-### Правление Петра II (1727-1730)
-**Особенности правления:**
-- Борьба придворных группировок
-- Падение Меншикова
-- Перенос столицы в Москву
-
-### Правление Анны Иоанновны (1730-1740)
-**«Затейка верховников»:**
-- Попытка ограничения самодержавия
-- Кондиции Верховного тайного совета
-- Восстановление самодержавной власти
-
-**Внутренняя политика:**
-- Создание Кабинета министров
-- Усиление позиций иностранцев («бироновщина»)
-- Развитие промышленности и торговли
-
-### Правление Елизаветы Петровны (1741-1761)
-**Основные направления:**
-- Укрепление позиций дворянства
-- Экономические реформы
-- Развитие культуры и образования
-- Участие в Семилетней войне
-
-### Правление Петра III (1761-1762)
-**Ключевые мероприятия:**
-- Манифест о вольности дворянской
-- Начало секуляризации церковных земель
-- Выход из Семилетней войны
-- Причины свержения и гибель
-
-## Историческое значение эпохи
-
-### Итоги петровских преобразований
-**Достижения:**
-- Создание мощной регулярной армии и флота
-- Превращение России в европейскую державу
-- Развитие промышленности и торговли
-- Формирование новой системы управления
-
-**Противоречия:**
-- Усиление крепостного права
-- Рост налогового гнета
-- Культурный разрыв между сословиями
-- Цена реформ для населения
-
-### Наследие дворцовых переворотов
-**Политические последствия:**
-- Укрепление роли гвардии в политике
-- Оформление дворянских привилегий
-- Сохранение самодержавной модели власти
-- Подготовка почвы для «просвещенного абсолютизма»`,
+Реформы Петра изменили Россию, но были очень тяжелы для народа. Созданные им институты работали и после его смерти. Дворцовые перевороты показали, что гвардия и знать стали важными политическими силами. К концу этого периода дворянство окончательно стало главным привилегированным сословием.`,
 
     english: `# Russia in the Era of Peter I and the "Palace Coups"
 
-## Russia in the Era of Peter I's Reforms
+## Peter the Great's Reforms: Modernizing Russia
 
-### Necessity and Character of Reforms
-**Prerequisites for reforms:**
-- Economic and military lag behind European countries
-- Need for sea access for trade development
-- Strengthening of centralized state apparatus
+### Why Were Reforms Necessary?
+By the early 18th century, Russia lagged significantly behind European countries. It had no sea access, limiting trade. The army was inferior to European ones in organization and weaponry. State administration was inefficient.
 
-**Methods and principles of reforms:**
-- Strict centralization of management
-- Active borrowing of European experience
-- Priority of state interests over private ones
-- Accelerated modernization of all spheres of life
+### Key Social Changes
 
-### Social Transformations
-**Formation of the nobility:**
-- Consolidation of service ranks into unified nobility
-- Decree on Single Inheritance (1714)
-- Table of Ranks (1722) - new career principles
+**Nobility:** Previously, nobility was determined by birth. Peter introduced the **Table of Ranks** (1722) - now ranks could be earned through service, not just inheritance.
 
-**Status of other estates:**
-- Expansion of merchant rights and urban self-government
-- Introduction of poll tax and its social consequences
-- Peasant stratification: proprietary, state, palace
-- Strengthening of serfdom through fiscal reforms
+**Towns:** Merchants gained more self-government rights, but taxes also increased.
 
-### State Reforms
-**Central administration:**
-- Abolition of Boyar Duma
-- Creation of Senate as supreme authority
-- Replacement of prikazes with colleges
-- Introduction of General Regulations
+**Peasants:** The **poll tax** was introduced - a tax on every "soul" (person). This strengthened serfdom, as landowners were responsible for collecting taxes from their peasants.
 
-**Local government:**
-- Regional reforms of 1708 and 1719
-- Creation of gubernias and provinces
-- Reforms of urban self-government
-- Establishment of Chief Magistrate
+### New State Administration
 
-**Control bodies:**
-- Creation of prosecutor's office (open control)
-- Institute of fiscals (secret control)
-- System of audits and reporting
+Instead of old prikazes, Peter created **colleges** - prototypes of modern ministries. The **Senate** was established to govern the country in the tsar's absence. For control, the **prosecutor's office** (open supervision) and **fiscals** (secret supervision) were created.
 
-### Military Transformations
-**Creation of regular army:**
-- Introduction of conscription
-- Unified system of training and supply
-- Creation of military educational institutions
+### Military Successes
+The **Great Northern War** (1700-1721) against Sweden gave Russia access to the Baltic Sea. A modern army and navy were built. St. Petersburg was founded - a "window to Europe."
 
-**Fleet development:**
-- Construction of Baltic Fleet
-- Creation of naval bases
-- Training of naval officers
-
-### Foreign Policy
-**Main directions:**
-- Struggle for Baltic Sea access
-- Strengthening positions on Black Sea
-- Expansion of influence in the East
-
-**Great Northern War (1700-1721):**
-- Key battles: Lesnaya, Poltava, Gangut, Grengam
-- Capture of key fortresses: Noteburg, Narva, Riga
-- Treaty of Nystad and its consequences
-
-**Eastern policy:**
-- Prut River Campaign of 1711
-- Caspian Campaign of 1722-1723
-- Development of relations with China
-
-### Economic Transformations
-**Industrial development:**
-- Policy of mercantilism and protectionism
-- Creation of new industrial regions
-- Development of Ural metallurgy
-- Construction of manufactories and shipyards
-
-**Trade and finance:**
-- First customs tariff (1724)
-- Development of transport systems
-- Monetary reform
-- Creation of banking system
-
-### Social Protest and Opposition
-**Major uprisings:**
-- Streltsy uprisings of 1682, 1689, 1698
-- Astrakhan uprising (1705-1706)
-- Kondraty Bulavin's rebellion (1707-1708)
-- Bashkir uprising (1704-1711)
-
-**Church conflicts:**
-- Old Believers movement
-- Abolition of patriarchate and creation of Synod
-- Beginning of secularization of church lands
-
-### Cultural Transformations
-**Education and science:**
-- Creation of secular educational institutions
-- Opening of Slavic-Greek-Latin Academy
-- Foundation of Academy of Sciences
-- Creation of Kunstkamera
-
-**Culture and lifestyle:**
-- Introduction of civil script
-- Development of secular literature and theater
-- Lifestyle changes according to European models
-- New forms of leisure and entertainment
+### Economic Development
+Manufactories were created, metallurgy developed in the Urals. The state supported domestic industry (**protectionism**).
 
 ## Era of Palace Coups (1725-1762)
 
-### Causes of Political Instability
-**Instability factors:**
-- Uncertainty in succession
-- Growing role of guards in politics
-- Struggle of court factions
-- Contradictions between old and new nobility
+### Why Did Instability Begin?
+Peter didn't appoint a clear heir. Guard regiments became the main force in the power struggle. Different noble factions fought for influence.
 
-### Reign of Catherine I (1725-1727)
-**Main events:**
-- Creation of Supreme Privy Council
-- Continuation of Peter's course
-- Strengthening of Menshikov's position
+### Main Rulers of the Era:
 
-### Reign of Peter II (1727-1730)
-**Reign features:**
-- Struggle of court factions
-- Fall of Menshikov
-- Transfer of capital to Moscow
+**Catherine I** (1725-1727) - Peter's wife, Menshikov gained power under her
 
-### Reign of Anna Ioannovna (1730-1740)
-**"Supreme Leaders' Project":**
-- Attempt to limit autocracy
-- Conditions of Supreme Privy Council
-- Restoration of autocratic power
+**Peter II** (1727-1730) - Peter's grandson, died young from smallpox
 
-**Domestic policy:**
-- Creation of Cabinet of Ministers
-- Strengthening of foreigners' positions ("Bironovshchina")
-- Development of industry and trade
+**Anna Ioannovna** (1730-1740) - Peter's niece, foreign influence increased under her
 
-### Reign of Elizabeth Petrovna (1741-1761)
-**Main directions:**
-- Strengthening of nobility positions
-- Economic reforms
-- Development of culture and education
-- Participation in Seven Years' War
+**Elizabeth Petrovna** (1741-1761) - Peter's daughter, returned capital to St. Petersburg
 
-### Reign of Peter III (1761-1762)
-**Key measures:**
-- Manifesto on Freedom of Nobility
-- Beginning of church lands secularization
-- Withdrawal from Seven Years' War
-- Reasons for overthrow and death
+**Peter III** (1761-1762) - Peter I's grandson, overthrown by his wife Catherine
 
-## Historical Significance of the Era
+### Important Changes:
+- **Manifesto on Freedom of Nobility** (1762) freed nobles from mandatory service
+- Nobility gained increasing privileges
+- Russia participated in European conflicts (Seven Years' War)
 
-### Results of Peter's Reforms
-**Achievements:**
-- Creation of powerful regular army and navy
-- Transformation of Russia into European power
-- Development of industry and trade
-- Formation of new management system
+## Significance of the Era
 
-**Contradictions:**
-- Strengthening of serfdom
-- Growth of tax burden
-- Cultural gap between estates
-- Cost of reforms for population
-
-### Legacy of Palace Coups
-**Political consequences:**
-- Strengthening of guards' role in politics
-- Formalization of noble privileges
-- Preservation of autocratic power model
-- Preparation for "enlightened absolutism"`,
+Peter's reforms changed Russia but were very hard on the people. The institutions he created continued working after his death. The palace coups showed that guards and nobility became important political forces. By the end of this period, the nobility had firmly become the main privileged estate.`,
 
     french: `# La Russie à l'époque de Pierre Ier et des "révolutions de palais"
 
-## La Russie à l'époque des réformes de Pierre Ier
+## Les réformes de Pierre le Grand : Moderniser la Russie
 
-### Nécessité et caractère des réformes
-**Prérequis des réformes:**
-- Retard économique et militaire par rapport aux pays européens
-- Nécessité d'un accès à la mer pour le développement commercial
-- Renforcement de l'appareil d'État centralisé
+### Pourquoi les réformes étaient-elles nécessaires ?
+Au début du XVIIIe siècle, la Russie accusait un retard important sur les pays européens. Elle n'avait pas d'accès à la mer, ce qui limitait le commerce. L'armée était inférieure aux armées européennes en organisation et en armement. L'administration de l'État était inefficace.
 
-**Méthodes et principes des réformes:**
-- Centralisation stricte de la gestion
-- Emprunt actif de l'expérience européenne
-- Priorité des intérêts de l'État sur les privés
-- Modernisation accélérée de tous les domaines de la vie
+### Changements sociaux clés
 
-### Transformations sociales
-**Formation de la noblesse:**
-- Consolidation des rangs de service en une noblesse unifiée
-- Décret sur l'héritage unique (1714)
-- Table des rangs (1722) - nouveaux principes de carrière
+**Noblesse :** Auparavant, la noblesse était déterminée par la naissance. Pierre introduisit la **Table des rangs** (1722) - désormais les rangs pouvaient être obtenus par le service, pas seulement par héritage.
 
-**Statut des autres ordres:**
-- Extension des droits des marchands et de l'autonomie urbaine
-- Introduction de la capitation et ses conséquences sociales
-- Stratification de la paysannerie: propriétaires, état, palais
-- Renforcement du servage par les réformes fiscales
+**Villes :** Les marchands obtinrent plus de droits d'autonomie, mais les taxes augmentèrent également.
 
-### Réformes de l'État
-**Administration centrale:**
-- Abolition de la Douma des boyards
-- Création du Sénat comme autorité suprême
-- Remplacement des prikazes par des collèges
-- Introduction du Règlement général
+**Paysans :** La **capitation** fut introduite - un impôt sur chaque "âme" (personne). Cela renforça le servage, car les propriétaires terriens étaient responsables de collecter les impôts de leurs paysans.
 
-**Gouvernement local:**
-- Réformes régionales de 1708 et 1719
-- Création de gouvernements et provinces
-- Réformes de l'autonomie urbaine
-- Établissement du Magistrat principal
+### Nouvelle administration de l'État
 
-**Organes de contrôle:**
-- Création du procureur (contrôle ouvert)
-- Institut des fiscaux (contrôle secret)
-- Système de révisions et de rapports
+Au lieu des anciens prikazes, Pierre créa des **collèges** - prototypes des ministères modernes. Le **Sénat** fut établi pour gouverner le pays en l'absence du tsar. Pour le contrôle, le **procureur** (supervision ouverte) et les **fiscaux** (supervision secrète) furent créés.
 
-### Transformations militaires
-**Création d'une armée régulière:**
-- Introduction de la conscription
-- Système unifié de formation et d'approvisionnement
-- Création d'établissements d'enseignement militaire
+### Succès militaires
+La **Grande guerre du Nord** (1700-1721) contre la Suède donna à la Russie l'accès à la mer Baltique. Une armée et une marine modernes furent construites. Saint-Pétersbourg fut fondée - une "fenêtre sur l'Europe".
 
-**Développement de la flotte:**
-- Construction de la flotte baltique
-- Création de bases navales
-- Formation des officiers de marine
-
-### Politique étrangère
-**Directions principales:**
-- Lutte pour l'accès à la mer Baltique
-- Renforcement des positions sur la mer Noire
-- Expansion de l'influence à l'Est
-
-**Grande guerre du Nord (1700-1721):**
-- Batailles clés: Lesnaïa, Poltava, Gangut, Grengam
-- Prise de forteresses clés: Notebourg, Narva, Riga
-- Paix de Nystad et ses conséquences
-
-**Politique orientale:**
-- Campagne du Prout de 1711
-- Campagne caspienne de 1722-1723
-- Développement des relations avec la Chine
-
-### Transformations économiques
-**Développement industriel:**
-- Politique de mercantilisme et protectionnisme
-- Création de nouvelles régions industrielles
-- Développement de la métallurgie de l'Oural
-- Construction de manufactures et chantiers navals
-
-**Commerce et finances:**
-- Premier tarif douanier (1724)
-- Développement des systèmes de transport
-- Réforme monétaire
-- Création du système bancaire
-
-### Protestation sociale et opposition
-**Principales révoltes:**
-- Révoltes des streltsy de 1682, 1689, 1698
-- Révolte d'Astrakhan (1705-1706)
-- Rébellion de Kondraty Boulavine (1707-1708)
-- Révolte bachkire (1704-1711)
-
-**Conflits religieux:**
-- Mouvement des vieux-croyants
-- Abolition du patriarcat et création du Synode
-- Début de la sécularisation des terres d'Église
-
-### Transformations culturelles
-**Éducation et science:**
-- Création d'établissements d'enseignement laïques
-- Ouverture de l'Académie slavo-gréco-latine
-- Fondation de l'Académie des sciences
-- Création de la Kunstkamera
-
-**Culture et mode de vie:**
-- Introduction de l'alphabet civil
-- Développement de la littérature et du théâtre laïques
-- Changements de mode de vie selon les modèles européens
-- Nouvelles formes de loisirs et divertissements
+### Développement économique
+Des manufactures furent créées, la métallurgie se développa dans l'Oural. L'État soutint l'industrie nationale (**protectionnisme**).
 
 ## Ère des révolutions de palais (1725-1762)
 
-### Causes de l'instabilité politique
-**Facteurs d'instabilité:**
-- Incertitude dans la succession
-- Rôle croissant de la garde dans la politique
-- Lutte des factions de cour
-- Contradictions entre ancienne et nouvelle noblesse
+### Pourquoi l'instabilité a-t-elle commencé ?
+Pierre n'avait pas désigné d'héritier clair. Les régiments de la garde devinrent la force principale dans la lutte pour le pouvoir. Différentes factions nobles se battaient pour l'influence.
 
-### Règne de Catherine I (1725-1727)
-**Événements principaux:**
-- Création du Conseil suprême privé
-- Poursuite du cours de Pierre
-- Renforcement de la position de Menchikov
+### Souverains principaux de l'ère :
 
-### Règne de Pierre II (1727-1730)
-**Caractéristiques du règne:**
-- Lutte des factions de cour
-- Chute de Menchikov
-- Transfert de la capitale à Moscou
+**Catherine Ière** (1725-1727) - femme de Pierre, Menchikov gagna en pouvoir sous son règne
 
-### Règne d'Anna Ioannovna (1730-1740)
-**"Projet des chefs suprêmes":**
-- Tentative de limitation de l'autocratie
-- Conditions du Conseil suprême privé
-- Restauration du pouvoir autocratique
+**Pierre II** (1727-1730) - petit-fils de Pierre, mort jeune de la variole
 
-**Politique intérieure:**
-- Création du Cabinet des ministres
-- Renforcement des positions des étrangers ("Bironovchtchina")
-- Développement de l'industrie et du commerce
+**Anna Ioannovna** (1730-1740) - nièce de Pierre, influence étrangère accrue sous son règne
 
-### Règne d'Elizabeth Petrovna (1741-1761)
-**Directions principales:**
-- Renforcement des positions de la noblesse
-- Réformes économiques
-- Développement de la culture et de l'éducation
-- Participation à la guerre de Sept Ans
+**Elizabeth Petrovna** (1741-1761) - fille de Pierre, retourna la capitale à Saint-Pétersbourg
 
-### Règne de Pierre III (1761-1762)
-**Mesures clés:**
-- Manifeste sur la liberté de la noblesse
-- Début de la sécularisation des terres d'Église
-- Retrait de la guerre de Sept Ans
-- Raisons du renversement et mort
+**Pierre III** (1761-1762) - petit-fils de Pierre Ier, renversé par sa femme Catherine
 
-## Importance historique de l'époque
+### Changements importants :
+- **Manifeste sur la liberté de la noblesse** (1762) libéra les nobles du service obligatoire
+- La noblesse obtint des privilèges croissants
+- La Russie participa aux conflits européens (guerre de Sept Ans)
 
-### Résultats des réformes de Pierre
-**Réalisations:**
-- Création d'une puissante armée et marine régulières
-- Transformation de la Russie en puissance européenne
-- Développement de l'industrie et du commerce
-- Formation d'un nouveau système de gestion
+## Importance de l'ère
 
-**Contradictions:**
-- Renforcement du servage
-- Augmentation de la charge fiscale
-- Fossé culturel entre les ordres
-- Coût des réformes pour la population
-
-### Héritage des révolutions de palais
-**Conséquences politiques:**
-- Renforcement du rôle de la garde dans la politique
-- Formalisation des privilèges nobiliaires
-- Préservation du modèle de pouvoir autocratique
-- Préparation au "despotisme éclairé"`,
+Les réformes de Pierre changèrent la Russie mais furent très dures pour le peuple. Les institutions qu'il créa continuèrent à fonctionner après sa mort. Les révolutions de palais montrèrent que la garde et la noblesse étaient devenues des forces politiques importantes. À la fin de cette période, la noblesse était fermement devenue le principal ordre privilégié.`,
 
     spanish: `# Rusia en la época de Pedro I y los "golpes palaciegos"
 
-## Rusia en la época de las reformas de Pedro I
+## Reformas de Pedro el Grande: Modernizando Rusia
 
-### Necesidad y carácter de las reformas
-**Prerrequisitos para las reformas:**
-- Atraso económico y militar respecto a países europeos
-- Necesidad de acceso al mar para desarrollo comercial
-- Fortalecimiento del aparato estatal centralizado
+### ¿Por qué eran necesarias las reformas?
+A principios del siglo XVIII, Rusia estaba significativamente rezagada respecto a los países europeos. No tenía acceso al mar, lo que limitaba el comercio. El ejército era inferior a los europeos en organización y armamento. La administración estatal era ineficiente.
 
-**Métodos y principios de reformas:**
-- Centralización estricta de la gestión
-- Activa adopción de experiencia europea
-- Prioridad de intereses estatales sobre privados
-- Modernización acelerada de todos los ámbitos de vida
+### Cambios sociales clave
 
-### Transformaciones sociales
-**Formación de la nobleza:**
-- Consolidación de rangos de servicio en nobleza unificada
-- Decreto sobre Herencia Única (1714)
-- Tabla de Rangos (1722) - nuevos principios de carrera
+**Nobleza:** Anteriormente, la nobleza se determinaba por nacimiento. Pedro introdujo la **Tabla de Rangos** (1722) - ahora los rangos se podían obtener por servicio, no solo por herencia.
 
-**Situación de otros estamentos:**
-- Expansión de derechos mercantiles y autogobierno urbano
-- Introducción de impuesto de capitación y sus consecuencias sociales
-- Estratificación campesina: propietarios, estatales, palaciegos
-- Fortalecimiento de servidumbre mediante reformas fiscales
+**Ciudades:** Los comerciantes obtuvieron más derechos de autogobierno, pero también aumentaron los impuestos.
 
-### Reformas estatales
-**Administración central:**
-- Abolición de la Duma de Boyardos
-- Creación del Senado como autoridad suprema
-- Reemplazo de prikazas por colegios
-- Introducción del Reglamento General
+**Campesinos:** Se introdujo el **impuesto de capitación** - un impuesto por cada "alma" (persona). Esto fortaleció la servidumbre, ya que los terratenientes eran responsables de cobrar impuestos de sus campesinos.
 
-**Gobierno local:**
-- Reformas regionales de 1708 y 1719
-- Creación de gubernias y provincias
-- Reformas de autogobierno urbano
-- Establecimiento del Magistrado Principal
+### Nueva administración estatal
 
-**Órganos de control:**
-- Creación de fiscalía (control abierto)
-- Instituto de fiscales (control secreto)
-- Sistema de revisiones e informes
+En lugar de los antiguos prikazas, Pedro creó **colegios** - prototipos de ministerios modernos. Se estableció el **Senado** para gobernar el país en ausencia del zar. Para el control, se crearon la **fiscalía** (supervisión abierta) y los **fiscales** (supervisión secreta).
 
-### Transformaciones militares
-**Creación de ejército regular:**
-- Introducción de reclutamiento
-- Sistema unificado de entrenamiento y suministro
-- Creación de instituciones educativas militares
+### Éxitos militares
+La **Gran Guerra del Norte** (1700-1721) contra Suecia dio a Rusia acceso al Mar Báltico. Se construyó un ejército y armada modernos. Se fundó San Petersburgo - una "ventana a Europa".
 
-**Desarrollo de flota:**
-- Construcción de Flota Báltica
-- Creación de bases navales
-- Entrenamiento de oficiales navales
-
-### Política exterior
-**Direcciones principales:**
-- Lucha por acceso al Mar Báltico
-- Fortalecimiento de posiciones en Mar Negro
-- Expansión de influencia en Oriente
-
-**Gran Guerra del Norte (1700-1721):**
-- Batallas clave: Lesnaya, Poltava, Gangut, Grengam
-- Captura de fortalezas clave: Noteburgo, Narva, Riga
-- Paz de Nystad y sus consecuencias
-
-**Política oriental:**
-- Campaña del Prut de 1711
-- Campaña del Caspio 1722-1723
-- Desarrollo de relaciones con China
-
-### Transformaciones económicas
-**Desarrollo industrial:**
-- Política de mercantilismo y proteccionismo
-- Creación de nuevas regiones industriales
-- Desarrollo de metalurgia de los Urales
-- Construcción de manufacturas y astilleros
-
-**Comercio y finanzas:**
-- Primer arancel aduanero (1724)
-- Desarrollo de sistemas de transporte
-- Reforma monetaria
-- Creación de sistema bancario
-
-### Protesta social y oposición
-**Principales levantamientos:**
-- Levantamientos de streltsý de 1682, 1689, 1698
-- Levantamiento de Astracán (1705-1706)
-- Rebelión de Kondraty Bulavin (1707-1708)
-- Levantamiento bashkirio (1704-1711)
-
-**Conflictos eclesiásticos:**
-- Movimiento de Viejos Creyentes
-- Abolición del patriarcado y creación del Sínodo
-- Inicio de secularización de tierras eclesiásticas
-
-### Transformaciones culturales
-**Educación y ciencia:**
-- Creación de instituciones educativas seculares
-- Apertura de Academia Eslavo-Greco-Latina
-- Fundación de Academia de Ciencias
-- Creación de Kunstkamera
-
-**Cultura y vida cotidiana:**
-- Introducción de alfabeto civil
-- Desarrollo de literatura y teatro seculares
-- Cambios de vida según modelos europeos
-- Nuevas formas de ocio y entretenimiento
+### Desarrollo económico
+Se crearon manufacturas, se desarrolló la metalurgia en los Urales. El estado apoyó la industria nacional (**proteccionismo**).
 
 ## Era de golpes palaciegos (1725-1762)
 
-### Causas de inestabilidad política
-**Factores de inestabilidad:**
-- Incertidumbre en sucesión
-- Crecimiento del rol de guardia en política
-- Lucha de facciones cortesanas
-- Contradicciones entre nobleza vieja y nueva
+### ¿Por qué comenzó la inestabilidad?
+Pedro no designó un heredero claro. Los regimientos de guardia se convirtieron en la fuerza principal en la lucha por el poder. Diferentes facciones nobiliarias luchaban por influencia.
 
-### Reinado de Catalina I (1725-1727)
-**Eventos principales:**
-- Creación del Consejo Supremo Privado
-- Continuación del curso de Pedro
-- Fortalecimiento de posición de Ménshikov
+### Gobernantes principales de la era:
 
-### Reinado de Pedro II (1727-1730)
-**Características del reinado:**
-- Lucha de facciones cortesanas
-- Caída de Ménshikov
-- Traslado de capital a Moscú
+**Catalina I** (1725-1727) - esposa de Pedro, Ménshikov ganó poder bajo su reinado
 
-### Reinado de Ana Ioánnovna (1730-1740)
-**"Proyecto de líderes supremos":**
-- Intento de limitar autocracia
-- Condiciones del Consejo Supremo Privado
-- Restauración de poder autocrático
+**Pedro II** (1727-1730) - nieto de Pedro, murió joven de viruela
 
-**Política interna:**
-- Creación de Gabinete de Ministros
-- Fortalecimiento de posiciones extranjeras ("Bironovshchina")
-- Desarrollo de industria y comercio
+**Ana Ioánnovna** (1730-1740) - sobrina de Pedro, aumentó la influencia extranjera bajo su reinado
 
-### Reinado de Isabel Petrovna (1741-1761)
-**Direcciones principales:**
-- Fortalecimiento de posiciones nobiliarias
-- Reformas económicas
-- Desarrollo de cultura y educación
-- Participación en Guerra de los Siete Años
+**Isabel Petrovna** (1741-1761) - hija de Pedro, devolvió la capital a San Petersburgo
 
-### Reinado de Pedro III (1761-1762)
-**Medidas clave:**
-- Manifiesto sobre Libertad de la Nobleza
-- Inicio de secularización de tierras eclesiásticas
-- Retirada de Guerra de los Siete Años
-- Razones de derrocamiento y muerte
+**Pedro III** (1761-1762) - nieto de Pedro I, derrocado por su esposa Catalina
 
-## Significado histórico de la época
+### Cambios importantes:
+- **Manifiesto sobre Libertad de la Nobleza** (1762) liberó a los nobles del servicio obligatorio
+- La nobleza obtuvo privilegios crecientes
+- Rusia participó en conflictos europeos (Guerra de los Siete Años)
 
-### Resultados de reformas de Pedro
-**Logros:**
-- Creación de poderoso ejército y marina regulares
-- Transformación de Rusia en potencia europea
-- Desarrollo de industria y comercio
-- Formación de nuevo sistema de gestión
+## Significado de la era
 
-**Contradicciones:**
-- Fortalecimiento de servidumbre
-- Crecimiento de carga tributaria
-- Brecha cultural entre estamentos
-- Costo de reformas para población
-
-### Legado de golpes palaciegos
-**Consecuencias políticas:**
-- Fortalecimiento del rol de guardia en política
-- Formalización de privilegios nobiliarios
-- Preservación de modelo de poder autocrático
-- Preparación para "absolutismo ilustrado"`
+Las reformas de Pedro cambiaron Rusia pero fueron muy duras para el pueblo. Las instituciones que creó continuaron funcionando después de su muerte. Los golpes palaciegos mostraron que la guardia y la nobleza se habían convertido en fuerzas políticas importantes. Al final de este período, la nobleza se había convertido firmemente en el principal estamento privilegiado.`
   },
   relatedMuseum: "Kunstkamera Museum, St. Petersburg",
   museumConnection: {
-    russian: `Кунсткамера в Санкт-Петербурге представляет уникальную коллекцию, отражающую эпоху Петра I и последующий период:
+    russian: `Кунсткамера - первый музей России, основанный Петром I в 1714 году. Его коллекции отражают просветительские цели царя-реформатора:
 
-**Коллекция петровской эпохи:**
-- Личные вещи Петра I и его современников
-- Предметы быта и культуры начала XVIII века
-- Документы и рукописи периода реформ
+**Научные инструменты** показывают, как Петр внедрял европейскую науку
+**Анатомические коллекции** демонстрируют новый интерес к изучению человека
+**Этнографические экспонаты** отражают внимание к народам империи
 
-**Научные коллекции:**
-- Анатомические препараты и редкости
-- Астрономические инструменты и приборы
-- Этнографические собрания народов России
+Музей символизирует поворот России к рациональному знанию и образованию.`,
 
-**Исторические экспонаты:**
-- Модели кораблей петровского флота
-- Образцы вооружения и униформы
-- Предметы декоративно-прикладного искусства
+    english: `Kunstkamera - Russia's first museum, founded by Peter I in 1714. Its collections reflect the educational goals of the reforming tsar:
 
-**Архитектурный комплекс:**
-- Здание Кунсткамеры как памятник петровского барокко
-- Интерьеры эпохи дворцовых переворотов
-- Экспозиции, посвященные развитию науки
+**Scientific instruments** show how Peter introduced European science
+**Anatomical collections** demonstrate new interest in human study
+**Ethnographic exhibits** reflect attention to empire's peoples
 
-Кунсткамера позволяет проследить связь между петровскими преобразованиями и развитием российской науки и культуры в XVIII веке.`,
+The museum symbolizes Russia's turn toward rational knowledge and education.`,
 
-    english: `The Kunstkamera in St. Petersburg presents a unique collection reflecting the era of Peter I and the subsequent period:
+    french: `La Kunstkamera - premier musée de Russie, fondé par Pierre Ier en 1714. Ses collections reflètent les objectifs éducatifs du tsar réformateur :
 
-**Collection of Peter's era:**
-- Personal belongings of Peter I and his contemporaries
-- Household items and culture of early 18th century
-- Documents and manuscripts of the reform period
+**Instruments scientifiques** montrent comment Pierre introduisit la science européenne
+**Collections anatomiques** démontrent le nouvel intérêt pour l'étude humaine
+**Expositions ethnographiques** reflètent l'attention aux peuples de l'empire
 
-**Scientific collections:**
-- Anatomical preparations and rarities
-- Astronomical instruments and devices
-- Ethnographic collections of Russian peoples
+Le musée symbolise le tournant de la Russie vers la connaissance rationnelle et l'éducation.`,
 
-**Historical exhibits:**
-- Models of Peter's fleet ships
-- Samples of weapons and uniforms
-- Decorative and applied art objects
+    spanish: `Kunstkamera - primer museo de Rusia, fundado por Pedro I en 1714. Sus colecciones reflejan los objetivos educativos del zar reformador:
 
-**Architectural complex:**
-- Kunstkamera building as monument of Petrine Baroque
-- Interiors from the era of palace coups
-- Exhibitions dedicated to science development
+**Instrumentos científicos** muestran cómo Pedro introdujo la ciencia europea
+**Colecciones anatómicas** demuestran nuevo interés en el estudio humano
+**Exposiciones etnográficas** reflejan atención a los pueblos del imperio
 
-The Kunstkamera allows tracing the connection between Peter's transformations and the development of Russian science and culture in the 18th century.`,
-
-    french: `La Kunstkamera à Saint-Pétersbourg présente une collection unique reflétant l'époque de Pierre Ier et la période suivante:
-
-**Collection de l'époque de Pierre:**
-- Effets personnels de Pierre Ier et de ses contemporains
-- Objets domestiques et culture du début du XVIIIe siècle
-- Documents et manuscrits de la période des réformes
-
-**Collections scientifiques:**
-- Préparations anatomiques et raretés
-- Instruments et appareils astronomiques
-- Collections ethnographiques des peuples de Russie
-
-**Expositions historiques:**
-- Maquettes de navires de la flotte de Pierre
-- Échantillons d'armes et d'uniformes
-- Objets d'art décoratif et appliqué
-
-**Complexe architectural:**
-- Bâtiment de la Kunstkamera comme monument du baroque pétrovien
-- Intérieurs de l'époque des révolutions de palais
-- Expositions consacrées au développement scientifique
-
-La Kunstkamera permet de retracer le lien entre les transformations de Pierre et le développement de la science et de la culture russes au XVIIIe siècle.`,
-
-    spanish: `La Kunstkamera en San Petersburgo presenta una colección única que refleja la época de Pedro I y el período subsiguiente:
-
-**Colección de la época de Pedro:**
-- Pertenencias personales de Pedro I y sus contemporáneos
-- Objetos domésticos y cultura de principios del siglo XVIII
-- Documentos y manuscritos del período de reformas
-
-**Colecciones científicas:**
-- Preparaciones anatómicas y rarezas
-- Instrumentos y dispositivos astronómicos
-- Colecciones etnográficas de pueblos de Rusia
-
-**Exposiciones históricas:**
-- Modelos de barcos de la flota de Pedro
-- Muestras de armas y uniformes
-- Objetos de arte decorativo y aplicado
-
-**Complejo arquitectónico:**
-- Edificio de Kunstkamera como monumento del Barroco petrino
-- Interiores de la época de golpes palaciegos
-- Exposiciones dedicadas al desarrollo científico
-
-La Kunstkamera permite rastrear la conexión entre las transformaciones de Pedro y el desarrollo de la ciencia y cultura rusas en el siglo XVIII.`
+El museo simboliza el giro de Rusia hacia el conocimiento racional y la educación.`
   },
   quiz: [
     {
       question: {
-        russian: "Какой документ установил новую систему чинов и продвижения по службе в России?",
-        english: "Which document established a new system of ranks and career advancement in Russia?",
-        french: "Quel document a établi un nouveau système de rangs et d'avancement de carrière en Russie?",
-        spanish: "¿Qué documento estableció un nuevo sistema de rangos y avance profesional en Rusia?"
+        russian: "Петр I ввел подушную подать, которая собиралась с каждого человека. Как это повлияло на положение крестьян?",
+        english: "Peter I introduced the poll tax, which was collected from every person. How did this affect the peasants' situation?",
+        french: "Pierre Ier introduisit la capitation, qui était collectée sur chaque personne. Comment cela affecta-t-il la situation des paysans?",
+        spanish: "Pedro I introdujo el impuesto de capitación, que se cobraba por cada persona. ¿Cómo afectó esto la situación de los campesinos?"
       },
       options: [
         {
-          russian: "Табель о рангах",
-          english: "Table of Ranks",
-          french: "Table des rangs",
-          spanish: "Tabla de Rangos"
+          russian: "Усилило крепостную зависимость, так как помещики контролировали сбор налогов",
+          english: "Strengthened serfdom, as landowners controlled tax collection",
+          french: "Renforça le servage, car les propriétaires terriens contrôlaient la collecte des impôts",
+          spanish: "Fortaleció la servidumbre, ya que los terratenientes controlaban la recaudación de impuestos"
         },
         {
-          russian: "Указ о единонаследии",
-          english: "Decree on Single Inheritance",
-          french: "Décret sur l'héritage unique",
-          spanish: "Decreto sobre Herencia Única"
+          russian: "Ослабило власть помещиков над крестьянами",
+          english: "Weakened landowners' power over peasants",
+          french: "Affaiblit le pouvoir des propriétaires terriens sur les paysans",
+          spanish: "Debilitó el poder de los terratenientes sobre los campesinos"
         },
         {
-          russian: "Генеральный регламент",
-          english: "General Regulations",
-          french: "Règlement général",
-          spanish: "Reglamento General"
+          russian: "Дало крестьянам больше экономической самостоятельности",
+          english: "Gave peasants more economic independence",
+          french: "Donna aux paysans plus d'indépendance économique",
+          spanish: "Dio a los campesinos más independencia económica"
         },
         {
-          russian: "Манифест о вольности дворянской",
-          english: "Manifesto on Freedom of Nobility",
-          french: "Manifeste sur la liberté de la noblesse",
-          spanish: "Manifiesto sobre Libertad de la Nobleza"
+          russian: "Привело к отмене крепостного права",
+          english: "Led to the abolition of serfdom",
+          french: "Conduisit à l'abolition du servage",
+          spanish: "Condujo a la abolición de la servidumbre"
         }
       ],
       correctAnswer: 0
     },
     {
       question: {
-        russian: "Какое событие считается началом эпохи дворцовых переворотов?",
-        english: "What event is considered the beginning of the era of palace coups?",
-        french: "Quel événement est considéré comme le début de l'ère des révolutions de palais?",
-        spanish: "¿Qué evento se considera el inicio de la era de golpes palaciegos?"
+        russian: "После смерти Петра I началась эпоха дворцовых переворотов. Какая группа стала главной силой в смене правителей?",
+        english: "After Peter I's death, the era of palace coups began. Which group became the main force in changing rulers?",
+        french: "Après la mort de Pierre Ier, l'ère des révolutions de palais commença. Quel groupe devint la force principale dans le changement de souverains?",
+        spanish: "Tras la muerte de Pedro I, comenzó la era de golpes palaciegos. ¿Qué grupo se convirtió en la fuerza principal para cambiar gobernantes?"
       },
       options: [
         {
-          russian: "Смерть Петра I в 1725 году",
-          english: "Death of Peter I in 1725",
-          french: "Mort de Pierre Ier en 1725",
-          spanish: "Muerte de Pedro I en 1725"
+          russian: "Крестьянские общины и городские ремесленники",
+          english: "Peasant communities and urban artisans",
+          french: "Communautés paysannes et artisans urbains",
+          spanish: "Comunidades campesinas y artesanos urbanos"
         },
         {
-          russian: "Восшествие на престол Екатерины I",
-          english: "Accession of Catherine I to the throne",
-          french: "Avènement de Catherine Ier au trône",
-          spanish: "Ascensión al trono de Catalina I"
+          russian: "Гвардейские полки и придворная знать",
+          english: "Guard regiments and court nobility",
+          french: "Régiments de la garde et noblesse de cour",
+          spanish: "Regimientos de guardia y nobleza cortesana"
         },
         {
-          russian: "Создание Верховного тайного совета",
-          english: "Creation of Supreme Privy Council",
-          french: "Création du Conseil suprême privé",
-          spanish: "Creación del Consejo Supremo Privado"
+          russian: "Церковные иерархи и монастыри",
+          english: "Church hierarchs and monasteries",
+          french: "Hiérarques de l'Église et monastères",
+          spanish: "Jerarcas eclesiásticos y monasterios"
         },
         {
-          russian: "Падение Меншикова",
-          english: "Fall of Menshikov",
-          french: "Chute de Menchikov",
-          spanish: "Caída de Ménshikov"
+          russian: "Купцы и промышленники",
+          english: "Merchants and industrialists",
+          french: "Marchands et industriels",
+          spanish: "Comerciantes e industriales"
         }
       ],
-      correctAnswer: 0
+      correctAnswer: 1
     },
     {
       question: {
-        russian: "Какой мирный договор завершил Северную войну?",
-        english: "Which peace treaty ended the Great Northern War?",
-        french: "Quel traité de paix a mis fin à la Grande guerre du Nord?",
-        spanish: "¿Qué tratado de paz terminó la Gran Guerra del Norte?"
+        russian: "Табель о рангах, введенная Петром I, изменила принципы продвижения по службе. В чем состояло главное новшество этой системы?",
+        english: "The Table of Ranks introduced by Peter I changed career advancement principles. What was the main innovation of this system?",
+        french: "La Table des rangs introduite par Pierre Ier changea les principes d'avancement de carrière. Quelle était la principale innovation de ce système?",
+        spanish: "La Tabla de Rangos introducida por Pedro I cambió los principios de avance profesional. ¿Cuál fue la principal innovación de este sistema?"
       },
       options: [
         {
-          russian: "Ништадтский мир",
-          english: "Treaty of Nystad",
-          french: "Paix de Nystad",
-          spanish: "Paz de Nystad"
+          russian: "Чины можно было получить только по наследству",
+          english: "Ranks could only be obtained by inheritance",
+          french: "Les rangs ne pouvaient être obtenus que par héritage",
+          spanish: "Los rangos solo se podían obtener por herencia"
         },
         {
-          russian: "Прутский мир",
-          english: "Treaty of Prut",
-          french: "Paix du Prout",
-          spanish: "Paz del Prut"
+          russian: "Знатность происхождения стала единственным критерием",
+          english: "Nobility of birth became the only criterion",
+          french: "La noblesse de naissance devint le seul critère",
+          spanish: "La nobleza de nacimiento se convirtió en el único criterio"
         },
         {
-          russian: "Андрусовское перемирие",
-          english: "Truce of Andrusovo",
-          french: "Trêve d'Androussovo",
-          spanish: "Tregua de Andrúsovo"
+          russian: "Чины присваивались за личные заслуги и службу",
+          english: "Ranks were awarded for personal merit and service",
+          french: "Les rangs étaient attribués pour le mérite personnel et le service",
+          spanish: "Los rangos se otorgaban por mérito personal y servicio"
         },
         {
-          russian: "Вечный мир с Польшей",
-          english: "Eternal Peace with Poland",
-          french: "Paix éternelle avec la Pologne",
-          spanish: "Paz Eterna con Polonia"
+          russian: "Система применялась только к военным",
+          english: "The system applied only to military personnel",
+          french: "Le système s'appliquait seulement au personnel militaire",
+          spanish: "El sistema se aplicaba solo al personal militar"
         }
       ],
-      correctAnswer: 0
+      correctAnswer: 2
     },
     {
       question: {
-        russian: "Кто был автором «Манифеста о вольности дворянской»?",
-        english: "Who was the author of the 'Manifesto on Freedom of Nobility'?",
-        french: "Qui était l'auteur du 'Manifeste sur la liberté de la noblesse'?",
-        spanish: "¿Quién fue el autor del 'Manifiesto sobre Libertad de la Nobleza'?"
+        russian: "Манифест о вольности дворянской 1762 года освободил дворян от обязательной службы. Кто из правителей его подписал и в каких обстоятельствах?",
+        english: "The Manifesto on Freedom of Nobility of 1762 freed nobles from mandatory service. Which ruler signed it and under what circumstances?",
+        french: "Le Manifeste sur la liberté de la noblesse de 1762 libéra les nobles du service obligatoire. Quel souverain le signa et dans quelles circonstances?",
+        spanish: "El Manifiesto sobre Libertad de la Nobleza de 1762 liberó a los nobles del servicio obligatorio. ¿Qué gobernante lo firmó y en qué circunstancias?"
       },
       options: [
         {
-          russian: "Петр III",
-          english: "Peter III",
-          french: "Pierre III",
-          spanish: "Pedro III"
+          russian: "Екатерина II, стремясь заручиться поддержкой дворянства",
+          english: "Catherine II, seeking to secure nobility support",
+          french: "Catherine II, cherchant à s'assurer le soutien de la noblesse",
+          spanish: "Catalina II, buscando asegurar el apoyo de la nobleza"
         },
         {
-          russian: "Екатерина II",
-          english: "Catherine II",
-          french: "Catherine II",
-          spanish: "Catalina II"
+          russian: "Петр III, перед своим свержением с престола",
+          english: "Peter III, before his overthrow from the throne",
+          french: "Pierre III, avant son renversement du trône",
+          spanish: "Pedro III, antes de su derrocamiento del trono"
         },
         {
-          russian: "Елизавета Петровна",
-          english: "Elizabeth Petrovna",
-          french: "Elizabeth Petrovna",
-          spanish: "Isabel Petrovna"
+          russian: "Елизавета Петровна, в честь победы в войне",
+          english: "Elizabeth Petrovna, to celebrate war victory",
+          french: "Elizabeth Petrovna, pour célébrer la victoire à la guerre",
+          spanish: "Isabel Petrovna, para celebrar la victoria en la guerra"
         },
         {
-          russian: "Анна Иоанновна",
-          english: "Anna Ioannovna",
-          french: "Anna Ioannovna",
-          spanish: "Ana Ioánnovna"
+          russian: "Анна Иоанновна, выполняя условия верховников",
+          english: "Anna Ioannovna, fulfilling the Supreme Leaders' conditions",
+          french: "Anna Ioannovna, remplissant les conditions des chefs suprêmes",
+          spanish: "Ana Ioánnovna, cumpliendo las condiciones de los líderes supremos"
         }
       ],
-      correctAnswer: 0
+      correctAnswer: 1
     },
     {
       question: {
-        russian: "Какое учреждение заменило патриаршество в церковном управлении?",
-        english: "Which institution replaced the patriarchate in church administration?",
-        french: "Quelle institution a remplacé le patriarcat dans l'administration de l'Église?",
-        spanish: "¿Qué institución reemplazó al patriarcado en la administración eclesiástica?"
+        russian: "Создание коллегий вместо старых приказов было частью административной реформы Петра I. Какой европейский опыт использовался при этой реформе?",
+        english: "The creation of colleges instead of old prikazes was part of Peter I's administrative reform. What European experience was used in this reform?",
+        french: "La création de collèges au lieu des anciens prikazes faisait partie de la réforme administrative de Pierre Ier. Quelle expérience européenne fut utilisée dans cette réforme?",
+        spanish: "La creación de colegios en lugar de los antiguos prikazas fue parte de la reforma administrativa de Pedro I. ¿Qué experiencia europea se utilizó en esta reforma?"
       },
       options: [
         {
-          russian: "Святейший Синод",
-          english: "Holy Synod",
-          french: "Saint-Synode",
-          spanish: "Santo Sínodo"
+          russian: "Французская система абсолютной монархии",
+          english: "French system of absolute monarchy",
+          french: "Système français de monarchie absolue",
+          spanish: "Sistema francés de monarquía absoluta"
         },
         {
-          russian: "Монастырский приказ",
-          english: "Monastery Prikaz",
-          french: "Prikaz des monastères",
-          spanish: "Prikaz Monástico"
+          russian: "Английский парламентаризм",
+          english: "English parliamentarism",
+          french: "Parlementarisme anglais",
+          spanish: "Parlamentarismo inglés"
         },
         {
-          russian: "Коллегия духовных дел",
-          english: "College of Spiritual Affairs",
-          french: "Collège des affaires spirituelles",
-          spanish: "Colegio de Asuntos Espirituales"
+          russian: "Шведская система централизованных органов управления",
+          english: "Swedish system of centralized governing bodies",
+          french: "Système suédois d'organes de gouvernement centralisés",
+          spanish: "Sistema sueco de órganos de gobierno centralizados"
         },
         {
-          russian: "Верховный тайный совет",
-          english: "Supreme Privy Council",
-          french: "Conseil suprême privé",
-          spanish: "Consejo Supremo Privado"
+          russian: "Испанская колониальная администрация",
+          english: "Spanish colonial administration",
+          french: "Administration coloniale espagnole",
+          spanish: "Administración colonial española"
         }
       ],
-      correctAnswer: 0
+      correctAnswer: 2
     }
   ],
   learningObjectives: [
-    "Understand the causes and necessity of Peter I's reforms",
-    "Analyze the social transformations during Peter's reign",
-    "Evaluate the state administrative reforms and their consequences",
-    "Assess Russia's foreign policy achievements under Peter I",
-    "Identify the causes and character of palace coups period",
-    "Recognize the historical significance of Peter's modernization"
+    "Understand the driving forces behind Peter I's modernization efforts",
+    "Analyze how social structures transformed during the 18th century",
+    "Evaluate the long-term consequences of administrative reforms",
+    "Explain the political dynamics of the palace coups period",
+    "Connect cultural changes with state modernization policies",
+    "Assess the balance between progress and social costs in reforms"
   ],
   keyConcepts: [
-    "Westernization reforms",
-    "Table of Ranks",
-    "Regular state",
-    "Great Northern War",
-    "Palace coups",
+    "Westernization",
+    "Modernization",
+    "Centralized bureaucracy",
+    "Social stratification",
+    "Political instability",
     "Nobility privileges",
-    "Church reform",
+    "State building",
     "Cultural transformation",
-    "Economic modernization",
-    "Political instability"
+    "Military reform",
+    "Economic development"
   ]
 };
 

@@ -2,874 +2,698 @@
 const lecture8 = {
   id: 8,
   title: {
-    russian: "Лекция 8. XVIII век в мировой истории",
-    english: "Lecture 8. The 18th Century in World History",
-    french: "Leçon 8. Le XVIIIe siècle dans l'histoire mondiale",
-    spanish: "Lección 8. El siglo XVIII en la historia mundial"
+    russian: "Лекция 8. XVIII век: Эпоха революций и Просвещения",
+    english: "Lecture 8. The 18th Century: Age of Revolutions and Enlightenment",
+    french: "Leçon 8. Le XVIIIe siècle : L'ère des révolutions et des Lumières",
+    spanish: "Lección 8. El siglo XVIII: Era de revoluciones e Ilustración"
   },
   content: {
-    russian: `# XVIII век в мировой истории
+    russian: `# XVIII век: Эпоха революций и Просвещения
 
-## Трансформационные процессы в XVIII в. в мире
+## Интеллектуальная революция: Идеи, изменившие мир
 
-### Модернизационные процессы
-XVIII век стал периодом глубоких преобразований в мировом масштабе, характеризовавшихся:
+### Что такое Просвещение?
+Представьте себе общество, где впервые массово заговорили о том, что:
+- Люди рождаются со своими правами, а не получают их от короля
+- Разум и наука важнее традиций и веры
+- Государство должно служить народу, а не наоборот
 
-**Основные направления модернизации:**
-- Промышленный переворот и технологические инновации
-- Формирование новых экономических отношений
-- Изменение социальной структуры общества
-- Развитие научного знания и образования
+**Ключевые мыслители:**
+- Вольтер: критиковал церковь и защищал свободу слова
+- Монтескье: предложил разделение властей
+- Руссо: развил теорию общественного договора
+- Дидро: создал первую энциклопедию знаний
 
-**Демографические изменения:**
-- Рост населения Европы и Америки
-- Урбанизация и развитие городов
-- Миграционные процессы и освоение новых территорий
+Эти идеи распространялись через:
+- Салонные беседы в Париже
+- Научные общества и масонские ложи
+- Книги и газеты (несмотря на цензуру)
 
-## Формирование колониальной системы и мирового капиталистического хозяйства
+## Экономические преобразования: От ремесла к фабрике
 
-### Экспансия европейских держав
-**Колониальная система:**
-- Борьба за колонии между ведущими европейскими государствами
-- Формирование мировой торговой сети
-- Эксплуатация колониальных ресурсов и работорговля
+### Зарождение промышленной революции
+**Что изменилось в производстве:**
+- Раньше: ремесленник делал всё изделие от начала до конца
+- Теперь: рабочие на фабрике выполняют отдельные операции
 
-**Становление капиталистической экономики:**
-- Развитие мануфактурного производства
-- Формирование финансовых систем и банков
-- Международное разделение труда
+**Технологические прорывы:**
+- Паровая машина Уатта (1776) - энергия для фабрик
+- Прядильные машины - текстильная революция
+- Улучшение металлургии - больше железа и стали
 
-## Влияние идей Просвещения на мировое развитие
+**Последствия:**
+- Рост городов (люди уезжали из деревень на фабрики)
+- Появление новых социальных классов (буржуазия и рабочие)
+- Увеличение производства товаров
 
-### Философские основы Просвещения
-**Ключевые идеи:**
-- Рационализм и вера в прогресс
-- Критика традиционных институтов власти
-- Идеи естественных прав и общественного договора
+## Политические землетрясения: От монархии к республике
 
-**Распространение просветительских идей:**
-- Создание научных академий и обществ
-- Развитие периодической печати
-- Салонная культура и публичные дискуссии
+### Американская революция (1775-1783)
+**Почему колонисты восстали:**
+- "Налоги без представительства" - британский парламент вводил налоги, но колонисты не имели в нём голоса
+- Экономические ограничения - нельзя торговать с другими странами
+- Влияние идей Просвещения
 
-## Кризис абсолютизма в ряде европейских стран
+**Ключевые моменты:**
+- "Бостонское чаепитие" (1773) - протест против налогов
+- Декларация независимости (1776) - первый документ, провозгласивший права народа
+- Помощь Франции - без неё победа была бы невозможна
 
-### Проблемы абсолютной монархии
-**Проявления кризиса:**
-- Финансовые трудности и рост государственного долга
-- Социальное напряжение и крестьянские волнения
-- Оппозиционное движение среди дворянства и буржуазии
-
-**Попытки реформ:**
-- Просвещённый абсолютизм в Австрии и Пруссии
-- Реформы в Испании и Португалии
-- Сопротивление традиционных элит
-
-## Война североамериканских колоний Англии за независимость
-
-### Предпосылки конфликта
-**Экономические противоречия:**
-- Ограничительная торговая политика метрополии
-- Налоговая политика без представительства
-- Конфликт интересов колонистов и британской короны
-
-**Ход военных действий:**
-- Начало вооружённого противостояния (1775)
-- Провозглашение независимости (1776)
-- Международная поддержка американцев
-- Капитуляция британских войск (1781)
-
-## Великая Французская революция и её значение
-
-### Причины и этапы революции
-**Социально-экономические предпосылки:**
-- Финансовый кризис монархии
-- Недовольство третьего сословия
-- Влияние американского примера
+### Великая французская революция (1789-1799)
+**Причины: глубокий кризис системы**
+- Финансовый крах государства
+- Недовольство всех сословий
+- Голод и экономические трудности
 
 **Основные этапы:**
-- Созыв Генеральных штатов (1789)
-- Принятие Декларации прав человека и гражданина
-- Якобинская диктатура и террор
-- Термидорианский переворот
-
-### Международное значение
-**Влияние на мировое развитие:**
-- Распространение революционных идей в Европе
-- Формирование новой модели государства
-- Зарождение современной политической культуры
-
-## Экономическое развитие и технологический прогресс
-
-### Промышленные инновации
-**Технические изобретения:**
-- Паровой двигатель Джеймса Уатта
-- Текстильные машины и механизация
-- Совершенствование металлургических процессов
-
-**Сельскохозяйственная революция:**
-- Новые системы земледелия
-- Улучшение пород скота
-- Интенсификация сельского производства
-
-## Международные отношения и войны
-
-### Борьба за гегемонию
-**Основные конфликты:**
-- Война за австрийское наследство
-- Семилетняя война
-- Русско-турецкие войны
-- Колониальные противоречия
-
-**Изменение баланса сил:**
-- Возвышение России и Пруссии
-- Ослабление Османской империи
-- Усиление британского влияния
-
-## Культурное и научное развитие
-
-### Научная революция
-**Достижения науки:**
-- Развитие физики и математики
-- Успехи в химии и биологии
-- Географические открытия и естествознание
-
-**Культура Просвещения:**
-- Расцвет литературы и искусства
-- Развитие музыкальной культуры
-- Архитектурные стили и градостроительство
-
-## Значение XVIII века для последующей истории
-
-### Наследие эпохи
-**Формирование современного мира:**
-- Закладка основ индустриального общества
-- Становление политических идеологий
-- Создание предпосылок для глобализации
-
-**Историческое значение:**
-XVIII век стал переломным периодом в мировой истории, определившим направления развития человечества на последующие столетия и заложившим основы современной цивилизации.`,
-
-    english: `# The 18th Century in World History
-
-## Transformational Processes in the 18th Century World
-
-### Modernization Processes
-The 18th century became a period of profound transformations on a global scale, characterized by:
-
-**Main directions of modernization:**
-- Industrial revolution and technological innovations
-- Formation of new economic relations
-- Changes in social structure of society
-- Development of scientific knowledge and education
-
-**Demographic changes:**
-- Population growth in Europe and America
-- Urbanization and city development
-- Migration processes and settlement of new territories
-
-## Formation of Colonial System and World Capitalist Economy
-
-### Expansion of European Powers
-**Colonial system:**
-- Struggle for colonies between leading European states
-- Formation of global trade network
-- Exploitation of colonial resources and slave trade
-
-**Establishment of capitalist economy:**
-- Development of manufacturing production
-- Formation of financial systems and banks
-- International division of labor
-
-## Influence of Enlightenment Ideas on World Development
-
-### Philosophical Foundations of Enlightenment
-**Key ideas:**
-- Rationalism and belief in progress
-- Criticism of traditional power institutions
-- Ideas of natural rights and social contract
-
-**Spread of Enlightenment ideas:**
-- Creation of scientific academies and societies
-- Development of periodical press
-- Salon culture and public discussions
-
-## Crisis of Absolutism in Several European Countries
-
-### Problems of Absolute Monarchy
-**Manifestations of crisis:**
-- Financial difficulties and growth of state debt
-- Social tension and peasant uprisings
-- Opposition movement among nobility and bourgeoisie
-
-**Reform attempts:**
-- Enlightened absolutism in Austria and Prussia
-- Reforms in Spain and Portugal
-- Resistance of traditional elites
-
-## War of English North American Colonies for Independence
-
-### Preconditions of Conflict
-**Economic contradictions:**
-- Restrictive trade policy of metropolis
-- Tax policy without representation
-- Conflict of interests between colonists and British crown
-
-**Course of military actions:**
-- Beginning of armed confrontation (1775)
-- Declaration of Independence (1776)
-- International support for Americans
-- Capitulation of British troops (1781)
-
-## Great French Revolution and Its Significance
-
-### Causes and Stages of Revolution
-**Socio-economic preconditions:**
-- Financial crisis of monarchy
-- Dissatisfaction of the Third Estate
-- Influence of American example
-
-**Main stages:**
-- Convocation of Estates-General (1789)
-- Adoption of Declaration of the Rights of Man and Citizen
-- Jacobin dictatorship and terror
-- Thermidorian Reaction
-
-### International Significance
-**Influence on world development:**
-- Spread of revolutionary ideas in Europe
-- Formation of new state model
-- Emergence of modern political culture
-
-## Economic Development and Technological Progress
-
-### Industrial Innovations
-**Technical inventions:**
-- James Watt's steam engine
-- Textile machines and mechanization
-- Improvement of metallurgical processes
-
-**Agricultural revolution:**
-- New farming systems
-- Improvement of livestock breeds
-- Intensification of agricultural production
-
-## International Relations and Wars
-
-### Struggle for Hegemony
-**Main conflicts:**
-- War of Austrian Succession
-- Seven Years' War
-- Russo-Turkish wars
-- Colonial contradictions
-
-**Change in balance of power:**
-- Rise of Russia and Prussia
-- Weakening of Ottoman Empire
-- Strengthening of British influence
-
-## Cultural and Scientific Development
-
-### Scientific Revolution
-**Scientific achievements:**
-- Development of physics and mathematics
-- Advances in chemistry and biology
-- Geographical discoveries and natural sciences
-
-**Enlightenment Culture:**
-- Flourishing of literature and art
-- Development of musical culture
-- Architectural styles and urban planning
-
-## Significance of 18th Century for Subsequent History
-
-### Legacy of the Era
-**Formation of modern world:**
-- Foundation of industrial society
-- Emergence of political ideologies
-- Creation of prerequisites for globalization
-
-**Historical significance:**
-The 18th century became a turning point in world history, determining the directions of human development for subsequent centuries and laying the foundations of modern civilization.`,
-
-    french: `# Le XVIIIe siècle dans l'histoire mondiale
-
-## Processus transformationnels dans le monde du XVIIIe siècle
-
-### Processus de modernisation
-Le XVIIIe siècle est devenu une période de transformations profondes à l'échelle mondiale, caractérisée par :
-
-**Principales directions de modernisation :**
-- Révolution industrielle et innovations technologiques
-- Formation de nouvelles relations économiques
-- Changement de la structure sociale de la société
-- Développement des connaissances scientifiques et de l'éducation
-
-**Changements démographiques :**
-- Croissance démographique en Europe et Amérique
-- Urbanisation et développement des villes
-- Processus migratoires et mise en valeur de nouveaux territoires
-
-## Formation du système colonial et de l'économie capitaliste mondiale
-
-### Expansion des puissances européennes
-**Système colonial :**
-- Lutte pour les colonies entre les principales États européens
-- Formation d'un réseau commercial mondial
-- Exploitation des ressources coloniales et traite négrière
-
-**Établissement de l'économie capitaliste :**
-- Développement de la production manufacturière
-- Formation des systèmes financiers et des banques
-- Division internationale du travail
-
-## Influence des idées des Lumières sur le développement mondial
-
-### Fondements philosophiques des Lumières
-**Idées clés :**
-- Rationalisme et croyance au progrès
-- Critique des institutions traditionnelles du pouvoir
-- Idées des droits naturels et du contrat social
-
-**Diffusion des idées des Lumières :**
-- Création d'académies et sociétés scientifiques
-- Développement de la presse périodique
-- Culture des salons et discussions publiques
-
-## Crise de l'absolutisme dans plusieurs pays européens
-
-### Problèmes de la monarchie absolue
-**Manifestations de la crise :**
-- Difficultés financières et croissance de la dette publique
-- Tension sociale et révoltes paysannes
-- Mouvement d'opposition parmi la noblesse et la bourgeoisie
-
-**Tentatives de réformes :**
-- Despotisme éclairé en Autriche et Prusse
-- Réformes en Espagne et Portugal
-- Résistance des élites traditionnelles
-
-## Guerre des colonies nord-américaines de l'Angleterre pour l'indépendance
-
-### Préconditions du conflit
-**Contradictions économiques :**
-- Politique commerciale restrictive de la métropole
-- Politique fiscale sans représentation
-- Conflit d'intérêts entre colons et couronne britannique
-
-**Déroulement des actions militaires :**
-- Début de la confrontation armée (1775)
-- Déclaration d'indépendance (1776)
-- Soutien international aux Américains
-- Capitulation des troupes britanniques (1781)
-
-## Grande Révolution française et sa signification
-
-### Causes et étapes de la révolution
-**Préconditions socio-économiques :**
-- Crise financière de la monarchie
-- Mécontentement du Tiers état
-- Influence de l'exemple américain
-
-**Principales étapes :**
-- Convocation des États généraux (1789)
-- Adoption de la Déclaration des droits de l'homme et du citoyen
-- Dictature jacobine et terreur
-- Coup d'État thermidorien
-
-### Signification internationale
-**Influence sur le développement mondial :**
-- Diffusion des idées révolutionnaires en Europe
-- Formation d'un nouveau modèle d'État
-- Émergence de la culture politique moderne
-
-## Développement économique et progrès technologique
-
-### Innovations industrielles
-**Inventions techniques :**
-- Machine à vapeur de James Watt
-- Machines textiles et mécanisation
-- Amélioration des processus métallurgiques
-
-**Révolution agricole :**
-- Nouveaux systèmes agricoles
-- Amélioration des races de bétail
-- Intensification de la production agricole
-
-## Relations internationales et guerres
-
-### Lutte pour l'hégémonie
-**Principaux conflits :**
-- Guerre de succession d'Autriche
-- Guerre de Sept Ans
-- Guerres russo-turques
-- Contradictions coloniales
-
-**Changement de l'équilibre des forces :**
-- Ascension de la Russie et de la Prusse
-- Affaiblissement de l'Empire ottoman
-- Renforcement de l'influence britannique
-
-## Développement culturel et scientifique
-
-### Révolution scientifique
-**Réalisations scientifiques :**
-- Développement de la physique et des mathématiques
-- Progrès en chimie et biologie
-- Découvertes géographiques et sciences naturelles
-
-**Culture des Lumières :**
-- Floraison de la littérature et des arts
-- Développement de la culture musicale
-- Styles architecturaux et urbanisme
-
-## Signification du XVIIIe siècle pour l'histoire ultérieure
-
-### Héritage de l'époque
-**Formation du monde moderne :**
-- Fondation de la société industrielle
-- Émergence des idéologies politiques
-- Création des prérequis pour la mondialisation
-
-**Signification historique :**
-Le XVIIIe siècle est devenu un tournant dans l'histoire mondiale, déterminant les directions du développement humain pour les siècles suivants et posant les bases de la civilisation moderne.`,
-
-    spanish: `# El siglo XVIII en la historia mundial
-
-## Procesos transformacionales en el mundo del siglo XVIII
-
-### Procesos de modernización
-El siglo XVIII se convirtió en un período de transformaciones profundas a escala global, caracterizado por:
-
-**Direcciones principales de modernización:**
-- Revolución industrial e innovaciones tecnológicas
-- Formación de nuevas relaciones económicas
-- Cambio en la estructura social de la sociedad
-- Desarrollo del conocimiento científico y educación
-
-**Cambios demográficos:**
-- Crecimiento poblacional en Europa y América
-- Urbanización y desarrollo de ciudades
-- Procesos migratorios y asentamiento de nuevos territorios
-
-## Formación del sistema colonial y economía capitalista mundial
-
-### Expansión de potencias europeas
-**Sistema colonial:**
-- Lucha por colonias entre principales estados europeos
-- Formación de red comercial global
-- Explotación de recursos coloniales y trata de esclavos
-
-**Establecimiento de economía capitalista:**
-- Desarrollo de producción manufacturera
-- Formación de sistemas financieros y bancos
-- División internacional del trabajo
-
-## Influencia de ideas de la Ilustración en el desarrollo mundial
-
-### Fundamentos filosóficos de la Ilustración
-**Ideas clave:**
-- Racionalismo y creencia en el progreso
-- Crítica de instituciones tradicionales de poder
-- Ideas de derechos naturales y contrato social
-
-**Difusión de ideas ilustradas:**
-- Creación de academias y sociedades científicas
-- Desarrollo de prensa periódica
-- Cultura de salones y discusiones públicas
-
-## Crisis del absolutismo en varios países europeos
-
-### Problemas de la monarquía absoluta
-**Manifestaciones de crisis:**
-- Dificultades financieras y crecimiento de deuda estatal
-- Tensión social y revueltas campesinas
-- Movimiento opositor entre nobleza y burguesía
-
-**Intentos de reformas:**
-- Despotismo ilustrado en Austria y Prusia
-- Reformas en España y Portugal
-- Resistencia de élites tradicionales
-
-## Guerra de colonias norteamericanas de Inglaterra por independencia
-
-### Precondiciones del conflicto
-**Contradicciones económicas:**
-- Política comercial restrictiva de metrópolis
-- Política fiscal sin representación
-- Conflicto de intereses entre colonos y corona británica
-
-**Curso de acciones militares:**
-- Inicio de confrontación armada (1775)
-- Declaración de Independencia (1776)
-- Apoyo internacional a estadounidenses
-- Capitulación de tropas británicas (1781)
-
-## Gran Revolución francesa y su significado
-
-### Causas y etapas de revolución
-**Precondiciones socioeconómicas:**
-- Crisis financiera de monarquía
-- Descontento del Tercer Estado
-- Influencia del ejemplo americano
+1. **1789-1791** - Учредительное собрание, отмена феодальных привилегий
+2. **1792-1794** - Республика, казнь короля, якобинский террор
+3. **1795-1799** - Директория, рост коррупции, приход Наполеона
+
+## Международные отношения: Борьба за мировое господство
+
+### Колониальная экспансия
+**Кто с кем конкурировал:**
+- Великобритания vs Франция - Северная Америка, Индия
+- Испания и Португалия - Южная Америка
+- Нидерланды - Юго-Восточная Азия
+
+**Последствия для колоний:**
+- Исчезновение местных культур и традиций
+- Принудительный труд и рабство
+- Вывоз природных ресурсов в Европу
+
+### Войны за передел мира
+- Война за австрийское наследство (1740-1748)
+- Семилетняя война (1756-1763) - первая настоящая мировая война
+- Русско-турецкие войны - борьба за Чёрное море
+
+## Наука и культура: Новый взгляд на мир
+
+### Научные открытия
+- Химия: Лавуазье открыл кислород
+- Физика: Франклин изучал электричество
+- Биология: Линней создал классификацию растений
+- Медицина: Дженнер разработал вакцинацию
+
+### Искусство и литература
+- Музыка: Моцарт, Бах, Бетховен
+- Литература: реализм и критика общества
+- Архитектура: классицизм и строгие формы
+
+## Наследие XVIII века
+
+### Что мы получили от этой эпохи:
+- Современные представления о правах человека
+- Основы демократического управления
+- Научный подход к познанию мира
+- Начало индустриального общества
+
+**Парадокс эпохи:** С одной стороны - разум и прогресс, с другой - рабство и колониализм. XVIII век заложил основы нашего современного мира со всеми его противоречиями.`,
+
+    english: `# The 18th Century: Age of Revolutions and Enlightenment
+
+## Intellectual Revolution: Ideas That Changed the World
+
+### What Was the Enlightenment?
+Imagine a society where people began widely discussing that:
+- People are born with rights, not granted them by kings
+- Reason and science matter more than traditions and faith
+- The state should serve the people, not the other way around
+
+**Key Thinkers:**
+- Voltaire: criticized the church and defended free speech
+- Montesquieu: proposed separation of powers
+- Rousseau: developed social contract theory
+- Diderot: created the first encyclopedia
+
+These ideas spread through:
+- Salon conversations in Paris
+- Scientific societies and Masonic lodges
+- Books and newspapers (despite censorship)
+
+## Economic Transformation: From Craft to Factory
+
+### Dawn of the Industrial Revolution
+**What Changed in Production:**
+- Before: craftsmen made entire products start to finish
+- Now: factory workers performed specialized tasks
+
+**Technological Breakthroughs:**
+- Watt's steam engine (1776) - power for factories
+- Spinning machines - textile revolution
+- Improved metallurgy - more iron and steel
+
+**Consequences:**
+- Urban growth (people moved from villages to factories)
+- Emergence of new social classes (bourgeoisie and workers)
+- Increased production of goods
+
+## Political Earthquakes: From Monarchy to Republic
+
+### American Revolution (1775-1783)
+**Why Colonists Rebelled:**
+- "Taxation without representation" - British Parliament imposed taxes but colonists had no vote
+- Economic restrictions - couldn't trade with other countries
+- Influence of Enlightenment ideas
+
+**Key Moments:**
+- Boston Tea Party (1773) - protest against taxes
+- Declaration of Independence (1776) - first document proclaiming people's rights
+- French assistance - victory would have been impossible without it
+
+### French Revolution (1789-1799)
+**Causes: Deep System Crisis**
+- State financial collapse
+- Dissatisfaction of all social classes
+- Famine and economic difficulties
+
+**Main Stages:**
+1. **1789-1791** - National Assembly, abolition of feudal privileges
+2. **1792-1794** - Republic, king's execution, Jacobin terror
+3. **1795-1799** - Directory, growing corruption, Napoleon's rise
+
+## International Relations: Struggle for World Dominance
+
+### Colonial Expansion
+**Who Competed with Whom:**
+- Great Britain vs France - North America, India
+- Spain and Portugal - South America
+- Netherlands - Southeast Asia
+
+**Consequences for Colonies:**
+- Disappearance of local cultures and traditions
+- Forced labor and slavery
+- Extraction of natural resources to Europe
+
+### Wars for Redivision of the World
+- War of Austrian Succession (1740-1748)
+- Seven Years' War (1756-1763) - first true world war
+- Russo-Turkish Wars - struggle for the Black Sea
+
+## Science and Culture: New Worldview
+
+### Scientific Discoveries
+- Chemistry: Lavoisier discovered oxygen
+- Physics: Franklin studied electricity
+- Biology: Linnaeus created plant classification
+- Medicine: Jenner developed vaccination
+
+### Arts and Literature
+- Music: Mozart, Bach, Beethoven
+- Literature: realism and social criticism
+- Architecture: classicism and strict forms
+
+## Legacy of the 18th Century
+
+### What We Inherited from This Era:
+- Modern understanding of human rights
+- Foundations of democratic governance
+- Scientific approach to understanding the world
+- Beginning of industrial society
+
+**The Era's Paradox:** On one hand - reason and progress, on the other - slavery and colonialism. The 18th century laid the foundations of our modern world with all its contradictions.`,
+
+    french: `# Le XVIIIe siècle : L'ère des révolutions et des Lumières
+
+## Révolution intellectuelle : Les idées qui ont changé le monde
+
+### Qu'est-ce que les Lumières ?
+Imaginez une société où l'on a commencé à discuter largement que :
+- Les gens naissent avec des droits, ne les reçoivent pas des rois
+- La raison et la science comptent plus que les traditions et la foi
+- L'État doit servir le peuple, et non l'inverse
+
+**Penseurs clés :**
+- Voltaire : a critiqué l'église et défendu la liberté d'expression
+- Montesquieu : a proposé la séparation des pouvoirs
+- Rousseau : a développé la théorie du contrat social
+- Diderot : a créé la première encyclopédie
+
+Ces idées se sont répandues par :
+- Les conversations de salon à Paris
+- Les sociétés scientifiques et les loges maçonniques
+- Les livres et journaux (malgré la censure)
+
+## Transformation économique : De l'artisanat à l'usine
+
+### Aube de la Révolution industrielle
+**Ce qui a changé dans la production :**
+- Avant : les artisans faisaient des produits entiers du début à la fin
+- Maintenant : les ouvriers d'usine effectuaient des tâches spécialisées
+
+**Percées technologiques :**
+- Machine à vapeur de Watt (1776) - énergie pour les usines
+- Machines à filer - révolution textile
+- Métallurgie améliorée - plus de fer et d'acier
+
+**Conséquences :**
+- Croissance urbaine (les gens ont quitté les villages pour les usines)
+- Émergence de nouvelles classes sociales (bourgeoisie et ouvriers)
+- Production accrue de biens
+
+## Séismes politiques : De la monarchie à la république
+
+### Révolution américaine (1775-1783)
+**Pourquoi les colons se sont rebellés :**
+- "Imposition sans représentation" - le Parlement britannique imposait des taxes mais les colons n'avaient pas de vote
+- Restrictions économiques - impossibilité de commercer avec d'autres pays
+- Influence des idées des Lumières
+
+**Moments clés :**
+- Boston Tea Party (1773) - protestation contre les taxes
+- Déclaration d'indépendance (1776) - premier document proclamant les droits du peuple
+- Aide française - la victoire aurait été impossible sans elle
+
+### Révolution française (1789-1799)
+**Causes : Crise profonde du système**
+- Effondrement financier de l'État
+- Mécontentement de toutes les classes sociales
+- Famine et difficultés économiques
+
+**Étapes principales :**
+1. **1789-1791** - Assemblée nationale, abolition des privilèges féodaux
+2. **1792-1794** - République, exécution du roi, terreur jacobine
+3. **1795-1799** - Directoire, corruption croissante, montée de Napoléon
+
+## Relations internationales : Lutte pour la domination mondiale
+
+### Expansion coloniale
+**Qui a rivalisé avec qui :**
+- Grande-Bretagne vs France - Amérique du Nord, Inde
+- Espagne et Portugal - Amérique du Sud
+- Pays-Bas - Asie du Sud-Est
+
+**Conséquences pour les colonies :**
+- Disparition des cultures et traditions locales
+- Travail forcé et esclavage
+- Extraction des ressources naturelles vers l'Europe
+
+### Guerres pour le redécoupage du monde
+- Guerre de succession d'Autriche (1740-1748)
+- Guerre de Sept Ans (1756-1763) - première vraie guerre mondiale
+- Guerres russo-turques - lutte pour la mer Noire
+
+## Science et culture : Nouvelle vision du monde
+
+### Découvertes scientifiques
+- Chimie : Lavoisier a découvert l'oxygène
+- Physique : Franklin a étudié l'électricité
+- Biologie : Linné a créé la classification des plantes
+- Médecine : Jenner a développé la vaccination
+
+### Arts et littérature
+- Musique : Mozart, Bach, Beethoven
+- Littérature : réalisme et critique sociale
+- Architecture : classicisme et formes strictes
+
+## Héritage du XVIIIe siècle
+
+### Ce que nous avons hérité de cette époque :
+- Compréhension moderne des droits de l'homme
+- Fondations de la gouvernance démocratique
+- Approche scientifique de la compréhension du monde
+- Début de la société industrielle
+
+**Paradoxe de l'époque :** D'un côté - raison et progrès, de l'autre - esclavage et colonialisme. Le XVIIIe siècle a jeté les bases de notre monde moderne avec toutes ses contradictions.`,
+
+    spanish: `# El siglo XVIII: Era de revoluciones e Ilustración
+
+## Revolución intelectual: Ideas que cambiaron el mundo
+
+### ¿Qué fue la Ilustración?
+Imagine una sociedad donde se comenzó a discutir ampliamente que:
+- Las personas nacen con derechos, no se los otorgan los reyes
+- La razón y la ciencia importan más que tradiciones y fe
+- El estado debe servir al pueblo, no al revés
+
+**Pensadores clave:**
+- Voltaire: criticó la iglesia y defendió libertad de expresión
+- Montesquieu: propuso separación de poderes
+- Rousseau: desarrolló teoría del contrato social
+- Diderot: creó la primera enciclopedia
+
+Estas ideas se difundieron mediante:
+- Conversaciones de salón en París
+- Sociedades científicas y logias masónicas
+- Libros y periódicos (a pesar de la censura)
+
+## Transformación económica: De artesanía a fábrica
+
+### Amanecer de la Revolución Industrial
+**Qué cambió en la producción:**
+- Antes: artesanos hacían productos completos de inicio a fin
+- Ahora: trabajadores fabriles realizaban tareas especializadas
+
+**Avances tecnológicos:**
+- Motor de vapor de Watt (1776) - energía para fábricas
+- Máquinas de hilar - revolución textil
+- Metalurgia mejorada - más hierro y acero
+
+**Consecuencias:**
+- Crecimiento urbano (gente se mudó de aldeas a fábricas)
+- Surgimiento de nuevas clases sociales (burguesía y trabajadores)
+- Producción aumentada de bienes
+
+## Terremotos políticos: De monarquía a república
+
+### Revolución Americana (1775-1783)
+**Por qué se rebelaron colonos:**
+- "Impuestos sin representación" - Parlamento británico imponía impuestos pero colonos no tenían voto
+- Restricciones económicas - no podían comerciar con otros países
+- Influencia de ideas de Ilustración
+
+**Momentos clave:**
+- Motín del té (1773) - protesta contra impuestos
+- Declaración de Independencia (1776) - primer documento que proclamó derechos del pueblo
+- Ayuda francesa - victoria hubiera sido imposible sin ella
+
+### Revolución Francesa (1789-1799)
+**Causas: Crisis profunda del sistema**
+- Colapso financiero estatal
+- Descontento de todas las clases sociales
+- Hambruna y dificultades económicas
 
 **Etapas principales:**
-- Convocatoria de Estados Generales (1789)
-- Adopción de Declaración de Derechos del Hombre y Ciudadano
-- Dictadura jacobina y terror
-- Golpe termidoriano
+1. **1789-1791** - Asamblea Nacional, abolición de privilegios feudales
+2. **1792-1794** - República, ejecución del rey, terror jacobino
+3. **1795-1799** - Directorio, corrupción creciente, ascenso de Napoleón
 
-### Significado internacional
-**Influencia en desarrollo mundial:**
-- Difusión de ideas revolucionarias en Europa
-- Formación de nuevo modelo estatal
-- Emergencia de cultura política moderna
+## Relaciones internacionales: Lucha por dominio mundial
 
-## Desarrollo económico y progreso tecnológico
+### Expansión colonial
+**Quién compitió con quién:**
+- Gran Bretaña vs Francia - América del Norte, India
+- España y Portugal - América del Sur
+- Países Bajos - Sudeste Asiático
 
-### Innovaciones industriales
-**Inventos técnicos:**
-- Motor de vapor de James Watt
-- Máquinas textiles y mecanización
-- Mejora de procesos metalúrgicos
+**Consecuencias para colonias:**
+- Desaparición de culturas y tradiciones locales
+- Trabajo forzado y esclavitud
+- Extracción de recursos naturales a Europa
 
-**Revolución agrícola:**
-- Nuevos sistemas de cultivo
-- Mejora de razas ganaderas
-- Intensificación de producción agrícola
+### Guerras por redistribución mundial
+- Guerra de Sucesión Austriaca (1740-1748)
+- Guerra de los Siete Años (1756-1763) - primera guerra mundial verdadera
+- Guerras ruso-turcas - lucha por Mar Negro
 
-## Relaciones internacionales y guerras
+## Ciencia y cultura: Nueva visión del mundo
 
-### Lucha por hegemonía
-**Conflictos principales:**
-- Guerra de Sucesión Austriaca
-- Guerra de los Siete Años
-- Guerras ruso-turcas
-- Contradicciones coloniales
+### Descubrimientos científicos
+- Química: Lavoisier descubrió oxígeno
+- Física: Franklin estudió electricidad
+- Biología: Linneo creó clasificación de plantas
+- Medicina: Jenner desarrolló vacunación
 
-**Cambio en equilibrio de poder:**
-- Ascenso de Rusia y Prusia
-- Debilitamiento de Imperio otomano
-- Fortalecimiento de influencia británica
+### Arte y literatura
+- Música: Mozart, Bach, Beethoven
+- Literatura: realismo y crítica social
+- Arquitectura: clasicismo y formas estrictas
 
-## Desarrollo cultural y científico
+## Legado del siglo XVIII
 
-### Revolución científica
-**Logros científicos:**
-- Desarrollo de física y matemáticas
-- Avances en química y biología
-- Descubrimientos geográficos y ciencias naturales
+### Qué heredamos de esta era:
+- Comprensión moderna de derechos humanos
+- Fundamentos de gobernanza democrática
+- Enfoque científico para entender el mundo
+- Inicio de sociedad industrial
 
-**Cultura de la Ilustración:**
-- Florecimiento de literatura y arte
-- Desarrollo de cultura musical
-- Estilos arquitectónicos y urbanismo
-
-## Significado del siglo XVIII para historia posterior
-
-### Legado de la era
-**Formación del mundo moderno:**
-- Cimentación de sociedad industrial
-- Surgimiento de ideologías políticas
-- Creación de prerrequisitos para globalización
-
-**Significado histórico:**
-El siglo XVIII se convirtió en punto de inflexión en historia mundial, determinando direcciones de desarrollo humano para siglos posteriores y sentando bases de civilización moderna.`
+**Paradoja de la era:** Por un lado - razón y progreso, por otro - esclavitud y colonialismo. El siglo XVIII sentó bases de nuestro mundo moderno con todas sus contradicciones.`
   },
-  relatedMuseum: "Musée de la Révolution française, Vizille",
+  relatedMuseum: "Musée Carnavalet, Paris",
   museumConnection: {
-    russian: `Музей Французской революции в Визиле обладает уникальной коллекцией, иллюстрирующей ключевые события XVIII века:
+    russian: `Музей Карнавале в Париже предлагает уникальное погружение в эпоху Просвещения и революций:
 
-**Коллекция революционного искусства**
-- Картины и гравюры, изображающие основные события революции
-- Политические карикатуры и пропагандистские материалы
-- Портреты ключевых деятелей эпохи
+**Революционные артефакты:**
+- Личные вещи Робеспьера и Дантона
+- Ключи от Бастилии - символ падения старого режима
+- Революционные карикатуры и плакаты
 
-**Артефакты Просвещения**
-- Рукописи философов и политических мыслителей
-- Первые издания энциклопедий и научных трудов
-- Предметы, связанные с распространением новых идей
+**Свидетельства повседневной жизни:**
+- Интерьеры парижских домов XVIII века
+- Модные костюмы эпохи Людовика XVI
+- Предметы быта разных социальных классов
 
-**Документы эпохи**
-- Декларации прав человека и гражданина
-- Протоколы заседаний революционных органов
-- Личные письма и мемуары участников событий
+**Художественные произведения:**
+- Картины, изображающие ключевые события революции
+- Портреты философов Просвещения
+- Скульптуры и декоративное искусство
 
-**Предметы материальной культуры**
-- Оружие и униформа революционных войск
-- Предметы быта и интерьера эпохи
-- Символика и атрибуты нового государства
+Музей помогает понять, как абстрактные идеи Просвещения превратились в конкретные политические действия, изменившие ход истории.`,
 
-Музей предоставляет комплексное представление о трансформационных процессах XVIII века, демонстрируя взаимосвязь идей Просвещения, политических изменений и социальных преобразований.`,
+    english: `The Carnavalet Museum in Paris offers a unique immersion into the era of Enlightenment and revolutions:
 
-    english: `The Museum of the French Revolution in Vizille possesses a unique collection illustrating key events of the 18th century:
+**Revolutionary Artifacts:**
+- Personal items of Robespierre and Danton
+- Keys to the Bastille - symbol of the old regime's fall
+- Revolutionary caricatures and posters
 
-**Collection of Revolutionary Art**
-- Paintings and engravings depicting main revolutionary events
-- Political caricatures and propaganda materials
-- Portraits of key figures of the era
+**Evidence of Daily Life:**
+- Interiors of 18th century Parisian homes
+- Fashion costumes from Louis XVI era
+- Household items from different social classes
 
-**Artifacts of Enlightenment**
-- Manuscripts of philosophers and political thinkers
-- First editions of encyclopedias and scientific works
-- Items related to the spread of new ideas
+**Artworks:**
+- Paintings depicting key revolutionary events
+- Portraits of Enlightenment philosophers
+- Sculptures and decorative arts
 
-**Documents of the Era**
-- Declarations of the Rights of Man and Citizen
-- Minutes of revolutionary bodies meetings
-- Personal letters and memoirs of participants
+The museum helps understand how abstract Enlightenment ideas turned into concrete political actions that changed the course of history.`,
 
-**Material Culture Items**
-- Weapons and uniforms of revolutionary troops
-- Household and interior items of the era
-- Symbolism and attributes of the new state
+    french: `Le musée Carnavalet à Paris offre une immersion unique dans l'ère des Lumières et des révolutions :
 
-The museum provides a comprehensive understanding of the transformational processes of the 18th century, demonstrating the interconnection of Enlightenment ideas, political changes, and social transformations.`,
+**Artefacts révolutionnaires :**
+- Effets personnels de Robespierre et Danton
+- Clés de la Bastille - symbole de la chute de l'ancien régime
+- Caricatures et affiches révolutionnaires
 
-    french: `Le Musée de la Révolution française à Vizille possède une collection unique illustrant les événements clés du XVIIIe siècle :
+**Témoignages de la vie quotidienne :**
+- Intérieurs de maisons parisiennes du XVIIIe siècle
+- Costumes de mode de l'ère Louis XVI
+- Objets domestiques de différentes classes sociales
 
-**Collection d'art révolutionnaire**
-- Peintures et gravures représentant les principaux événements révolutionnaires
-- Caricatures politiques et matériel de propagande
-- Portraits des figures clés de l'époque
+**Œuvres d'art :**
+- Peintures représentant des événements révolutionnaires clés
+- Portraits de philosophes des Lumières
+- Sculptures et arts décoratifs
 
-**Artefacts des Lumières**
-- Manuscrits de philosophes et penseurs politiques
-- Premières éditions d'encyclopédies et travaux scientifiques
-- Objets liés à la diffusion des nouvelles idées
+Le musée aide à comprendre comment les idées abstraites des Lumières se sont transformées en actions politiques concrètes qui ont changé le cours de l'histoire.`,
 
-**Documents de l'époque**
-- Déclarations des droits de l'homme et du citoyen
-- Procès-verbaux des réunions des organes révolutionnaires
-- Lettres personnelles et mémoires des participants
+    spanish: `El Museo Carnavalet en París ofrece inmersión única en era de Ilustración y revoluciones:
 
-**Objets de culture matérielle**
-- Armes et uniformes des troupes révolutionnaires
-- Objets domestiques et intérieurs de l'époque
-- Symbolisme et attributs du nouvel État
+**Artefactos revolucionarios:**
+- Objetos personales de Robespierre y Danton
+- Llaves de Bastilla - símbolo de caída del antiguo régimen
+- Caricaturas y carteles revolucionarios
 
-Le musée offre une compréhension complète des processus transformationnels du XVIIIe siècle, démontrant l'interconnexion des idées des Lumières, des changements politiques et des transformations sociales.`,
+**Testimonios de vida cotidiana:**
+- Interiores de casas parisinas del siglo XVIII
+- Trajes de moda de era de Luis XVI
+- Objetos domésticos de diferentes clases sociales
 
-    spanish: `El Museo de la Revolución francesa en Vizille posee colección única que ilustra eventos clave del siglo XVIII:
+**Obras artísticas:**
+- Pinturas que representan eventos revolucionarios clave
+- Retratos de filósofos de Ilustración
+- Esculturas y artes decorativas
 
-**Colección de arte revolucionario**
-- Pinturas y grabados que representan principales eventos revolucionarios
-- Caricaturas políticas y materiales de propaganda
-- Retratos de figuras clave de la era
-
-**Artefactos de la Ilustración**
-- Manuscritos de filósofos y pensadores políticos
-- Primeras ediciones de enciclopedias y trabajos científicos
-- Objetos relacionados con difusión de nuevas ideas
-
-**Documentos de la era**
-- Declaraciones de Derechos del Hombre y Ciudadano
-- Actas de reuniones de órganos revolucionarios
-- Cartas personales y memorias de participantes
-
-**Objetos de cultura material**
-- Armas y uniformes de tropas revolucionarias
-- Objetos domésticos e interiores de la era
-- Simbolismo y atributos del nuevo estado
-
-El museo proporciona comprensión integral de procesos transformacionales del siglo XVIII, demostrando interconexión de ideas de Ilustración, cambios políticos y transformaciones sociales.`
+El museo ayuda a comprender cómo ideas abstractas de Ilustración se convirtieron en acciones políticas concretas que cambiaron curso de la historia.`
   },
   quiz: [
     {
       question: {
-        russian: "Какое событие считается началом промышленного переворота в XVIII веке?",
-        english: "What event is considered the beginning of the Industrial Revolution in the 18th century?",
-        french: "Quel événement est considéré comme le début de la Révolution industrielle au XVIIIe siècle?",
-        spanish: "¿Qué evento se considera el inicio de la Revolución Industrial en el siglo XVIII?"
+        russian: "Почему идеи Монтескье о разделении властей были особенно революционными для XVIII века?",
+        english: "Why were Montesquieu's ideas about separation of powers particularly revolutionary for the 18th century?",
+        french: "Pourquoi les idées de Montesquieu sur la séparation des pouvoirs étaient-elles particulièrement révolutionnaires pour le XVIIIe siècle?",
+        spanish: "¿Por qué ideas de Montesquieu sobre separación de poderes fueron particularmente revolucionarias para el siglo XVIII?"
       },
       options: [
         {
-          russian: "Изобретение парового двигателя Уаттом",
-          english: "Invention of Watt's steam engine",
-          french: "Invention de la machine à vapeur de Watt",
-          spanish: "Invención del motor de vapor de Watt"
+          russian: "Они поддерживали божественное право королей на власть",
+          english: "They supported the divine right of kings to rule",
+          french: "Ils soutenaient le droit divin des rois à gouverner",
+          spanish: "Apoyaban derecho divino de reyes a gobernar"
         },
         {
-          russian: "Великая французская революция",
-          english: "Great French Revolution",
-          french: "Grande Révolution française",
-          spanish: "Gran Revolución francesa"
+          russian: "Они предлагали систему сдержек и противовесов вместо абсолютной власти монарха",
+          english: "They proposed a system of checks and balances instead of absolute monarchical power",
+          french: "Ils proposaient un système de freins et contrepoids au lieu du pouvoir monarchique absolu",
+          spanish: "Proponían sistema de frenos y contrapesos en lugar de poder monárquico absoluto"
         },
         {
-          russian: "Война за независимость США",
-          english: "American War of Independence",
-          french: "Guerre d'indépendance américaine",
-          spanish: "Guerra de Independencia estadounidense"
+          russian: "Они защищали традиционные феодальные привилегии",
+          english: "They defended traditional feudal privileges",
+          french: "Ils défendaient les privilèges féodaux traditionnels",
+          spanish: "Defendían privilegios feudales tradicionales"
         },
         {
-          russian: "Семилетняя война",
-          english: "Seven Years' War",
-          french: "Guerre de Sept Ans",
-          spanish: "Guerra de los Siete Años"
+          russian: "Они предлагали усилить власть аристократии",
+          english: "They proposed strengthening aristocratic power",
+          french: "Ils proposaient de renforcer le pouvoir aristocratique",
+          spanish: "Proponían fortalecer poder aristocrático"
         }
       ],
-      correctAnswer: 0
+      correctAnswer: 1
     },
     {
       question: {
-        russian: "В каком году была принята Декларация прав человека и гражданина?",
-        english: "In what year was the Declaration of the Rights of Man and Citizen adopted?",
-        french: "En quelle année la Déclaration des droits de l'homme et du citoyen a-t-elle été adoptée?",
-        spanish: "¿En qué año fue adoptada la Declaración de Derechos del Hombre y Ciudadano?"
+        russian: "Какая из этих характеристик лучше всего описывает экономические последствия промышленной революции?",
+        english: "Which of these characteristics best describes the economic consequences of the Industrial Revolution?",
+        french: "Laquelle de ces caractéristiques décrit le mieux les conséquences économiques de la Révolution industrielle?",
+        spanish: "¿Cuál de estas características describe mejor consecuencias económicas de Revolución Industrial?"
       },
       options: [
         {
-          russian: "1789 год",
-          english: "1789",
-          french: "1789",
-          spanish: "1789"
+          russian: "Усиление сельскохозяйственного производства как основной экономической деятельности",
+          english: "Strengthening agricultural production as the main economic activity",
+          french: "Renforcement de la production agricole comme principale activité économique",
+          spanish: "Fortalecimiento de producción agrícola como principal actividad económica"
         },
         {
-          russian: "1776 год",
-          english: "1776",
-          french: "1776",
-          spanish: "1776"
+          russian: "Сохранение традиционных ремесленных гильдий и их влияния",
+          english: "Preservation of traditional craft guilds and their influence",
+          french: "Préservation des guildes artisanales traditionnelles et de leur influence",
+          spanish: "Preservación de gremios artesanales tradicionales y su influencia"
         },
         {
-          russian: "1793 год",
-          english: "1793",
-          french: "1793",
-          spanish: "1793"
+          russian: "Переход от ручного труда к машинному производству и рост городов",
+          english: "Transition from manual labor to machine production and urban growth",
+          french: "Transition du travail manuel à la production mécanique et croissance urbaine",
+          spanish: "Transición de trabajo manual a producción mecanizada y crecimiento urbano"
         },
         {
-          russian: "1765 год",
-          english: "1765",
-          french: "1765",
-          spanish: "1765"
+          russian: "Уменьшение значения международной торговли",
+          english: "Decreased importance of international trade",
+          french: "Diminution de l'importance du commerce international",
+          spanish: "Disminución de importancia de comercio internacional"
         }
       ],
-      correctAnswer: 0
+      correctAnswer: 2
     },
     {
       question: {
-        russian: "Какое философское течение оказало наибольшее влияние на революционные процессы XVIII века?",
-        english: "Which philosophical movement had the greatest influence on revolutionary processes of the 18th century?",
-        french: "Quel mouvement philosophique a eu la plus grande influence sur les processus révolutionnaires du XVIIIe siècle?",
-        spanish: "¿Qué movimiento filosófico tuvo mayor influencia en procesos revolucionarios del siglo XVIII?"
+        russian: "Что было главным противоречием между американскими колонистами и британским правительством?",
+        english: "What was the main contradiction between American colonists and the British government?",
+        french: "Quelle était la principale contradiction entre les colons américains et le gouvernement britannique?",
+        spanish: "¿Cuál fue principal contradicción entre colonos americanos y gobierno británico?"
       },
       options: [
         {
-          russian: "Просвещение",
-          english: "Enlightenment",
-          french: "Lumières",
-          spanish: "Ilustración"
+          russian: "Британия запрещала колонистам заниматься сельским хозяйством",
+          english: "Britain prohibited colonists from engaging in agriculture",
+          french: "La Grande-Bretagne interdisait aux colons de s'engager dans l'agriculture",
+          spanish: "Gran Bretaña prohibía a colonos dedicarse a agricultura"
         },
         {
-          russian: "Романтизм",
-          english: "Romanticism",
-          french: "Romantisme",
-          spanish: "Romanticismo"
+          russian: "Колонисты хотели установить абсолютную монархию",
+          english: "Colonists wanted to establish an absolute monarchy",
+          french: "Les colons voulaient établir une monarchie absolue",
+          spanish: "Colonos querían establecer monarquía absoluta"
         },
         {
-          russian: "Барокко",
-          english: "Baroque",
-          french: "Baroque",
-          spanish: "Barroco"
+          russian: "Колонисты платили налоги, но не имели представительства в парламенте",
+          english: "Colonists paid taxes but had no representation in Parliament",
+          french: "Les colons payaient des taxes mais n'avaient pas de représentation au Parlement",
+          spanish: "Colonos pagaban impuestos pero no tenían representación en Parlamento"
         },
         {
-          russian: "Схоластика",
-          english: "Scholasticism",
-          french: "Scolastique",
-          spanish: "Escolástica"
+          russian: "Британия пыталась отменить рабство в колониях",
+          english: "Britain tried to abolish slavery in the colonies",
+          french: "La Grande-Bretagne a tenté d'abolir l'esclavage dans les colonies",
+          spanish: "Gran Bretaña intentó abolir esclavitud en colonias"
         }
       ],
-      correctAnswer: 0
+      correctAnswer: 2
     },
     {
       question: {
-        russian: "Какая страна первой признала независимость США?",
-        english: "Which country first recognized US independence?",
-        french: "Quel pays a d'abord reconnu l'indépendance des États-Unis?",
-        spanish: "¿Qué país reconoció primero la independencia de EE.UU.?"
+        russian: "Какое из этих событий непосредственно предшествовало началу Великой французской революции?",
+        english: "Which of these events immediately preceded the start of the French Revolution?",
+        french: "Lequel de ces événements a immédiatement précédé le début de la Révolution française?",
+        spanish: "¿Cuál de estos eventos precedió inmediatamente inicio de Revolución Francesa?"
       },
       options: [
         {
-          russian: "Франция",
-          english: "France",
-          french: "France",
-          spanish: "Francia"
+          russian: "Военное поражение Франции в Семилетней войне",
+          english: "Military defeat of France in the Seven Years' War",
+          french: "Défaite militaire de la France dans la guerre de Sept Ans",
+          spanish: "Derrota militar de Francia en Guerra de los Siete Años"
         },
         {
-          russian: "Испания",
-          english: "Spain",
-          french: "Espagne",
-          spanish: "España"
+          russian: "Принятие Декларации прав человека",
+          english: "Adoption of Declaration of the Rights of Man",
+          french: "Adoption de la Déclaration des droits de l'homme",
+          spanish: "Adopción de Declaración de Derechos del Hombre"
         },
         {
-          russian: "Россия",
-          english: "Russia",
-          french: "Russie",
-          spanish: "Rusia"
+          russian: "Казнь короля Людовика XVI",
+          english: "Execution of King Louis XVI",
+          french: "Exécution du roi Louis XVI",
+          spanish: "Ejecución del rey Luis XVI"
         },
         {
-          russian: "Пруссия",
-          english: "Prussia",
-          french: "Prusse",
-          spanish: "Prusia"
+          russian: "Финансовый кризис и созыв Генеральных штатов после 175-летнего перерыва",
+          english: "Financial crisis and convocation of Estates-General after 175-year break",
+          french: "Crise financière et convocation des États généraux après 175 ans d'interruption",
+          spanish: "Crisis financiera y convocatoria de Estados Generales tras 175 años de interrupción"
         }
       ],
-      correctAnswer: 0
+      correctAnswer: 3
     },
     {
       question: {
-        russian: "Какой период во Франции характеризовался массовым террором?",
-        english: "Which period in France was characterized by mass terror?",
-        french: "Quelle période en France était caractérisée par la terreur massive?",
-        spanish: "¿Qué período en Francia se caracterizó por terror masivo?"
+        russian: "Что лучше всего характеризует парадокс эпохи Просвещения?",
+        english: "What best characterizes the paradox of the Enlightenment era?",
+        french: "Qu'est-ce qui caractérise le mieux le paradoxe de l'ère des Lumières?",
+        spanish: "¿Qué caracteriza mejor paradoja de era de Ilustración?"
       },
       options: [
         {
-          russian: "Якобинская диктатура",
-          english: "Jacobin dictatorship",
-          french: "Dictature jacobine",
-          spanish: "Dictadura jacobina"
+          russian: "Развитие науки при полном отказе от религиозных верований",
+          english: "Development of science with complete abandonment of religious beliefs",
+          french: "Développement de la science avec abandon complet des croyances religieuses",
+          spanish: "Desarrollo de ciencia con abandono completo de creencias religiosas"
         },
         {
-          russian: "Термидорианский период",
-          english: "Thermidorian period",
-          french: "Période thermidorienne",
-          spanish: "Período termidoriano"
+          russian: "Экономический прогресс при сохранении феодальных отношений",
+          english: "Economic progress while preserving feudal relations",
+          french: "Progrès économique tout en préservant les relations féodales",
+          spanish: "Progreso económico preservando relaciones feudales"
         },
         {
-          russian: "Эпоха Директории",
-          english: "Directory era",
-          french: "Ère du Directoire",
-          spanish: "Era del Directorio"
+          russian: "Политическая стабильность во всех европейских странах",
+          english: "Political stability in all European countries",
+          french: "Stabilité politique dans tous les pays européens",
+          spanish: "Estabilidad política en todos los países europeos"
         },
         {
-          russian: "Реставрация Бурбонов",
-          english: "Bourbon Restoration",
-          french: "Restauration bourbonienne",
-          spanish: "Restauración borbónica"
+          russian: "Провозглашение свободы и прав человека при одновременном расширении рабства и колониализма",
+          english: "Proclamation of freedom and human rights while simultaneously expanding slavery and colonialism",
+          french: "Proclamation de liberté et droits de l'homme tout en développant simultanément esclavage et colonialisme",
+          spanish: "Proclamación de libertad y derechos humanos mientras simultáneamente se expandía esclavitud y colonialismo"
         }
       ],
-      correctAnswer: 0
+      correctAnswer: 3
     }
   ],
   learningObjectives: [
-    "Understand the transformational processes of the 18th century modernization",
-    "Analyze the formation of colonial system and world capitalist economy",
-    "Evaluate the influence of Enlightenment ideas on political development",
-    "Identify the causes and consequences of the crisis of absolutism",
-    "Assess the significance of American and French revolutions",
-    "Recognize the technological and cultural achievements of the era"
+    "Understand how Enlightenment ideas challenged traditional authority and inspired political change",
+    "Analyze the economic transformations from agricultural to industrial society",
+    "Evaluate the causes and consequences of the American and French revolutions",
+    "Identify the global impact of colonial expansion and international conflicts",
+    "Recognize the scientific and cultural achievements that shaped modern worldview",
+    "Assess the complex legacy of the 18th century with its contradictions and progress"
   ],
   keyConcepts: [
-    "Modernization processes",
-    "Colonial system",
     "Enlightenment philosophy",
-    "Crisis of absolutism",
-    "American Revolution",
-    "French Revolution",
-    "Industrial innovations",
-    "International relations",
-    "Scientific revolution",
-    "Cultural development"
+    "Industrial transformation",
+    "Political revolutions",
+    "Colonial expansion",
+    "Social changes",
+    "Scientific progress",
+    "Cultural development",
+    "Global conflicts",
+    "Human rights",
+    "Modern state formation"
   ]
 };
 

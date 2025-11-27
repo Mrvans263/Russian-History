@@ -2,946 +2,586 @@
 const lecture3 = {
   id: 3,
   title: {
-    russian: "Лекция 3. Образование государства Русь и особенности его развития до нач. XIII в.",
-    english: "Lecture 3. Formation of the Rus State and Features of its Development until early 13th Century",
-    french: "Leçon 3. Formation de l'État de la Rus et particularités de son développement jusqu'au début du XIIIe siècle",
-    spanish: "Lección 3. Formación del Estado de la Rus y características de su desarrollo hasta principios del siglo XIII"
+    russian: "Лекция 3. Рождение Древней Руси: от племён к государству",
+    english: "Lecture 3. The Birth of Ancient Rus: From Tribes to State",
+    french: "Leçon 3. Naissance de la Rus' ancienne : des tribus à l'État",
+    spanish: "Lección 3. Nacimiento de la Antigua Rus: de tribus a estado"
   },
   content: {
-    russian: `# Образование государства Русь и особенности его развития до нач. XIII в.
-
-## Образование государства Русь
-
-### Исторические условия складывания государственности
-**Формирование новой политической и этнической карты Европы:**
-- Политогенез в раннесредневековой Европе
-- Первые известия о руси
-- Проблема образования Древнерусского государства
-
-**«Призвание варягов» и начало династии Рюриковичей:**
-- 862 год - легендарное призвание варягов
-- Начало правления династии Рюриковичей
-- Дискуссии по норманнской теории
-
-### Формирование территории государства Русь
-**Экономическая организация:**
-- Дань и полюдье как формы централизованной эксплуатации
-- Система сбора дани с подчиненных территорий
-- Зимнее полюдье - объезд князем подвластных земель
-
-**Первые русские князья:**
-- Рюрик (862-879) - основатель династии
-- Олег (879-912) - объединение Севера и Юга
-- Игорь (912-945) - укрепление государства
-- Ольга (945-960) - административные реформы
-- Святослав (960-972) - военные походы
-- Владимир (980-1015) - крещение Руси
-
-### Международные отношения
-**Внешнеполитические связи:**
-- Отношения с Византийской империей
-- Связи со странами Центральной, Западной и Северной Европы
-- Взаимоотношения с кочевниками европейских степей
-
-**Торговые пути:**
-- Путь "из варяг в греки"
-- Волжский торговый путь
-- Русь в международной торговле
-
-### Принятие христианства
-**Предание о выборе веры:**
-- Религиозное многообразие Руси конца X века
-- Христианство, ислам и иудаизм как традиционные религии России
-- Выбор восточного христианства
-
-**Значение крещения Руси:**
-- 988 год - официальное принятие христианства
-- Византия и византийское наследие на Руси
-- Культурные и политические последствия
-
-## Русь в конце X — начале XII в.
-
-### Территория и население
-**Административное устройство:**
-- Государство Русь / Русская земля
-- Крупнейшие города Руси: Киев, Новгород, Чернигов
-- Новгород как центр освоения Севера Восточной Европы
-
-**Колонизация Русской равнины:**
-- Расширение славянского расселения
-- Взаимодействие с финно-угорскими и балтскими народами
-- Освоение новых территорий
-
-### Политическая структура
-**Территориально-политическая организация:**
-- Волости как административные единицы
-- Княжеские столы и их распределение
-
-**Органы власти:**
-- Князь - верховный правитель
-- Посадник - наместник князя
-- Тысяцкий - военный и административный руководитель
-- Вече - народное собрание
-
-### Внутриполитическое развитие
-**Борьба за власть:**
-- Междоусобицы между сыновьями Владимира Святого
-- Ярослав Мудрый (1019-1054) - расцвет Древнерусского государства
-- Русь при Ярославичах
-- Владимир Мономах (1113-1125) - последнее единство
-
-**Русская церковь:**
-- Организация церковной структуры
-- Митрополит всея Руси
-- Монастыри и их роль
-
-### Экономика древней Руси
-**Основные отрасли хозяйства:**
-- Земледелие - основа экономики
-- Животноводство - дополнительный источник
-- Ремесло - высокий уровень развития
-
-**Промыслы:**
-- Охота - пушной зверь
-- Рыболовство - реки и озера
-- Бортничество - сбор меда диких пчел
-
-**Роль природно-климатического фактора:**
-- Влияние географического положения
-- Климатические условия и земледелие
-- Природные ресурсы
-
-### Общественный строй Руси
-**Дискуссии в исторической науке:**
-- Проблема "феодализма" в Древней Руси
-- Особенности общественного строя в Средневековье
-- Сравнение с Европой и Азией
-
-**Социальная структура:**
-- Княжеско-дружинная элита
-- Духовенство
-- Городское население
-
-**Категории населения:**
-- Рядовое свободное население
-- Зависимые категории
-- "Служебная организация"
-
-**Древнерусское право:**
-- Русская Правда
-- Обычное право
-- Княжеские уставы
-
-### Внешняя политика
-**Международные связи:**
-- Отношения с Византией
-- Борьба с печенегами и половцами
-- Связи со странами Европы
-
-## Историческое значение периода
-
-### Формирование государственности
-**Объединение восточных славян:**
-- Создание единого государства
-- Формирование древнерусской народности
-- Культурное и политическое единство
-
-### Наследие Древней Руси
-**Политическое устройство:**
-- Княжеская власть и вечевые традиции
-- Административная система
-- Правовые нормы
-
-**Культурное развитие:**
-- Принятие христианства и письменности
-- Архитектура и искусство
-- Литературные памятники
-
-### Место Руси в европейском мире
-**Международное положение:**
-- Один из крупнейших европейских государств
-- Активная внешняя политика
-- Культурные и экономические связи
-
-**Сравнительный анализ:**
-- Сходства с Польшей, Чехией, Венгрией
-- Особенности древнерусской государственности
-- Роль в европейской истории`,
-
-    english: `# Formation of the Rus State and Features of its Development until early 13th Century
-
-## Formation of the Rus State
-
-### Historical Conditions of State Formation
-**Formation of New Political and Ethnic Map of Europe:**
-- Politogenesis in early medieval Europe
-- First mentions of Rus
-- Problem of Old Russian State formation
-
-**"Calling of the Varangians" and Beginning of Rurik Dynasty:**
-- 862 CE - legendary calling of Varangians
-- Beginning of Rurik dynasty rule
-- Discussions about Norman theory
-
-### Formation of the Rus State Territory
-**Economic Organization:**
-- Tribute and polyudye as forms of centralized exploitation
-- System of tribute collection from subordinate territories
-- Winter polyudye - prince's circuit of subordinate lands
-
-**First Russian Princes:**
-- Rurik (862-879) - dynasty founder
-- Oleg (879-912) - unification of North and South
-- Igor (912-945) - state strengthening
-- Olga (945-960) - administrative reforms
-- Svyatoslav (960-972) - military campaigns
-- Vladimir (980-1015) - Christianization of Rus
-
-### International Relations
-**Foreign Policy Connections:**
-- Relations with Byzantine Empire
-- Ties with Central, Western and Northern European countries
-- Relations with steppe nomads
-
-**Trade Routes:**
-- Route "from the Varangians to the Greeks"
-- Volga trade route
-- Rus in international trade
-
-### Adoption of Christianity
-**Legend of Faith Choice:**
-- Religious diversity of Rus in late 10th century
-- Christianity, Islam and Judaism as traditional religions of Russia
-- Choice of Eastern Christianity
-
-**Significance of Rus Baptism:**
-- 988 CE - official adoption of Christianity
-- Byzantium and Byzantine heritage in Rus
-- Cultural and political consequences
-
-## Rus in Late 10th - Early 12th Centuries
-
-### Territory and Population
-**Administrative Structure:**
-- Rus State / Russian Land
-- Largest cities of Rus: Kiev, Novgorod, Chernigov
-- Novgorod as center of Northern East European development
-
-**Colonization of Russian Plain:**
-- Expansion of Slavic settlement
-- Interaction with Finno-Ugric and Baltic peoples
-- Development of new territories
-
-### Political Structure
-**Territorial-Political Organization:**
-- Volosts as administrative units
-- Princely thrones and their distribution
-
-**Governing Bodies:**
-- Prince - supreme ruler
-- Posadnik - prince's deputy
-- Tysyatsky - military and administrative leader
-- Veche - people's assembly
-
-### Internal Political Development
-**Power Struggle:**
-- Conflicts between Vladimir the Saint's sons
-- Yaroslav the Wise (1019-1054) - flourishing of Old Russian State
-- Rus under Yaroslav's sons
-- Vladimir Monomakh (1113-1125) - last unity
-
-**Russian Church:**
-- Organization of church structure
-- Metropolitan of All Rus
-- Monasteries and their role
-
-### Economy of Ancient Rus
-**Main Economic Sectors:**
-- Agriculture - economic foundation
-- Animal husbandry - additional source
-- Crafts - high level of development
-
-**Industries:**
-- Hunting - fur-bearing animals
-- Fishing - rivers and lakes
-- Beekeeping - wild honey collection
-
-**Role of Natural-Climatic Factors:**
-- Influence of geographical position
-- Climatic conditions and agriculture
-- Natural resources
-
-### Social Structure of Rus
-**Discussions in Historical Science:**
-- Problem of "feudalism" in Ancient Rus
-- Features of medieval social structure
-- Comparison with Europe and Asia
-
-**Social Structure:**
-- Princely-druzhina elite
-- Clergy
-- Urban population
-
-**Population Categories:**
-- Ordinary free population
-- Dependent categories
-- "Service organization"
-
-**Old Russian Law:**
-- Russian Truth
-- Customary law
-- Princely statutes
-
-### Foreign Policy
-**International Connections:**
-- Relations with Byzantium
-- Struggle with Pechenegs and Cumans
-- Ties with European countries
-
-## Historical Significance of the Period
-
-### Formation of Statehood
-**Unification of Eastern Slavs:**
-- Creation of unified state
-- Formation of Old Russian nationality
-- Cultural and political unity
-
-### Legacy of Ancient Rus
-**Political Structure:**
-- Princely power and veche traditions
-- Administrative system
-- Legal norms
-
-**Cultural Development:**
-- Adoption of Christianity and literacy
-- Architecture and art
-- Literary monuments
-
-### Place of Rus in European World
-**International Position:**
-- One of largest European states
-- Active foreign policy
-- Cultural and economic ties
-
-**Comparative Analysis:**
-- Similarities with Poland, Czechia, Hungary
-- Features of Old Russian statehood
-- Role in European history`,
-
-    french: `# Formation de l'État de la Rus et particularités de son développement jusqu'au début du XIIIe siècle
-
-## Formation de l'État de la Rus
-
-### Conditions historiques de la formation étatique
-**Formation de la nouvelle carte politique et ethnique de l'Europe:**
-- Politogenèse dans l'Europe du haut Moyen Âge
-- Premières mentions de la Rus
-- Problème de la formation de l'État de la Rus ancienne
-
-**« Appel des Varègues » et début de la dynastie des Riourikides:**
-- 862 EC - appel légendaire des Varègues
-- Début du règne de la dynastie des Riourikides
-- Discussions sur la théorie normande
-
-### Formation du territoire de l'État de la Rus
-**Organisation économique:**
-- Tribut et polioudié comme formes d'exploitation centralisée
-- Système de collecte de tribut des territoires subordonnés
-- Polioudié d'hiver - tournée du prince dans les terres soumises
-
-**Premiers princes russes:**
-- Riourik (862-879) - fondateur de la dynastie
-- Oleg (879-912) - unification du Nord et du Sud
-- Igor (912-945) - renforcement de l'État
-- Olga (945-960) - réformes administratives
-- Sviatoslav (960-972) - campagnes militaires
-- Vladimir (980-1015) - christianisation de la Rus
-
-### Relations internationales
-**Connexions de politique étrangère:**
-- Relations avec l'Empire byzantin
-- Liens avec les pays d'Europe centrale, occidentale et septentrionale
-- Relations avec les nomades des steppes européennes
-
-**Routes commerciales:**
-- Route « des Varègues aux Grecs »
-- Route commerciale de la Volga
-- La Rus dans le commerce international
-
-### Adoption du christianisme
-**Légende du choix de la foi:**
-- Diversité religieuse de la Rus à la fin du Xe siècle
-- Christianisme, islam et judaïsme comme religions traditionnelles de la Russie
-- Choix du christianisme oriental
-
-**Signification du baptême de la Rus:**
-- 988 EC - adoption officielle du christianisme
-- Byzance et héritage byzantin dans la Rus
-- Conséquences culturelles et politiques
-
-## La Rus de la fin du Xe au début du XIIe siècle
-
-### Territoire et population
-**Structure administrative:**
-- État de la Rus / Terre russe
-- Plus grandes villes de la Rus : Kiev, Novgorod, Tchernigov
-- Novgorod comme centre du développement du Nord de l'Europe orientale
-
-**Colonisation de la plaine russe:**
-- Expansion de l'établissement slave
-- Interaction avec les peuples finno-ougriens et baltes
-- Développement de nouveaux territoires
-
-### Structure politique
-**Organisation territoriale-politique:**
-- Volosts comme unités administratives
-- Trônes princiers et leur distribution
-
-**Organes de gouvernement:**
-- Prince - souverain suprême
-- Posadnik - représentant du prince
-- Tysiatsky - chef militaire et administratif
-- Vétché - assemblée populaire
-
-### Développement politique interne
-**Lutte pour le pouvoir:**
-- Conflits entre les fils de Vladimir le Saint
-- Iaroslav le Sage (1019-1054) - apogée de l'État de la Rus ancienne
-- La Rus sous les fils d'Iaroslav
-- Vladimir Monomaque (1113-1125) - dernière unité
-
-**Église russe:**
-- Organisation de la structure ecclésiastique
-- Métropolite de toute la Rus
-- Monastères et leur rôle
-
-### Économie de la Rus ancienne
-**Principaux secteurs économiques:**
-- Agriculture - fondement économique
-- Élevage - source supplémentaire
-- Artisanat - haut niveau de développement
-
-**Industries:**
-- Chasse - animaux à fourrure
-- Pêche - rivières et lacs
-- Apiculture - collecte de miel sauvage
-
-**Rôle des facteurs naturels-climatiques:**
-- Influence de la position géographique
-- Conditions climatiques et agriculture
-- Ressources naturelles
-
-### Structure sociale de la Rus
-**Discussions en science historique:**
-- Problème du « féodalisme » dans la Rus ancienne
-- Particularités de la structure sociale médiévale
-- Comparaison avec l'Europe et l'Asie
-
-**Structure sociale:**
-- Élite princière-drujina
-- Clergé
-- Population urbaine
-
-**Catégories de population:**
-- Population libre ordinaire
-- Catégories dépendantes
-- « Organisation servicielle »
-
-**Droit de la Rus ancienne:**
-- Rousskaïa Pravda
-- Droit coutumier
-- Statuts princiers
-
-### Politique étrangère
-**Connexions internationales:**
-- Relations avec Byzance
-- Lutte contre les Petchénègues et Coumans
-- Liens avec les pays européens
-
-## Importance historique de la période
-
-### Formation de l'État
-**Unification des Slaves orientaux:**
-- Création d'un État unifié
-- Formation de la nationalité de la Rus ancienne
-- Unité culturelle et politique
-
-### Héritage de la Rus ancienne
-**Structure politique:**
-- Pouvoir princier et traditions du vétché
-- Système administratif
-- Normes juridiques
-
-**Développement culturel:**
-- Adoption du christianisme et de l'alphabétisation
-- Architecture et art
-- Monuments littéraires
-
-### Place de la Rus dans le monde européen
-**Position internationale:**
-- Un des plus grands États européens
-- Politique étrangère active
-- Liens culturels et économiques
-
-**Analyse comparative:**
-- Similitudes avec Pologne, Tchéquie, Hongrie
-- Particularités de l'État de la Rus ancienne
-- Rôle dans l'histoire européenne`,
-
-    spanish: `# Formación del Estado de la Rus y características de su desarrollo hasta principios del siglo XIII
-
-## Formación del Estado de la Rus
-
-### Condiciones históricas de la formación estatal
-**Formación del nuevo mapa político y étnico de Europa:**
-- Politogénesis en la Europa altomedieval
-- Primeras menciones de la Rus
-- Problema de la formación del Estado de la Antigua Rus
-
-**«Llamado de los varegos» y inicio de la dinastía Ruríkida:**
-- 862 EC - legendario llamado de los varegos
-- Inicio del reinado de la dinastía Ruríkida
-- Discusiones sobre la teoría normanda
-
-### Formación del territorio del Estado de la Rus
-**Organización económica:**
-- Tributo y poliudie como formas de explotación centralizada
-- Sistema de recolección de tributo de territorios subordinados
-- Poliudie invernal - recorrido del príncipe por tierras sometidas
-
-**Primeros príncipes rusos:**
-- Rúrik (862-879) - fundador de la dinastía
-- Oleg (879-912) - unificación del Norte y Sur
-- Ígor (912-945) - fortalecimiento estatal
-- Olga (945-960) - reformas administrativas
-- Sviatoslav (960-972) - campañas militares
-- Vladimiro (980-1015) - cristianización de la Rus
-
-### Relaciones internacionales
-**Conexiones de política exterior:**
-- Relaciones con el Imperio bizantino
-- Vínculos con países de Europa Central, Occidental y Septentrional
-- Relaciones con nómadas de estepas europeas
-
-**Rutas comerciales:**
-- Ruta "de los varegos a los griegos"
-- Ruta comercial del Volga
-- La Rus en el comercio internacional
-
-### Adopción del cristianismo
-**Leyenda de la elección de fe:**
-- Diversidad religiosa de la Rus fines del siglo X
-- Cristianismo, islam y judaísmo como religiones tradicionales de Rusia
-- Elección del cristianismo oriental
-
-**Significado del bautismo de la Rus:**
-- 988 EC - adopción oficial del cristianismo
-- Bizancio y herencia bizantina en la Rus
-- Consecuencias culturales y políticas
-
-## La Rus fines del siglo X - principios del siglo XII
-
-### Territorio y población
-**Estructura administrativa:**
-- Estado de la Rus / Tierra Rusa
-- Mayores ciudades de la Rus: Kiev, Nóvgorod, Chernígov
-- Nóvgorod como centro de desarrollo del Norte de Europa Oriental
-
-**Colonización de la llanura rusa:**
-- Expansión del asentamiento eslavo
-- Interacción con pueblos fino-ugrios y bálticos
-- Desarrollo de nuevos territorios
-
-### Estructura política
-**Organización territorial-política:**
-- Vólosts como unidades administrativas
-- Tronos principescos y su distribución
-
-**Órganos de gobierno:**
-- Príncipe - gobernante supremo
-- Posádnik - lugarteniente del príncipe
-- Tysiatski - líder militar y administrativo
-- Véche - asamblea popular
-
-### Desarrollo político interno
-**Lucha por el poder:**
-- Conflictos entre hijos de Vladimiro el Santo
-- Yaroslav el Sabio (1019-1054) - florecimiento del Estado de la Antigua Rus
-- La Rus bajo los hijos de Yaroslav
-- Vladimiro Monómaco (1113-1125) - última unidad
-
-**Iglesia rusa:**
-- Organización de la estructura eclesiástica
-- Metropolitano de toda la Rus
-- Monasterios y su papel
-
-### Economía de la Antigua Rus
-**Principales sectores económicos:**
-- Agricultura - base económica
-- Ganadería - fuente adicional
-- Artesanía - alto nivel de desarrollo
-
-**Industrias:**
-- Caza - animales peleteros
-- Pesca - ríos y lagos
-- Apicultura - recolección de miel silvestre
-
-**Rol de factores naturales-climáticos:**
-- Influencia de la posición geográfica
-- Condiciones climáticas y agricultura
-- Recursos naturales
-
-### Estructura social de la Rus
-**Discusiones en ciencia histórica:**
-- Problema del "feudalismo" en la Antigua Rus
-- Características de la estructura social medieval
-- Comparación con Europa y Asia
-
-**Estructura social:**
-- Élite principesca-druzhina
-- Clero
-- Población urbana
-
-**Categorías de población:**
-- Población libre ordinaria
-- Categorías dependientes
-- "Organización servicial"
-
-**Derecho de la Antigua Rus:**
-- Rússkaya Pravda
-- Derecho consuetudinario
-- Estatutos principescos
-
-### Política exterior
-**Conexiones internacionales:**
-- Relaciones con Bizancio
-- Lucha con pechenegos y cumanos
-- Vínculos con países europeos
-
-## Significado histórico del período
-
-### Formación de la estatalidad
-**Unificación de eslavos orientales:**
-- Creación de estado unificado
-- Formación de la nacionalidad de la Antigua Rus
-- Unidad cultural y política
-
-### Legado de la Antigua Rus
-**Estructura política:**
-- Poder principesco y tradiciones véche
-- Sistema administrativo
-- Normas legales
-
-**Desarrollo cultural:**
-- Adopción del cristianismo y escritura
-- Arquitectura y arte
-- Monumentos literarios
-
-### Lugar de la Rus en el mundo europeo
-**Posición internacional:**
-- Uno de los mayores estados europeos
-- Política exterior activa
-- Vínculos culturales y económicos
-
-**Análisis comparativo:**
-- Similitudes con Polonia, Chequia, Hungría
-- Características de la estatalidad de la Antigua Rus
-- Rol en la historia europea`
+    russian: `# Рождение Древней Руси: от племён к государству
+
+## Почему государство появилось именно в IX веке?
+
+Представьте себе Восточную Европу IX века. Разрозненные славянские племена - поляне, древляне, кривичи - живут своей жизнью. Но постепенно возникает потребность в объединении. Почему?
+
+**Три кита государственности:**
+1. **Экономика** - развитие торговли по пути "из варяг в греки" требовало защиты и регулирования
+2. **Безопасность** - постоянные угрозы от кочевников-степняков
+3. **Социум** - усложнение общества, появление знати, которая хочет порядка
+
+Интересный факт: археологи находят в древнерусских городах арабские монеты, византийские украшения и скандинавские мечи - свидетельства активной международной торговли.
+
+## "Призвание варягов" - как это было на самом деле?
+
+Летопись говорит: "Земля наша велика и обильна, а порядка в ней нет. Приходите княжить и владеть нами". Но современные историки смотрят на это иначе.
+
+**Что могло быть на самом деле:**
+- Возможно, это был военный договор с наёмниками-варягами
+- Или постепенное проникновение скандинавской знати в славянскую среду
+- А может, летописец XII века просто оправдывал власть тогдашних князей
+
+Важно понимать: даже если Рюрик и был приглашён, государство создавали все народы Восточной Европы - славяне, финно-угры, балты.
+
+## Первые князья: строители государства
+
+### Олег Вещий (879-912)
+- Объединил Север (Новгород) и Юг (Киев)
+- Создал систему "полюдья" - ежегодного объезда за данью
+- Заключил выгодные договоры с Византией
+
+### Княгиня Ольга (945-960)
+Первая женщина-правительница Руси. После гибели мужа от рук древлян не только отомстила, но и провела мудрые реформы:
+- Установила твёрдые размеры дани ("уроки")
+- Создала специальные места для сбора дани ("погосты")
+- Первой из русских правителей приняла христианство
+
+### Владимир Креститель (980-1015)
+Его выбор веры определил судьбу России на тысячелетия вперёд. Почему православие?
+- Византийская культура поразила красотой богослужения
+- Не нужно было подчиняться римскому папе
+- Укрепляло связи с самой развитой державой того времени
+
+## Расцвет при Ярославе Мудром
+
+При Ярославе (1019-1054) Русь становится европейской державой. Что было достигнуто:
+- Появился первый письменный закон - "Русская Правда"
+- Построен Софийский собор в Киеве - аналог константинопольского
+- Династические браки с королевскими домами Европы
+- Развитие летописания и образования
+
+## Почему единое государство распалось?
+
+После Ярослава начинается постепенная раздробленность. Главные причины:
+
+**Экономические:**
+- Каждый регион мог самостоятельно себя обеспечивать
+- Росли местные города - конкуренты Киеву
+
+**Политические:**
+- Сложная "лествичная" система наследования вела к междоусобицам
+- Местные князья укрепляли свою власть
+
+**Социальные:**
+- Бояре теперь были больше связаны с местными князьями, чем с киевским
+
+Но важно: это была не катастрофа, а естественный этап развития. Культурное и религиозное единство сохранялось.
+
+## Повседневная жизнь в Древней Руси
+
+**В городах:**
+Киев X века - один из крупнейших городов Европы с 50 тысячами жителей. Ремесленники достигали высочайшего мастерства - их изделия находили от Скандинавии до Византии.
+
+**В деревне:**
+Основное население - свободные общинники. Они платили дань, но могли распоряжаться землёй. К зависимым категориям относились:
+- Закупы - взявшие ссуду и отрабатывающие её
+- Рядовичи - работавшие по договору
+- Холопы - рабы (в основном из пленных)
+
+**Культура:**
+Берестяные грамоты из Новгорода показывают - грамотность была распространена даже среди простых людей. Строили в основном из дерева, но каменные храмы поражали современников.`,
+
+    english: `# The Birth of Ancient Rus: From Tribes to State
+
+## Why Did the State Emerge Exactly in the 9th Century?
+
+Imagine Eastern Europe in the 9th century. Disparate Slavic tribes - Polans, Drevlians, Krivichs - living their lives. But gradually, the need for unification arises. Why?
+
+**Three Pillars of Statehood:**
+1. **Economy** - development of trade along the "Varangian to Greek" route required protection and regulation
+2. **Security** - constant threats from steppe nomads
+3. **Society** - social complexity, emergence of nobility wanting order
+
+Interesting fact: archaeologists find Arabic coins, Byzantine jewelry, and Scandinavian swords in Old Russian cities - evidence of active international trade.
+
+## "Calling of the Varangians" - What Really Happened?
+
+The chronicle says: "Our land is vast and abundant, but there is no order in it. Come rule and reign over us." But modern historians see it differently.
+
+**What might have really happened:**
+- Possibly a military agreement with Varangian mercenaries
+- Or gradual penetration of Scandinavian nobility into Slavic society
+- Or maybe the 12th-century chronicler was simply justifying the power of contemporary princes
+
+Important to understand: even if Rurik was invited, all peoples of Eastern Europe - Slavs, Finno-Ugrians, Balts - participated in state-building.
+
+## The First Princes: State Builders
+
+### Oleg the Prophet (879-912)
+- United North (Novgorod) and South (Kiev)
+- Created the "polyudye" system - annual circuit for tribute collection
+- Concluded advantageous treaties with Byzantium
+
+### Princess Olga (945-960)
+First female ruler of Rus. After her husband's death at the hands of the Drevlians, she not only took revenge but conducted wise reforms:
+- Established fixed tribute amounts ("uroki")
+- Created special tribute collection points ("pogosti")
+- First among Russian rulers to adopt Christianity
+
+### Vladimir the Baptist (980-1015)
+His choice of faith determined Russia's fate for a millennium. Why Orthodoxy?
+- Byzantine culture impressed with beauty of worship
+- No need to submit to the Roman Pope
+- Strengthened ties with the most developed power of the time
+
+## Heyday under Yaroslav the Wise
+
+Under Yaroslav (1019-1054), Rus becomes a European power. Achievements:
+- First written law - "Russian Truth"
+- Construction of St. Sophia Cathedral in Kiev - equivalent of Constantinople's
+- Dynastic marriages with European royal houses
+- Development of chronicle writing and education
+
+## Why Did the Unified State Disintegrate?
+
+After Yaroslav, gradual fragmentation begins. Main reasons:
+
+**Economic:**
+- Each region could be self-sufficient
+- Growth of local cities - competitors to Kiev
+
+**Political:**
+- Complex "ladder" succession system led to internal conflicts
+- Local princes strengthened their power
+
+**Social:**
+- Boyars became more connected to local princes than to Kiev
+
+But important: this wasn't a catastrophe, but a natural development stage. Cultural and religious unity was preserved.
+
+## Daily Life in Ancient Rus
+
+**In Cities:**
+Kiev in the 10th century - one of Europe's largest cities with 50,000 inhabitants. Craftsmen achieved highest mastery - their products found from Scandinavia to Byzantium.
+
+**In Villages:**
+Main population - free community members. They paid tribute but could dispose of land. Dependent categories included:
+- Zakupy - those who took loans and worked them off
+- Ryadovichi - those working under contract
+- Kholopy - slaves (mainly from captives)
+
+**Culture:**
+Birch bark documents from Novgorod show - literacy was widespread even among common people. Mostly built from wood, but stone temples amazed contemporaries.`,
+
+    french: `# Naissance de la Rus' ancienne : des tribus à l'État
+
+## Pourquoi l'État est-il apparu exactement au IXe siècle ?
+
+Imaginez l'Europe orientale au IXe siècle. Des tribus slaves dispersées - Polanes, Drevliens, Krivitches - vivent leur vie. Mais progressivement, le besoin d'unification émerge. Pourquoi ?
+
+**Trois piliers de l'État :**
+1. **Économie** - le développement du commerce sur la route « des Varègues aux Grecs » nécessitait protection et régulation
+2. **Sécurité** - menaces constantes des nomades des steppes
+3. **Société** - complexification sociale, émergence d'une noblesse désirant l'ordre
+
+Fait intéressant : les archéologues trouvent dans les villes de la Rus' ancienne des pièces arabes, des bijoux byzantins et des épées scandinaves - témoignages d'un commerce international actif.
+
+## « L'Appel des Varègues » - que s'est-il vraiment passé ?
+
+La chronique dit : « Notre terre est vaste et abondante, mais il n'y a pas d'ordre en elle. Venez régner et gouverner sur nous. » Mais les historiens modernes voient cela différemment.
+
+**Ce qui a pu vraiment se passer :**
+- Peut-être un accord militaire avec des mercenaires varègues
+- Ou une pénétration graduelle de la noblesse scandinave dans la société slave
+- Ou peut-être le chroniqueur du XIIe siècle justifiait simplement le pouvoir des princes contemporains
+
+Important à comprendre : même si Riourik fut invité, tous les peuples d'Europe orientale - Slaves, Finno-Ougriens, Baltes - participèrent à la construction de l'État.
+
+## Les premiers princes : bâtisseurs d'État
+
+### Oleg le Prophète (879-912)
+- Unit le Nord (Novgorod) et le Sud (Kiev)
+- Créa le système du « polioudié » - tournée annuelle pour la collecte du tribut
+- Conclut des traités avantageux avec Byzance
+
+### Princesse Olga (945-960)
+Première femme souveraine de la Rus. Après la mort de son mari aux mains des Drevliens, elle ne se contenta pas de se venger mais mena des réformes sages :
+- Établit des montants fixes de tribut (« uroki »)
+- Créa des points de collecte de tribut spéciaux (« pogosti »)
+- Première parmi les souverains russes à adopter le christianisme
+
+### Vladimir le Baptiseur (980-1015)
+Son choix de foi détermina le destin de la Russie pour un millénaire. Pourquoi l'orthodoxie ?
+- La culture byzantine impressionna par la beauté du culte
+- Pas besoin de se soumettre au pape romain
+- Renforça les liens avec la puissance la plus développée de l'époque
+
+## Apogée sous Iaroslav le Sage
+
+Sous Iaroslav (1019-1054), la Rus devient une puissance européenne. Réalisations :
+- Première loi écrite - « Rousskaïa Pravda »
+- Construction de la cathédrale Sainte-Sophie à Kiev - équivalente à celle de Constantinople
+- Mariages dynastiques avec les maisons royales européennes
+- Développement de l'écriture des chroniques et de l'éducation
+
+## Pourquoi l'État unifié s'est-il désintégré ?
+
+Après Iaroslav, la fragmentation graduelle commence. Principales raisons :
+
+**Économiques :**
+- Chaque région pouvait être auto-suffisante
+- Croissance des villes locales - concurrentes de Kiev
+
+**Politiques :**
+- Système de succession en « échelle » complexe menait aux conflits internes
+- Les princes locaux renforcèrent leur pouvoir
+
+**Sociales :**
+- Les boyards devinrent plus liés aux princes locaux qu'à Kiev
+
+Mais important : ce ne fut pas une catastrophe, mais une étape naturelle de développement. L'unité culturelle et religieuse fut préservée.
+
+## Vie quotidienne dans la Rus' ancienne
+
+**Dans les villes :**
+Kiev au Xe siècle - une des plus grandes villes d'Europe avec 50 000 habitants. Les artisans atteignirent la plus haute maîtrise - leurs produits trouvés de la Scandinavie à Byzance.
+
+**Dans les villages :**
+Population principale - membres libres des communautés. Ils payaient tribut mais pouvaient disposer de la terre. Catégories dépendantes incluaient :
+- Zakupy - ceux qui prirent des prêts et les remboursèrent par le travail
+- Riadovitchi - ceux travaillant sous contrat
+- Kholopy - esclaves (principalement des captifs)
+
+**Culture :**
+Les documents sur écorce de bouleau de Novgorod montrent - l'alphabétisation était répandue même parmi le peuple commun. Principalement construit en bois, mais les temples en pierre émerveillaient les contemporains.`,
+
+    spanish: `# Nacimiento de la Antigua Rus: de tribus a estado
+
+## ¿Por qué el estado emergió exactamente en el siglo IX?
+
+Imaginen Europa Oriental en el siglo IX. Tribus eslavas dispersas - polanos, drevlianos, krívichs - viviendo sus vidas. Pero gradualmente surge la necesidad de unificación. ¿Por qué?
+
+**Tres pilares de la estatalidad:**
+1. **Economía** - desarrollo del comercio en la ruta "de varegos a griegos" requería protección y regulación
+2. **Seguridad** - amenazas constantes de nómadas esteparios
+3. **Sociedad** - complejización social, emergencia de nobleza deseando orden
+
+Dato interesante: arqueólogos encuentran en ciudades de la Antigua Rus monedas árabes, joyería bizantina y espadas escandinavas - evidencia de comercio internacional activo.
+
+## "Llamado de los varegos" - ¿qué pasó realmente?
+
+La crónica dice: "Nuestra tierra es vasta y abundante, pero no hay orden en ella. Vengan a gobernar y reinar sobre nosotros". Pero historiadores modernos lo ven diferente.
+
+**Lo que pudo haber pasado realmente:**
+- Posiblemente un acuerdo militar con mercenarios varegos
+- O penetración gradual de nobleza escandinava en sociedad eslava
+- O quizás el cronista del siglo XII simplemente justificaba el poder de príncipes contemporáneos
+
+Importante entender: incluso si Rúrik fue invitado, todos los pueblos de Europa Oriental - eslavos, fino-ugrios, bálticos - participaron en la construcción estatal.
+
+## Primeros príncipes: constructores de estado
+
+### Oleg el Profeta (879-912)
+- Unió Norte (Nóvgorod) y Sur (Kiev)
+- Creó sistema de "poliudie" - recorrido anual para recolección de tributo
+- Concluyó tratados ventajosos con Bizancio
+
+### Princesa Olga (945-960)
+Primera mujer gobernante de la Rus. Tras muerte de su esposo a manos de drevlianos, no solo se vengó sino condujo reformas sabias:
+- Estableció montos fijos de tributo ("uroki")
+- Creó puntos especiales de recolección de tributo ("pogosti")
+- Primera entre gobernantes rusos en adoptar cristianismo
+
+### Vladimiro el Bautista (980-1015)
+Su elección de fe determinó el destino de Rusia por un milenio. ¿Por qué ortodoxia?
+- Cultura bizantina impresionó con belleza del culto
+- No necesidad de someterse al papa romano
+- Fortaleció lazos con potencia más desarrollada de la época
+
+## Apogeo bajo Yaroslav el Sabio
+
+Bajo Yaroslav (1019-1054), la Rus se vuelve potencia europea. Logros:
+- Primera ley escrita - "Rússkaya Pravda"
+- Construcción de Catedral de Santa Sofía en Kiev - equivalente a constantinopolitana
+- Matrimonios dinásticos con casas reales europeas
+- Desarrollo de escritura de crónicas y educación
+
+## ¿Por qué se desintegró el estado unificado?
+
+Tras Yaroslav, comienza fragmentación gradual. Razones principales:
+
+**Económicas:**
+- Cada región podía ser auto-suficiente
+- Crecimiento de ciudades locales - competidoras de Kiev
+
+**Políticas:**
+- Sistema de sucesión en "escalera" complejo condujo a conflictos internos
+- Príncipes locales fortalecieron su poder
+
+**Sociales:**
+- Boyardos se volvieron más conectados a príncipes locales que a Kiev
+
+Pero importante: no fue catástrofe, sino etapa natural de desarrollo. Se preservó unidad cultural y religiosa.
+
+## Vida diaria en la Antigua Rus
+
+**En ciudades:**
+Kiev siglo X - una de mayores ciudades de Europa con 50,000 habitantes. Artesanos alcanzaron alto dominio - sus productos hallados desde Escandinavia hasta Bizancio.
+
+**En aldeas:**
+Población principal - miembros libres de comunidades. Pagaban tributo pero podían disponer de tierra. Categorías dependientes incluían:
+- Zakupy - quienes tomaron préstamos y los trabajaban
+- Ryadovichi - quienes trabajaban bajo contrato
+- Jolopy - esclavos (principalmente de cautivos)
+
+**Cultura:**
+Documentos en corteza de abedul de Nóvgorod muestran - alfabetización estaba extendida incluso entre gente común. Mayormente construido de madera, pero templos de piedra asombraron a contemporáneos.`
   },
-  relatedMuseum: "Kiev Pechersk Lavra Museum, Kiev",
+  relatedMuseum: "Novgorod State Museum-Preserve",
   museumConnection: {
-    russian: `Киево-Печерская лавра в Киеве является уникальным музеем-заповедником, иллюстрирующим историю Древнерусского государства:
+    russian: `Новгородский музей-заповедник - уникальное место, где можно буквально прикоснуться к истории Древней Руси:
 
-**Архитектурный комплекс XI-XII веков**
-- Успенский собор (1073-1078) - главный храм Руси
-- Троицкая надвратная церковь (1108)
-- Древнейшие каменные сооружения Восточной Европы
+**Берестяные грамоты** - более 1000 писем обычных людей XI-XV веков. Читая их, мы слышим живые голоса далёких предков: купцы спорят о долгах, женщины жалуются на мужей, дети учатся писать.
 
-**Археологические находки**
-- Предметы быта древнерусского города
-- Ремесленные изделия и орудия труда
-- Эпиграфические памятники и граффити
+**Археологические слои** - культурный пласт глубиной до 8 метров! Можно увидеть, как жили новгородцы столетие за столетием.
 
-**Культурное наследие**
-- Мозаики и фрески XI-XII веков
-- Древнейшие рукописи и книги
-- Предметы церковного искусства
+**Церковь Спаса на Нередице** (1198) - фрески, которые показывают, как выглядело древнерусское искусство до монгольского нашествия.
 
-**Историческая значимость**
-- Центр древнерусской духовности
-- Место создания Повести временных лет
-- Резиденция митрополитов всея Руси
+**Ярославово дворище** - место, где собиралось вече и стояли дворы богатых купцов. Здесь решалась судьба Новгородской республики.
 
-Киево-Печерская лавра предоставляет возможность познакомиться с материальной и духовной культурой Древней Руси, демонстрируя высокий уровень развития древнерусского государства в домонгольский период.`,
+Музей помогает понять: Древняя Русь - это не абстрактное понятие, а реальная жизнь реальных людей со своими радостями и проблемами.`,
 
-    english: `The Kiev Pechersk Lavra in Kiev is a unique museum-reserve illustrating the history of the Old Russian State:
+    english: `Novgorod State Museum-Preserve is a unique place where you can literally touch the history of Ancient Rus:
 
-**Architectural Complex of 11th-12th Centuries**
-- Dormition Cathedral (1073-1078) - main temple of Rus
-- Trinity Gate Church (1108)
-- Oldest stone structures of Eastern Europe
+**Birch Bark Documents** - over 1000 letters from ordinary people of the 11th-15th centuries. Reading them, we hear the living voices of distant ancestors: merchants argue about debts, women complain about husbands, children learn to write.
 
-**Archaeological Finds**
-- Household items of the Old Russian city
-- Craft products and tools
-- Epigraphic monuments and graffiti
+**Archaeological Layers** - cultural layer up to 8 meters deep! You can see how Novgorodians lived century by century.
 
-**Cultural Heritage**
-- Mosaics and frescoes of 11th-12th centuries
-- Oldest manuscripts and books
-- Items of church art
+**Church of the Savior on Nereditsa** (1198) - frescoes showing what Old Russian art looked like before the Mongol invasion.
 
-**Historical Significance**
-- Center of Old Russian spirituality
-- Place of creation of Primary Chronicle
-- Residence of Metropolitans of All Rus
+**Yaroslav's Court** - place where the veche assembled and wealthy merchants' courtyards stood. Here the fate of the Novgorod Republic was decided.
 
-The Kiev Pechersk Lavra provides an opportunity to explore the material and spiritual culture of Ancient Rus, demonstrating the high level of development of the Old Russian state in the pre-Mongol period.`,
+The museum helps understand: Ancient Rus is not an abstract concept, but real life of real people with their joys and problems.`,
 
-    french: `La laure des Grottes de Kiev à Kiev est un musée-réserve unique illustrant l'histoire de l'État de la Rus ancienne :
+    french: `Le Musée-réserve de Novgorod est un lieu unique où l'on peut littéralement toucher l'histoire de la Rus' ancienne :
 
-**Complexe architectural des XIe-XIIe siècles**
-- Cathédrale de la Dormition (1073-1078) - principal temple de la Rus
-- Église de la Trinité sur la porte (1108)
-- Plus anciennes structures en pierre d'Europe orientale
+**Documents sur écorce de bouleau** - plus de 1000 lettres de gens ordinaires des XIe-XVe siècles. En les lisant, nous entendons les voix vivantes d'ancêtres lointains : marchands disputant de dettes, femmes se plaignant de maris, enfants apprenant à écrire.
 
-**Trouvailles archéologiques**
-- Objets domestiques de la ville de la Rus ancienne
-- Produits artisanaux et outils
-- Monuments épigraphiques et graffitis
+**Couches archéologiques** - couche culturelle jusqu'à 8 mètres de profondeur ! On peut voir comment vécurent les Novgorodiens siècle après siècle.
 
-**Héritage culturel**
-- Mosaïques et fresques des XIe-XIIe siècles
-- Plus anciens manuscrits et livres
-- Objets d'art religieux
+**Église du Sauveur sur Nereditsa** (1198) - fresques montrant à quoi ressemblait l'art de la Rus' ancienne avant l'invasion mongole.
 
-**Importance historique**
-- Centre de spiritualité de la Rus ancienne
-- Lieu de création de la Chronique des temps passés
-- Résidence des métropolites de toute la Rus
+**Cour de Iaroslav** - lieu où se réunissait le vétché et où se trouvaient les cours de marchands riches. Ici se décidait le sort de la République de Novgorod.
 
-La laure des Grottes de Kiev offre l'opportunité d'explorer la culture matérielle et spirituelle de la Rus ancienne, démontrant le haut niveau de développement de l'État de la Rus ancienne à la période pré-mongole.`,
+Le musée aide à comprendre : la Rus' ancienne n'est pas un concept abstrait, mais la vie réelle de vraies personnes avec leurs joies et problèmes.`,
 
-    spanish: `El Monasterio de las Cuevas de Kiev en Kiev es un museo-reserva único que ilustra la historia del Estado de la Antigua Rus:
+    spanish: `El Museo-Reserva Estatal de Nóvgorod - lugar único donde literalmente se puede tocar la historia de la Antigua Rus:
 
-**Complejo arquitectónico de los siglos XI-XII**
-- Catedral de la Dormición (1073-1078) - templo principal de la Rus
-- Iglesia de la Trinidad sobre la puerta (1108)
-- Estructuras de piedra más antiguas de Europa Oriental
+**Documentos en corteza de abedul** - más de 1000 cartas de gente común siglos XI-XV. Leyéndolas, oímos voces vivas de ancestros lejanos: comerciantes discuten deudas, mujeres se quejan de esposos, niños aprenden a escribir.
 
-**Hallazgos arqueológicos**
-- Objetos domésticos de la ciudad de la Antigua Rus
-- Productos artesanales y herramientas
-- Monumentos epigráficos y grafitis
+**Capas arqueológicas** - estrato cultural de hasta 8 metros de profundidad! Se puede ver cómo vivieron novgorenses siglo tras siglo.
 
-**Patrimonio cultural**
-- Mosaicos y frescos de los siglos XI-XII
-- Manuscritos y libros más antiguos
-- Objetos de arte eclesiástico
+**Iglesia del Salvador en Nereditsa** (1198) - frescos que muestran cómo lucía el arte de la Antigua Rus antes de invasión mongola.
 
-**Significado histórico**
-- Centro de espiritualidad de la Antigua Rus
-- Lugar de creación de la Crónica de Néstor
-- Residencia de metropolitanos de toda la Rus
+**Patio de Yaroslav** - lugar donde se reunía el véche y estaban patios de comerciantes ricos. Aquí se decidía el destino de la República de Nóvgorod.
 
-El Monasterio de las Cuevas de Kiev proporciona la oportunidad de explorar la cultura material y espiritual de la Antigua Rus, demostrando el alto nivel de desarrollo del estado de la Antigua Rus en el período premongol.`
+El museo ayuda a entender: la Antigua Rus no es concepto abstracto, sino vida real de gente real con sus alegrías y problemas.`
   },
   quiz: [
     {
       question: {
-        russian: "В каком году произошло официальное принятие христианства на Руси?",
-        english: "In what year did the official adoption of Christianity occur in Rus?",
-        french: "En quelle année l'adoption officielle du christianisme a-t-elle eu lieu dans la Rus?",
-        spanish: "¿En qué año ocurrió la adopción oficial del cristianismo en la Rus?"
+        russian: "Какой из этих факторов СНАЧАЛА способствовал объединению славянских племён, а ПОТОМ стал причиной раздробленности?",
+        english: "Which of these factors FIRST contributed to the unification of Slavic tribes, and THEN became a cause of fragmentation?",
+        french: "Lequel de ces facteurs a D'ABORD contribué à l'unification des tribus slaves, puis EST DEVENU une cause de fragmentation?",
+        spanish: "¿Cuál de estos factores PRIMERO contribuyó a la unificación de tribus eslavas, y LUEGO se volvió causa de fragmentación?"
       },
       options: [
         {
-          russian: "988 год",
-          english: "988 CE",
-          french: "988 EC",
-          spanish: "988 EC"
+          russian: "Угроза со стороны кочевников-печенегов",
+          english: "Threat from Pecheneg nomads",
+          french: "Menace des nomades petchénègues",
+          spanish: "Amenaza de nómadas pechenegos"
         },
         {
-          russian: "862 год",
-          english: "862 CE",
-          french: "862 EC",
-          spanish: "862 EC"
+          russian: "Рост местных городов как экономических центров",
+          english: "Growth of local cities as economic centers",
+          french: "Croissance des villes locales comme centres économiques",
+          spanish: "Crecimiento de ciudades locales como centros económicos"
         },
         {
-          russian: "1015 год",
-          english: "1015 CE",
-          french: "1015 EC",
-          spanish: "1015 EC"
+          russian: "Принятие христианства из Византии",
+          english: "Adoption of Christianity from Byzantium",
+          french: "Adoption du christianisme de Byzance",
+          spanish: "Adopción del cristianismo de Bizancio"
         },
         {
-          russian: "945 год",
-          english: "945 CE",
-          french: "945 EC",
-          spanish: "945 EC"
+          russian: "Развитие пути 'из варяг в греки'",
+          english: "Development of the 'Varangian to Greek' route",
+          french: "Développement de la route 'des Varègues aux Grecs'",
+          spanish: "Desarrollo de la ruta 'de varegos a griegos'"
         }
       ],
-      correctAnswer: 0
+      correctAnswer: 1
     },
     {
       question: {
-        russian: "Какой князь считается основателем династии Рюриковичей?",
-        english: "Which prince is considered the founder of the Rurik dynasty?",
-        french: "Quel prince est considéré comme le fondateur de la dynastie des Riourikides?",
-        spanish: "¿Qué príncipe se considera fundador de la dinastía Ruríkida?"
+        russian: "Какая реформа княгини Ольги была наиболее важной для укрепления государственности?",
+        english: "Which reform of Princess Olga was most important for strengthening statehood?",
+        french: "Quelle réforme de la princesse Olga fut la plus importante pour le renforcement de l'État?",
+        spanish: "¿Qué reforma de la princesa Olga fue más importante para fortalecimiento estatal?"
       },
       options: [
         {
-          russian: "Рюрик",
-          english: "Rurik",
-          french: "Riourik",
-          spanish: "Rúrik"
+          russian: "Жестокая месть древлянам за убийство мужа",
+          english: "Cruel revenge on the Drevlians for husband's murder",
+          french: "Cruelle vengeance envers les Drevliens pour le meurtre du mari",
+          spanish: "Cruel venganza a drevlianos por asesinato del esposo"
         },
         {
-          russian: "Олег",
-          english: "Oleg",
-          french: "Oleg",
-          spanish: "Oleg"
+          russian: "Крещение в Константинополе",
+          english: "Baptism in Constantinople",
+          french: "Baptême à Constantinople",
+          spanish: "Bautismo en Constantinopla"
         },
         {
-          russian: "Игорь",
-          english: "Igor",
-          french: "Igor",
-          spanish: "Ígor"
+          russian: "Создание системы погостов для сбора дани",
+          english: "Creation of the pogosti system for tribute collection",
+          french: "Création du système de pogosti pour la collecte de tribut",
+          spanish: "Creación del sistema de pogosti para recolección de tributo"
         },
         {
-          russian: "Владимир",
-          english: "Vladimir",
-          french: "Vladimir",
-          spanish: "Vladimiro"
+          russian: "Строительство первых каменных храмов",
+          english: "Construction of the first stone temples",
+          french: "Construction des premiers temples en pierre",
+          spanish: "Construcción de primeros templos de piedra"
         }
       ],
-      correctAnswer: 0
+      correctAnswer: 2
     },
     {
       question: {
-        russian: "Что такое «полюдье» в Древней Руси?",
-        english: "What was 'polyudye' in Ancient Rus?",
-        french: "Qu'était le 'polioudié' dans la Rus ancienne?",
-        spanish: "¿Qué era el 'poliudie' en la Antigua Rus?"
+        russian: "Что из перечисленного НЕ было прямым следствием принятия христианства на Руси?",
+        english: "Which of the following was NOT a direct consequence of the adoption of Christianity in Rus?",
+        french: "Lequel des éléments suivants N'ÉTAIT PAS une conséquence directe de l'adoption du christianisme dans la Rus?",
+        spanish: "¿Cuál de los siguientes NO fue consecuencia directa de la adopción del cristianismo en la Rus?"
       },
       options: [
         {
-          russian: "Объезд князем подвластных земель для сбора дани",
-          english: "Prince's circuit of subordinate lands for tribute collection",
-          french: "Tournée du prince dans les terres soumises pour la collecte de tribut",
-          spanish: "Recorrido del príncipe por tierras sometidas para recolección de tributo"
+          russian: "Развитие письменности и летописания",
+          english: "Development of literacy and chronicle writing",
+          french: "Développement de l'alphabétisation et de l'écriture des chroniques",
+          spanish: "Desarrollo de alfabetización y escritura de crónicas"
         },
         {
-          russian: "Народное собрание",
-          english: "People's assembly",
-          french: "Assemblée populaire",
-          spanish: "Asamblea popular"
+          russian: "Прекращение междоусобных войн между князьями",
+          english: "Cessation of internal wars between princes",
+          french: "Cessation des guerres internes entre princes",
+          spanish: "Cese de guerras internas entre príncipes"
         },
         {
-          russian: "Военный поход",
-          english: "Military campaign",
-          french: "Campagne militaire",
-          spanish: "Campaña militar"
+          russian: "Появление каменного храмового строительства",
+          english: "Emergence of stone temple construction",
+          french: "Émergence de la construction de temples en pierre",
+          spanish: "Emergencia de construcción de templos de piedra"
         },
         {
-          russian: "Церковный обряд",
-          english: "Church ritual",
-          french: "Rituel religieux",
-          spanish: "Ritual eclesiástico"
+          russian: "Укрепление международного положения Руси",
+          english: "Strengthening of Rus's international position",
+          french: "Renforcement de la position internationale de la Rus",
+          spanish: "Fortalecimiento de posición internacional de la Rus"
         }
       ],
-      correctAnswer: 0
+      correctAnswer: 1
     },
     {
       question: {
-        russian: "Какой город был центром освоения Севера Восточной Европы?",
-        english: "Which city was the center of Northern East European development?",
-        french: "Quelle ville était le centre du développement du Nord de l'Europe orientale?",
-        spanish: "¿Qué ciudad fue centro de desarrollo del Norte de Europa Oriental?"
+        russian: "Какой социальный слой в Древней Руси мог свободно распоряжаться землёй, но обязан был платить дань?",
+        english: "Which social stratum in Old Rus could freely dispose of land but was obliged to pay tribute?",
+        french: "Quelle couche sociale dans la Rus' ancienne pouvait librement disposer de la terre mais était obligée de payer tribut?",
+        spanish: "¿Qué estrato social en la Antigua Rus podía disponer libremente de tierra pero estaba obligado a pagar tributo?"
       },
       options: [
         {
-          russian: "Новгород",
-          english: "Novgorod",
-          french: "Novgorod",
-          spanish: "Nóvgorod"
+          russian: "Закупы, взявшие ссуду",
+          english: "Zakupy who took loans",
+          french: "Zakupy ayant pris des prêts",
+          spanish: "Zakupy que tomaron préstamos"
         },
         {
-          russian: "Киев",
-          english: "Kiev",
-          french: "Kiev",
-          spanish: "Kiev"
+          russian: "Холопы-рабы",
+          english: "Kholopy-slaves",
+          french: "Kholopy-esclaves",
+          spanish: "Jolopy-esclavos"
         },
         {
-          russian: "Чернигов",
-          english: "Chernigov",
-          french: "Tchernigov",
-          spanish: "Chernígov"
+          russian: "Князья и члены их дружин",
+          english: "Princes and members of their druzhinas",
+          french: "Princes et membres de leurs drujinas",
+          spanish: "Príncipes y miembros de sus druzhinas"
         },
         {
-          russian: "Смоленск",
-          english: "Smolensk",
-          french: "Smolensk",
-          spanish: "Smolensk"
+          russian: "Свободные общинники-смерды",
+          english: "Free community members-smerds",
+          french: "Membres libres des communautés-smerds",
+          spanish: "Miembros libres de comunidades-smerds"
         }
       ],
-      correctAnswer: 0
+      correctAnswer: 3
     },
     {
       question: {
-        russian: "Как называлось народное собрание в древнерусских городах?",
-        english: "What was the people's assembly called in Old Russian cities?",
-        french: "Comment s'appelait l'assemblée populaire dans les villes de la Rus ancienne?",
-        spanish: "¿Cómo se llamaba la asamblea popular en las ciudades de la Antigua Rus?"
+        russian: "Что свидетельствует о высоком уровне грамотности в Древней Руси?",
+        english: "What testifies to the high level of literacy in Old Rus?",
+        french: "Qu'est-ce qui témoigne du haut niveau d'alphabétisation dans la Rus' ancienne?",
+        spanish: "¿Qué testifica del alto nivel de alfabetización en la Antigua Rus?"
       },
       options: [
         {
-          russian: "Вече",
-          english: "Veche",
-          french: "Vétché",
-          spanish: "Véche"
+          russian: "Договоры князей с Византией",
+          english: "Treaties of princes with Byzantium",
+          french: "Traités des princes avec Byzance",
+          spanish: "Tratados de príncipes con Bizancio"
         },
         {
-          russian: "Собор",
-          english: "Sobor",
-          french: "Sobor",
-          spanish: "Sóbor"
+          russian: "Лаврентьевская летопись монаха-профессионала",
+          english: "Laurentian Chronicle by a professional monk",
+          french: "Chronique laurentienne par un moine professionnel",
+          spanish: "Crónica Laurentina por monje profesional"
         },
         {
-          russian: "Дума",
-          english: "Duma",
-          french: "Douma",
-          spanish: "Duma"
+          russian: "Берестяные грамоты, написанные простыми горожанами",
+          english: "Birch bark documents written by ordinary townspeople",
+          french: "Documents sur écorce de bouleau écrits par des citadins ordinaires",
+          spanish: "Documentos en corteza de abedul escritos por urbanos ordinarios"
         },
         {
-          russian: "Рада",
-          english: "Rada",
-          french: "Rada",
-          spanish: "Rada"
+          russian: "Надписи на стенах соборов",
+          english: "Inscriptions on cathedral walls",
+          french: "Inscriptions sur les murs des cathédrales",
+          spanish: "Inscripciones en muros de catedrales"
         }
       ],
-      correctAnswer: 0
+      correctAnswer: 2
     }
   ],
   learningObjectives: [
-    "Understand the historical conditions of Rus state formation",
-    "Analyze the political structure of Old Russian State",
-    "Evaluate the significance of Christianity adoption",
-    "Identify the main economic activities and social structure",
-    "Assess international relations and trade connections",
-    "Recognize the cultural achievements of pre-Mongol Rus"
+    "Understand why state formation occurred specifically in the 9th century",
+    "Critically analyze different interpretations of the 'Calling of the Varangians'",
+    "Evaluate the significance of key reforms by early rulers",
+    "Explain the causes and nature of state fragmentation",
+    "Describe social structure and daily life in different social strata",
+    "Recognize cultural achievements through archaeological evidence"
   ],
   keyConcepts: [
-    "State formation",
-    "Rurik dynasty",
-    "Christianization",
-    "Veche democracy",
-    "Polyudye system",
-    "Trade routes",
-    "Social structure",
-    "Old Russian law",
-    "Byzantine influence",
-    "Pre-Mongol period"
+    "State formation dynamics",
+    "Varangian controversy",
+    "Early state reforms",
+    "Christianization impact",
+    "Political fragmentation",
+    "Social stratification",
+    "Urban development",
+    "Cultural synthesis",
+    "Archaeological evidence",
+    "Historical interpretation"
   ]
 };
 
