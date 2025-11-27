@@ -1,0 +1,121 @@
+/* components/TopicList.css */
+.topic-list {
+  padding: 0;
+}
+
+.topics-header {
+  text-align: center;
+  margin-bottom: 3rem;
+}
+
+.topics-header h2 {
+  color: white;
+  font-size: 2.2rem;
+  margin-bottom: 0.5rem;
+  text-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+}
+
+.topics-header p {
+  color: rgba(255, 255, 255, 0.8);
+  font-size: 1.2rem;
+}
+
+.topics-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+  gap: 2rem;
+  margin-top: 2rem;
+}
+
+.topic-card {
+  background: rgba(255, 255, 255, 0.95);
+  border-radius: 15px;
+  padding: 1.5rem;
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease;
+  cursor: pointer;
+  border: 2px solid transparent;
+}
+
+.topic-card:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 15px 35px rgba(0, 0, 0, 0.2);
+  border-color: #3498db;
+}
+
+.topic-number {
+  background: linear-gradient(135deg, #3498db, #2980b9);
+  color: white;
+  padding: 0.5rem 1rem;
+  border-radius: 20px;
+  font-weight: 600;
+  display: inline-block;
+  margin-bottom: 1rem;
+  font-size: 0.9rem;
+}
+
+.topic-content h3 {
+  color: #2c3e50;
+  font-size: 1.3rem;
+  margin-bottom: 0.5rem;
+  font-weight: 600;
+}
+
+.russian-title {
+  color: #7f8c8d;
+  font-style: italic;
+  margin-bottom: 1rem;
+  font-size: 0.95rem;
+  border-left: 3px solid #3498db;
+  padding-left: 0.75rem;
+}
+
+.topic-description {
+  color: #5d6d7e;
+  line-height: 1.5;
+  margin-bottom: 1.5rem;
+}
+
+.topic-progress {
+  margin-bottom: 1.5rem;
+}
+
+.progress-bar {
+  background: #ecf0f1;
+  border-radius: 10px;
+  height: 8px;
+  margin-bottom: 0.5rem;
+  overflow: hidden;
+}
+
+.progress-fill {
+  background: linear-gradient(135deg, #27ae60, #2ecc71);
+  height: 100%;
+  border-radius: 10px;
+  transition: width 0.3s ease;
+}
+
+.topic-progress span {
+  color: #7f8c8d;
+  font-size: 0.9rem;
+}
+
+.topic-actions {
+  text-align: right;
+}
+
+.start-button {
+  background: linear-gradient(135deg, #e74c3c, #c0392b);
+  color: white;
+  border: none;
+  padding: 0.75rem 1.5rem;
+  border-radius: 25px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.start-button:hover {
+  transform: translateX(5px);
+  box-shadow: 0 5px 15px rgba(231, 76, 60, 0.4);
+}

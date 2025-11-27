@@ -1,0 +1,264 @@
+/* components/TopicDetail.css */
+.topic-detail {
+  background: rgba(255, 255, 255, 0.95);
+  border-radius: 15px;
+  padding: 2rem;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.back-button {
+  background: #95a5a6;
+  color: white;
+  border: none;
+  padding: 0.75rem 1.5rem;
+  border-radius: 25px;
+  cursor: pointer;
+  font-size: 1rem;
+  font-weight: 600;
+  margin-bottom: 2rem;
+  transition: all 0.3s ease;
+}
+
+.back-button:hover {
+  background: #7f8c8d;
+  transform: translateX(-5px);
+}
+
+.topic-header {
+  text-align: center;
+  margin-bottom: 2rem;
+  padding-bottom: 1.5rem;
+  border-bottom: 2px solid #ecf0f1;
+}
+
+.topic-header h2 {
+  color: #2c3e50;
+  font-size: 2rem;
+  margin-bottom: 0.5rem;
+  font-weight: 700;
+}
+
+.russian-title {
+  color: #7f8c8d;
+  font-size: 1.1rem;
+  font-style: italic;
+}
+
+.topic-content {
+  line-height: 1.7;
+}
+
+.content-section {
+  margin-bottom: 2.5rem;
+}
+
+.content-section h3 {
+  color: #2c3e50;
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 2px solid #3498db;
+  display: inline-block;
+}
+
+.content-text {
+  color: #2c3e50;
+  font-size: 1.1rem;
+}
+
+.content-text h2 {
+  color: #2c3e50;
+  font-size: 1.8rem;
+  margin: 2rem 0 1rem 0;
+  font-weight: 600;
+}
+
+.content-text h3 {
+  color: #34495e;
+  font-size: 1.4rem;
+  margin: 1.5rem 0 0.75rem 0;
+  font-weight: 600;
+}
+
+.content-text p {
+  margin-bottom: 1rem;
+  text-align: justify;
+}
+
+.content-text ul {
+  margin: 1rem 0;
+  padding-left: 2rem;
+}
+
+.content-text li {
+  margin-bottom: 0.5rem;
+  position: relative;
+}
+
+.content-text li::before {
+  content: "•";
+  color: #3498db;
+  font-weight: bold;
+  display: inline-block;
+  width: 1em;
+  margin-left: -1em;
+}
+
+.content-text strong {
+  color: #2c3e50;
+  font-weight: 700;
+}
+
+.museum-connection {
+  background: linear-gradient(135deg, #fff3cd, #ffeaa7);
+  border: 2px solid #ffd43b;
+  border-radius: 12px;
+  padding: 1.5rem;
+  margin-bottom: 2rem;
+}
+
+.museum-connection h3 {
+  color: #856404;
+  font-size: 1.3rem;
+  margin-bottom: 1rem;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.museum-connection p {
+  color: #856404;
+  margin: 0;
+  line-height: 1.6;
+}
+
+.quiz-button {
+  background: linear-gradient(135deg, #27ae60, #2ecc71);
+  color: white;
+  border: none;
+  padding: 1.25rem 2rem;
+  border-radius: 12px;
+  font-size: 1.2rem;
+  font-weight: 600;
+  cursor: pointer;
+  width: 100%;
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 15px rgba(39, 174, 96, 0.3);
+}
+
+.quiz-button:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 8px 25px rgba(39, 174, 96, 0.4);
+}
+
+.loading, .error {
+  text-align: center;
+  padding: 3rem;
+  font-size: 1.2rem;
+  color: #7f8c8d;
+}
+
+.error {
+  color: #e74c3c;
+  background: #fadbd8;
+  border-radius: 8px;
+  border: 1px solid #f5b7b1;
+}
+/* ADD TO TopicDetail.css - Improved content styling */
+.content-text {
+  line-height: 1.7;
+  font-size: 1.1rem;
+  color: #2c3e50;
+}
+
+.content-h1 {
+  font-size: 2.2rem;
+  color: #2c3e50;
+  margin: 2rem 0 1rem 0;
+  font-weight: 700;
+  border-bottom: 3px solid #3498db;
+  padding-bottom: 0.5rem;
+}
+
+.content-h2 {
+  font-size: 1.8rem;
+  color: #2c3e50;
+  margin: 1.8rem 0 1rem 0;
+  font-weight: 600;
+  border-left: 4px solid #3498db;
+  padding-left: 1rem;
+}
+
+.content-h3 {
+  font-size: 1.4rem;
+  color: #34495e;
+  margin: 1.5rem 0 0.8rem 0;
+  font-weight: 600;
+}
+
+.content-bold {
+  font-weight: 700;
+  color: #2c3e50;
+  font-size: 1.2rem;
+  margin: 1.2rem 0;
+  padding: 1rem;
+  background: #f8f9fa;
+  border-radius: 8px;
+  border-left: 4px solid #e74c3c;
+}
+
+.content-paragraph {
+  margin-bottom: 1.2rem;
+  text-align: justify;
+  line-height: 1.7;
+}
+
+.content-list {
+  margin: 1.2rem 0;
+  padding-left: 2rem;
+}
+
+.content-list-item {
+  margin-bottom: 0.8rem;
+  line-height: 1.6;
+  position: relative;
+}
+
+.content-list-item::before {
+  content: "•";
+  color: #3498db;
+  font-weight: bold;
+  display: inline-block;
+  width: 1em;
+  margin-left: -1em;
+}
+
+.content-list-item strong {
+  color: #2c3e50;
+  font-weight: 700;
+}
+
+.museum-content .content-paragraph {
+  margin-bottom: 0.8rem;
+}
+
+.museum-content .content-list {
+  margin: 0.8rem 0;
+}
+
+.no-quiz-available {
+  text-align: center;
+  padding: 2rem;
+  background: #f8f9fa;
+  border-radius: 10px;
+  border: 2px dashed #bdc3c7;
+  margin-top: 2rem;
+}
+
+.no-quiz-available p {
+  color: #7f8c8d;
+  font-size: 1.1rem;
+  margin: 0;
+}
