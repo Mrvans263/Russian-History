@@ -12,7 +12,7 @@ const MuseumExploration = () => {
       
       <div className="museum-iframe-container">
         <iframe 
-          src="/museums.html" 
+          src="https://mrvans263.github.io/Russian-Museums/" 
           title="Museums of Moscow"
           className="museum-iframe"
         />
