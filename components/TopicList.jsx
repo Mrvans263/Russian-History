@@ -1,6 +1,6 @@
 // components/TopicList.js
 import React from 'react';
-import { useLanguage } from '../contexts/LanguageContext';
+import { useLanguage } from '../contexts/languageContext';
 import { getText } from '../utils/Languages';
 import './TopicList.css';
 
