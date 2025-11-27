@@ -1,6 +1,6 @@
 // components/Navigation.js - UPDATED
 import React from 'react';
-import { useLanguage } from '../contexts/LanguageContext.jsx';
+import { useLanguage } from '../contexts/LanguageContext.jsx'
 import { LANGUAGES } from '../utils/Languages.jsx';
 import './Navigation.css';
 
