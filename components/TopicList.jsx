@@ -1,7 +1,7 @@
 // components/TopicList.js
 import React from 'react';
-import { useLanguage } from '../contexts/languageContext';
-import { getText } from '../utils/languages';
+import { useLanguage } from '../contexts/LanguageContext';
+import { getText } from '../utils/Languages';
 import './TopicList.css';
 
 const TopicList = ({ onSelectTopic }) => {
