@@ -1,6 +1,6 @@
 // App.js
 import React from 'react';
-import { LanguageProvider } from '../contexts/LanguageContext';
+import { LanguageProvider } from '../contexts/languageContext'
 import MainRouter from '../components/MainRouter';
 import './App.css';
 
