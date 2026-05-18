@@ -1,0 +1,320 @@
+/* src/components/TaskSubmissions.css */
+.submissions-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.8);
+  backdrop-filter: blur(5px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 2000;
+}
+
+.submissions-modal {
+  background: white;
+  border-radius: 20px;
+  padding: 2rem;
+  max-width: 700px;
+  width: 90%;
+  max-height: 85vh;
+  overflow-y: auto;
+  position: relative;
+}
+
+.submissions-modal .close-button {
+  position: absolute;
+  top: 15px;
+  right: 20px;
+  background: none;
+  border: none;
+  font-size: 24px;
+  cursor: pointer;
+  color: #7f8c8d;
+}
+
+.submissions-modal h2 {
+  margin-top: 0;
+  margin-bottom: 0.25rem;
+  color: #2c3e50;
+}
+
+.task-info {
+  color: #7f8c8d;
+  margin-bottom: 1.5rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid #ecf0f1;
+}
+
+/* Tabs */
+.submissions-tabs {
+  margin-bottom: 1.5rem;
+}
+
+.tab-header {
+  display: flex;
+  gap: 1rem;
+  border-bottom: 2px solid #ecf0f1;
+  padding-bottom: 0.5rem;
+}
+
+.tab-header span {
+  font-weight: 600;
+  color: #7f8c8d;
+  cursor: pointer;
+}
+
+.tab-header span.active {
+  color: #3498db;
+  border-bottom: 2px solid #3498db;
+  margin-bottom: -0.5rem;
+}
+
+/* Submissions List */
+.submissions-list {
+  max-height: 60vh;
+  overflow-y: auto;
+}
+
+.submission-group {
+  margin-bottom: 1.5rem;
+}
+
+.submission-group h3 {
+  color: #2c3e50;
+  margin-bottom: 0.75rem;
+  font-size: 1rem;
+}
+
+.submission-item {
+  background: #f8f9fa;
+  border-radius: 12px;
+  padding: 1rem;
+  margin-bottom: 0.75rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  cursor: pointer;
+  transition: background 0.2s;
+}
+
+.submission-item:hover {
+  background: #e9ecef;
+}
+
+.submission-item.reviewed {
+  opacity: 0.8;
+}
+
+.submission-student {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+}
+
+.student-avatar {
+  font-size: 1.5rem;
+}
+
+.student-name {
+  font-weight: 600;
+  color: #2c3e50;
+}
+
+.submission-date {
+  font-size: 0.75rem;
+  color: #7f8c8d;
+}
+
+.submission-photo-thumb {
+  font-size: 0.8rem;
+  color: #3498db;
+}
+
+.review-badge {
+  padding: 0.25rem 0.75rem;
+  border-radius: 20px;
+  font-size: 0.75rem;
+  font-weight: 600;
+}
+
+.review-badge.pending {
+  background: #fff3cd;
+  color: #856404;
+}
+
+.review-badge.approved {
+  background: #d4edda;
+  color: #155724;
+}
+
+.review-badge.rejected {
+  background: #f8d7da;
+  color: #721c24;
+}
+
+/* Submission Detail */
+.submission-detail {
+  padding: 0.5rem 0;
+}
+
+.back-button {
+  background: none;
+  border: none;
+  color: #3498db;
+  cursor: pointer;
+  font-size: 0.9rem;
+  padding: 0;
+  margin-bottom: 1rem;
+  display: flex;
+  align-items: center;
+  gap: 0.25rem;
+}
+
+.back-button:hover {
+  text-decoration: underline;
+}
+
+.detail-header {
+  margin-bottom: 1.5rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid #ecf0f1;
+}
+
+.detail-header h3 {
+  margin: 0 0 0.25rem 0;
+  color: #2c3e50;
+}
+
+.student-email {
+  color: #7f8c8d;
+  font-size: 0.85rem;
+  margin: 0;
+}
+
+.info-row {
+  margin-bottom: 1rem;
+  font-size: 0.9rem;
+}
+
+.info-label {
+  font-weight: 600;
+  color: #2c3e50;
+  margin-right: 0.5rem;
+}
+
+.photo-section {
+  margin-bottom: 1rem;
+}
+
+.photo-section label {
+  font-weight: 600;
+  display: block;
+  margin-bottom: 0.5rem;
+  color: #2c3e50;
+}
+
+.submission-photo {
+  max-width: 100%;
+  max-height: 300px;
+  border-radius: 10px;
+  cursor: pointer;
+  border: 1px solid #ecf0f1;
+}
+
+.content-section {
+  margin-bottom: 1rem;
+}
+
+.content-section label {
+  font-weight: 600;
+  display: block;
+  margin-bottom: 0.5rem;
+  color: #2c3e50;
+}
+
+.content-text {
+  background: #f8f9fa;
+  padding: 0.75rem;
+  border-radius: 8px;
+  font-size: 0.9rem;
+  white-space: pre-wrap;
+}
+
+.review-section {
+  margin-top: 1.5rem;
+  padding-top: 1rem;
+  border-top: 1px solid #ecf0f1;
+}
+
+.review-section label {
+  font-weight: 600;
+  display: block;
+  margin-bottom: 0.5rem;
+  color: #2c3e50;
+}
+
+.grade-input {
+  width: 100px;
+  padding: 0.5rem;
+  border: 2px solid #ecf0f1;
+  border-radius: 8px;
+  margin-bottom: 1rem;
+}
+
+.feedback-input {
+  width: 100%;
+  padding: 0.75rem;
+  border: 2px solid #ecf0f1;
+  border-radius: 10px;
+  font-family: inherit;
+  resize: vertical;
+}
+
+.detail-actions {
+  display: flex;
+  gap: 1rem;
+  margin-top: 1.5rem;
+  justify-content: flex-end;
+}
+
+.reject-button {
+  background: #e74c3c;
+  color: white;
+  border: none;
+  padding: 0.6rem 1.2rem;
+  border-radius: 25px;
+  cursor: pointer;
+  font-weight: 600;
+}
+
+.reject-button:hover:not(:disabled) {
+  background: #c0392b;
+}
+
+.approve-button {
+  background: #27ae60;
+  color: white;
+  border: none;
+  padding: 0.6rem 1.2rem;
+  border-radius: 25px;
+  cursor: pointer;
+  font-weight: 600;
+}
+
+.approve-button:hover:not(:disabled) {
+  background: #219a52;
+}
+
+button:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+
+.no-submissions {
+  text-align: center;
+  padding: 2rem;
+  color: #7f8c8d;
+}
