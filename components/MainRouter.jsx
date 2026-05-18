@@ -7,7 +7,7 @@ import TopicDetail from './TopicDetail';
 import Quiz from './Quiz';
 import MuseumExploration from './MuseumExploration';
 import StudentDashBoard from './StudentDashBoard';
-import TeacherDashBoard from './TeacherDashBoard';
+import TeacherDashboard from './TeacherDashboard';
 
 const MainRouter = () => {
   const { user, profile, isTeacher, isStudent, loading } = useAuth();
