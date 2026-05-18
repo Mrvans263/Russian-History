@@ -3,9 +3,9 @@ import React, { useState, useEffect } from 'react';
 import { useAuth } from '../contexts/AuthContext';
 import { supabase } from '../lib/supabase';
 import UploadPhotoModal from './UploadPhotoModal';
-import './StudentDashboard.css';
+import './StudentDashBoard.css';
 
-const StudentDashboard = () => {
+const StudentDashBoard = () => {
   const { user, profile } = useAuth();
   const [classInfo, setClassInfo] = useState(null);
   const [tasks, setTasks] = useState([]);
