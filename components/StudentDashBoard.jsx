@@ -332,4 +332,4 @@ const StudentDashBoard = () => {
   );
 };
 
-export default StudentDashboard;
+export default StudentDashBoard;
