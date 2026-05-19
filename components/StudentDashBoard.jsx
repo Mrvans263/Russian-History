@@ -1,9 +1,8 @@
-// src/components/StudentDashBoard.jsx
 import React, { useState, useEffect } from 'react';
 import { supabase } from '../lib/supabase';
-import './StudentDashBoard.css';
+import './StudentDashboard.css';
 
-const StudentDashBoard = () => {
+const StudentDashBoard = ({ canUpload = false }) => {
   const [allSubmissions, setAllSubmissions] = useState([]);
   const [loading, setLoading] = useState(true);
   const [showForm, setShowForm] = useState(false);
@@ -25,22 +24,17 @@ const StudentDashBoard = () => {
     loadAllSubmissions();
   }, []);
 
-  const loadAllSubmissions = async (retryCount = 0) => {
+  const loadAllSubmissions = async () => {
     setLoading(true);
-    try {
-      const { data, error } = await supabase
-        .from('submissions')
-        .select('*')
-        .order('created_at', { ascending: false });
-      
-      if (error) throw error;
+    const { data, error } = await supabase
+      .from('submissions')
+      .select('*')
+      .order('created_at', { ascending: false });
+    
+    if (error) {
+      console.error('Load error:', error);
+    } else {
       setAllSubmissions(data || []);
-    } catch (err) {
-      console.error('Load error:', err);
-      if (retryCount < 3) {
-        console.log(`Retrying load... (${retryCount + 1}/3)`);
-        setTimeout(() => loadAllSubmissions(retryCount + 1), 1000);
-      }
     }
     setLoading(false);
   };
@@ -85,21 +79,6 @@ const StudentDashBoard = () => {
     });
   };
 
-  const submitWithRetry = async (data, retryCount = 0) => {
-    try {
-      const { error } = await supabase.from('submissions').insert(data);
-      if (error) throw error;
-      return { success: true };
-    } catch (err) {
-      if (retryCount < 3) {
-        console.log(`Retrying submit... (${retryCount + 1}/3)`);
-        await new Promise(resolve => setTimeout(resolve, 2000));
-        return submitWithRetry(data, retryCount + 1);
-      }
-      throw err;
-    }
-  };
-
   const handleSubmit = async (e) => {
     e.preventDefault();
     
@@ -118,7 +97,7 @@ const StudentDashBoard = () => {
     try {
       const compressedPhoto = await compressImage(photo);
       
-      const result = await submitWithRetry({
+      const { error } = await supabase.from('submissions').insert({
         student_name: studentName,
         photo_url: compressedPhoto,
         museum_name: museumName,
@@ -127,7 +106,9 @@ const StudentDashBoard = () => {
 
       setUploading(false);
       
-      if (result.success) {
+      if (error) {
+        alert('Error: ' + error.message);
+      } else {
         alert('✅ Museum visit shared!');
         setShowForm(false);
         setPhoto(null);
@@ -139,7 +120,6 @@ const StudentDashBoard = () => {
     } catch (err) {
       setUploading(false);
       alert('Error submitting. Please try again.');
-      console.error('Submit error:', err);
     }
   };
 
@@ -160,11 +140,35 @@ const StudentDashBoard = () => {
         <p>Welcome, {studentName}!</p>
       </div>
 
-      <div style={{ textAlign: 'center', marginBottom: '2rem' }}>
-        <button onClick={() => setShowForm(true)} className="share-btn">
-          + Share Your Museum Visit
-        </button>
-      </div>
+      {canUpload && (
+        <div style={{ textAlign: 'center', marginBottom: '2rem' }}>
+          <button onClick={() => setShowForm(true)} className="share-btn">
+            + Share Your Museum Visit
+          </button>
+        </div>
+      )}
+
+      <h2>📷 All Museum Visits ({allSubmissions.length})</h2>
+      
+      {allSubmissions.length === 0 ? (
+        <div className="no-tasks">
+          <p>No museum visits shared yet. Be the first to share!</p>
+        </div>
+      ) : (
+        <div className="submissions-grid">
+          {allSubmissions.map(sub => (
+            <div key={sub.id} className="submission-card">
+              {sub.photo_url && <img src={sub.photo_url} alt={sub.museum_name} className="submission-photo" />}
+              <div className="submission-info">
+                <h3>{sub.museum_name}</h3>
+                <p className="student-name">🧑‍🎓 {sub.student_name}</p>
+                <p>{sub.description}</p>
+                <small>📅 {new Date(sub.created_at).toLocaleDateString()}</small>
+              </div>
+            </div>
+          ))}
+        </div>
+      )}
 
       {showForm && (
         <div className="modal-overlay" onClick={() => setShowForm(false)}>
@@ -193,28 +197,6 @@ const StudentDashBoard = () => {
               </div>
             </form>
           </div>
-        </div>
-      )}
-
-      <h2>📷 Class Museum Visits ({allSubmissions.length})</h2>
-      
-      {allSubmissions.length === 0 ? (
-        <div className="no-tasks">
-          <p>No museum visits shared yet. Be the first to share!</p>
-        </div>
-      ) : (
-        <div className="submissions-grid">
-          {allSubmissions.map(sub => (
-            <div key={sub.id} className="submission-card">
-              {sub.photo_url && <img src={sub.photo_url} alt={sub.museum_name} className="submission-photo" />}
-              <div className="submission-info">
-                <h3>{sub.museum_name}</h3>
-                <p className="student-name">🧑‍🎓 {sub.student_name}</p>
-                <p>{sub.description}</p>
-                <small>📅 {new Date(sub.created_at).toLocaleDateString()}</small>
-              </div>
-            </div>
-          ))}
         </div>
       )}
     </div>
