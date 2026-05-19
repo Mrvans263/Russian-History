@@ -901,3 +901,100 @@ h2 {
     font-size: 1rem;
   }
 }
+/* Image Modal Styles */
+.image-modal-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.95);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 3000;
+  padding: 2rem;
+}
+
+.image-modal-content {
+  max-width: 90vw;
+  max-height: 90vh;
+  position: relative;
+  background: #1a1a2e;
+  border-radius: 15px;
+  overflow: hidden;
+}
+
+.image-modal-close {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  background: rgba(0, 0, 0, 0.6);
+  color: white;
+  border: none;
+  width: 35px;
+  height: 35px;
+  border-radius: 50%;
+  font-size: 20px;
+  cursor: pointer;
+  z-index: 10;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.image-modal-close:hover {
+  background: rgba(0, 0, 0, 0.8);
+}
+
+.image-modal-full {
+  max-width: 100%;
+  max-height: 70vh;
+  object-fit: contain;
+  display: block;
+  margin: 0 auto;
+}
+
+.image-modal-info {
+  padding: 1rem;
+  background: #1a1a2e;
+  color: white;
+}
+
+.image-modal-info h3 {
+  margin: 0 0 0.5rem;
+  color: white;
+}
+
+.image-modal-info p {
+  color: #ccc;
+  margin: 0.5rem 0;
+}
+
+.image-modal-info .student-name {
+  color: #3498db;
+}
+
+.image-modal-info small {
+  color: #888;
+}
+
+/* Mobile Responsive */
+@media (max-width: 768px) {
+  .image-modal-content {
+    width: 95vw;
+    max-height: 85vh;
+  }
+  
+  .image-modal-full {
+    max-height: 60vh;
+  }
+  
+  .image-modal-info {
+    padding: 0.8rem;
+  }
+  
+  .image-modal-info h3 {
+    font-size: 1rem;
+  }
+}
