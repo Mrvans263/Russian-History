@@ -11,6 +11,7 @@ const StudentDashBoard = ({ canUpload = false }) => {
   const [showMediaModal, setShowMediaModal] = useState(null);
   const [studentName, setStudentName] = useState('');
   const [uploading, setUploading] = useState(false);
+  const [uploadProgress, setUploadProgress] = useState(0);
   
   const [mediaFile, setMediaFile] = useState(null);
   const [mediaPreview, setMediaPreview] = useState(null);
@@ -99,13 +100,46 @@ const StudentDashBoard = ({ canUpload = false }) => {
     });
   };
 
+  const uploadVideoToStorage = async (file) => {
+    const fileName = `${Date.now()}_${file.name}`;
+    const filePath = `videos/${fileName}`;
+    
+    // Compress video by limiting size (optional - using file directly)
+    const { error } = await supabase.storage
+      .from('videos')
+      .upload(filePath, file, {
+        cacheControl: '3600',
+        upsert: false
+      });
+    
+    if (error) throw error;
+    
+    // Get public URL
+    const { data: { publicUrl } } = supabase.storage
+      .from('videos')
+      .getPublicUrl(filePath);
+    
+    return publicUrl;
+  };
+
   const handleMediaChange = (e) => {
     const file = e.target.files[0];
     if (file) {
+      // Check file size (max 50MB for videos)
+      if (file.type.startsWith('video/') && file.size > 50 * 1024 * 1024) {
+        alert('Video must be less than 50MB. Please compress your video.');
+        return;
+      }
+      
+      // Check image size (max 5MB)
+      if (file.type.startsWith('image/') && file.size > 5 * 1024 * 1024) {
+        alert('Image must be less than 5MB.');
+        return;
+      }
+      
       setMediaFile(file);
       setMediaPreview(URL.createObjectURL(file));
       
-      // Detect media type
       if (file.type.startsWith('video/')) {
         setMediaType('video');
       } else {
@@ -128,19 +162,20 @@ const StudentDashBoard = ({ canUpload = false }) => {
     }
 
     setUploading(true);
+    setUploadProgress(0);
 
     try {
       let mediaUrl;
       
       if (mediaType === 'photo') {
+        setUploadProgress(50);
         mediaUrl = await compressImage(mediaFile);
+        setUploadProgress(100);
       } else {
-        // For videos, convert to base64 (or you could upload to Supabase storage)
-        const reader = new FileReader();
-        mediaUrl = await new Promise((resolve) => {
-          reader.onloadend = () => resolve(reader.result);
-          reader.readAsDataURL(mediaFile);
-        });
+        // Upload video to storage
+        setUploadProgress(30);
+        mediaUrl = await uploadVideoToStorage(mediaFile);
+        setUploadProgress(100);
       }
       
       const { error } = await supabase.from('submissions').insert({
@@ -152,22 +187,21 @@ const StudentDashBoard = ({ canUpload = false }) => {
         description: description
       });
 
-      if (error) {
-        setUploading(false);
-        alert('Error: ' + error.message);
-      } else {
-        alert('✅ Media shared successfully!');
-        setMediaFile(null);
-        setMediaPreview(null);
-        setMuseumName('');
-        setDescription('');
-        setShowForm(false);
-        setUploading(false);
-        await loadAllSubmissions();
-      }
+      if (error) throw error;
+      
+      alert('✅ Media shared successfully!');
+      setMediaFile(null);
+      setMediaPreview(null);
+      setMuseumName('');
+      setDescription('');
+      setShowForm(false);
+      setUploadProgress(0);
+      await loadAllSubmissions();
+      
     } catch (err) {
+      alert('Error: ' + err.message);
+    } finally {
       setUploading(false);
-      alert('Error submitting. Please try again.');
     }
   };
 
@@ -225,7 +259,7 @@ const StudentDashBoard = ({ canUpload = false }) => {
                   className="submission-video"
                   onClick={() => setShowMediaModal(sub)}
                   style={{ cursor: 'pointer' }}
-                  poster="/video-poster.jpg"
+                  preload="metadata"
                 />
               ) : (
                 sub.photo_url && (
@@ -235,6 +269,7 @@ const StudentDashBoard = ({ canUpload = false }) => {
                     className="submission-photo"
                     onClick={() => setShowMediaModal(sub)}
                     style={{ cursor: 'pointer' }}
+                    loading="lazy"
                   />
                 )
               )}
@@ -250,7 +285,7 @@ const StudentDashBoard = ({ canUpload = false }) => {
         </div>
       )}
 
-      {/* Media Modal - Full Screen View */}
+      {/* Media Modal */}
       {showMediaModal && (
         <div className="image-modal-overlay" onClick={() => setShowMediaModal(null)}>
           <div className="image-modal-content" onClick={e => e.stopPropagation()}>
@@ -263,12 +298,14 @@ const StudentDashBoard = ({ canUpload = false }) => {
                 controls
                 autoPlay
                 playsInline
+                preload="metadata"
               />
             ) : (
               <img 
                 src={showMediaModal.photo_url} 
                 alt={showMediaModal.museum_name} 
                 className="image-modal-full" 
+                loading="lazy"
               />
             )}
             
@@ -282,7 +319,7 @@ const StudentDashBoard = ({ canUpload = false }) => {
         </div>
       )}
 
-      {/* Upload Modal */}
+      {/* Upload Modal with Progress */}
       {showForm && (
         <div className="modal-overlay" onClick={(e) => {
           if (!uploading) {
@@ -293,7 +330,7 @@ const StudentDashBoard = ({ canUpload = false }) => {
             <h2>📸 Share Your Museum Visit</h2>
             <form onSubmit={handleSubmit}>
               <div className="form-group">
-                <label>Upload Photo or Video *</label>
+                <label>Upload Photo or Video (Max: 5MB photo, 50MB video)</label>
                 <input 
                   type="file" 
                   accept="image/*,video/*" 
@@ -305,7 +342,7 @@ const StudentDashBoard = ({ canUpload = false }) => {
                   <img src={mediaPreview} alt="Preview" className="photo-preview" />
                 )}
                 {mediaPreview && mediaType === 'video' && (
-                  <video src={mediaPreview} className="video-preview" controls />
+                  <video src={mediaPreview} className="video-preview" controls preload="metadata" />
                 )}
               </div>
               
@@ -330,12 +367,20 @@ const StudentDashBoard = ({ canUpload = false }) => {
                 />
               </div>
               
+              {uploading && (
+                <div className="progress-bar">
+                  <div className="progress-fill" style={{ width: `${uploadProgress}%` }}>
+                    {uploadProgress}%
+                  </div>
+                </div>
+              )}
+              
               <div className="modal-actions">
                 <button type="button" onClick={() => !uploading && setShowForm(false)} disabled={uploading}>
                   Cancel
                 </button>
                 <button type="submit" disabled={uploading}>
-                  {uploading ? 'Uploading...' : 'Share'}
+                  {uploading ? `Uploading ${uploadProgress}%...` : 'Share'}
                 </button>
               </div>
             </form>
