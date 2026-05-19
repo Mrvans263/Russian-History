@@ -1,7 +1,7 @@
 // src/components/StudentDashBoard.jsx
 import React, { useState, useEffect } from 'react';
 import { supabase } from '../lib/supabase';
-import './StudentDashboard.css';
+import './StudentDashBoard.css';
 
 const StudentDashBoard = () => {
   const [allSubmissions, setAllSubmissions] = useState([]);
