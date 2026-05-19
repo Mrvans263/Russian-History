@@ -1,89 +1,50 @@
+// src/components/MainRouter.jsx
 import React, { useState, useEffect } from 'react';
-import { useAuth } from '../contexts/AuthContext';
-import Navigation from './Navigation';
-import TopicList from './TopicList';
-import TopicDetail from './TopicDetail';
-import Quiz from './Quiz';
-import MuseumExploration from './MuseumExploration';
+import { supabase } from '../lib/supabase';
 import StudentDashBoard from './StudentDashBoard';
 import TeacherDashboard from './TeacherDashboard';
+import TopicList from './TopicList';
+import MuseumExploration from './MuseumExploration';
+import Navigation from './Navigation';
 
 const MainRouter = () => {
-  const { user, isTeacher, isStudent, loading } = useAuth();
-  const [currentView, setCurrentView] = useState('topics');
-  const [currentTopic, setCurrentTopic] = useState(null);
-  const [showQuiz, setShowQuiz] = useState(false);
+  const [isTeacher, setIsTeacher] = useState(false);
+  const [loading, setLoading] = useState(true);
 
-  // Auto-redirect to dashboard when logged in
+  // Simple check - just use a button to switch modes
   useEffect(() => {
-    if (!loading) {
-      if (user && (isTeacher || isStudent)) {
-        setCurrentView('class');
-      } else if (!user && currentView === 'class') {
-        setCurrentView('topics');
-      }
-    }
-  }, [loading, user, isTeacher, isStudent, currentView]);
+    setLoading(false);
+  }, []);
 
   if (loading) {
+    return <div style={{ color: 'white', textAlign: 'center', padding: '50px' }}>Loading...</div>;
+  }
+
+  // Teacher mode - show teacher dashboard
+  if (isTeacher) {
     return (
       <>
-        <header className="app-header">
-          <h1>Russian History for International Students</h1>
-          <p>Explore the rich history of Russia through interactive lessons</p>
-        </header>
-        <main className="app-main">
-          <div style={{ textAlign: 'center', padding: '3rem', color: 'white' }}>Loading...</div>
-        </main>
-        <footer className="app-footer">
-          <p>RTU MIREA History Project • Created for International Students</p>
-        </footer>
+        <button 
+          onClick={() => setIsTeacher(false)}
+          style={{ position: 'fixed', top: 10, right: 10, zIndex: 1000, padding: '8px 16px', cursor: 'pointer' }}
+        >
+          Switch to Student View
+        </button>
+        <TeacherDashboard />
       </>
     );
   }
 
-  const renderContent = () => {
-    if (showQuiz && currentTopic) {
-      return <Quiz topic={currentTopic} onBack={() => setShowQuiz(false)} />;
-    }
-
-    if (currentTopic) {
-      return (
-        <TopicDetail 
-          topic={currentTopic} 
-          onBack={() => setCurrentTopic(null)}
-          onTakeQuiz={(topicWithQuiz) => {
-            setCurrentTopic(topicWithQuiz);
-            setShowQuiz(true);
-          }}
-        />
-      );
-    }
-
-    if (currentView === 'class' && user) {
-      if (isTeacher) return <TeacherDashboard />;
-      if (isStudent) return <StudentDashboard />;
-    }
-
-    if (currentView === 'museums') return <MuseumExploration />;
-    return <TopicList onSelectTopic={setCurrentTopic} />;
-  };
-
+  // Student mode - show student dashboard
   return (
     <>
-      <Navigation 
-        currentView={currentView} 
-        onViewChange={setCurrentView}
-        hasSelectedTopic={!!currentTopic}
-      />
-      <header className="app-header">
-        <h1>Russian History for International Students</h1>
-        <p>Explore the rich history of Russia through interactive lessons</p>
-      </header>
-      <main className="app-main">{renderContent()}</main>
-      <footer className="app-footer">
-        <p>RTU MIREA History Project • Created for International Students</p>
-      </footer>
+      <button 
+        onClick={() => setIsTeacher(true)}
+        style={{ position: 'fixed', top: 10, right: 10, zIndex: 1000, padding: '8px 16px', cursor: 'pointer' }}
+      >
+        Switch to Teacher View
+      </button>
+      <StudentDashBoard />
     </>
   );
 };

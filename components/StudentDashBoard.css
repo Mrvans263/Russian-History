@@ -323,3 +323,106 @@
     gap: 0.25rem;
   }
 }
+/* Add to StudentDashboard.css */
+.modal-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0,0,0,0.7);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 2000;
+}
+
+.modal-content {
+  background: white;
+  border-radius: 20px;
+  padding: 2rem;
+  max-width: 500px;
+  width: 90%;
+}
+
+.modal-content h3 {
+  margin-top: 0;
+}
+
+.modal-actions {
+  display: flex;
+  gap: 1rem;
+  justify-content: flex-end;
+  margin-top: 1rem;
+}
+
+.modal-actions button {
+  padding: 8px 16px;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.modal-actions button:first-child {
+  background: #95a5a6;
+  color: white;
+  border: none;
+}
+
+.modal-actions button:last-child {
+  background: #27ae60;
+  color: white;
+  border: none;
+}
+
+.form-group {
+  margin-bottom: 1rem;
+}
+
+.form-group label {
+  display: block;
+  margin-bottom: 0.5rem;
+  font-weight: 600;
+}
+
+.form-group input,
+.form-group textarea {
+  width: 100%;
+  padding: 8px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+}
+
+.status-badge.approved {
+  background: #d4edda;
+  color: #155724;
+  padding: 8px;
+  border-radius: 8px;
+  display: inline-block;
+}
+
+.status-badge.pending {
+  background: #fff3cd;
+  color: #856404;
+  padding: 8px;
+  border-radius: 8px;
+  display: inline-block;
+}
+.photo-preview {
+  max-width: 100%;
+  margin-top: 10px;
+  border-radius: 8px;
+}
+
+.share-btn {
+  background: #27ae60;
+  color: white;
+  padding: 15px 30px;
+  font-size: 18px;
+  border: none;
+  border-radius: 30px;
+  cursor: pointer;
+}
+
+.share-btn:hover {
+  background: #219a52;
+}
