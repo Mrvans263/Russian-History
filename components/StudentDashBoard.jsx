@@ -1,9 +1,11 @@
+// src/components/StudentDashBoard.jsx
 import React, { useState, useEffect } from 'react';
 import { supabase } from '../lib/supabase';
 import './StudentDashBoard.css';
 
 const StudentDashBoard = ({ canUpload = false }) => {
   const [allSubmissions, setAllSubmissions] = useState([]);
+  const [tasks, setTasks] = useState([]);
   const [loading, setLoading] = useState(true);
   const [showForm, setShowForm] = useState(false);
   const [studentName, setStudentName] = useState('');
@@ -21,22 +23,38 @@ const StudentDashBoard = ({ canUpload = false }) => {
       localStorage.setItem('student_name', name);
     }
     setStudentName(name);
-    loadAllSubmissions();
+    loadAllData();
   }, []);
 
-  const loadAllSubmissions = async () => {
+  const loadAllData = async () => {
     setLoading(true);
+    await Promise.all([
+      loadAllSubmissions(),
+      loadAllTasks()
+    ]);
+    setLoading(false);
+  };
+
+  const loadAllSubmissions = async () => {
     const { data, error } = await supabase
       .from('submissions')
       .select('*')
       .order('created_at', { ascending: false });
     
-    if (error) {
-      console.error('Load error:', error);
-    } else {
+    if (!error) {
       setAllSubmissions(data || []);
     }
-    setLoading(false);
+  };
+
+  const loadAllTasks = async () => {
+    const { data, error } = await supabase
+      .from('tasks')
+      .select('*')
+      .order('created_at', { ascending: false });
+    
+    if (!error) {
+      setTasks(data || []);
+    }
   };
 
   const compressImage = (file) => {
@@ -104,18 +122,20 @@ const StudentDashBoard = ({ canUpload = false }) => {
         description: description
       });
 
-      setUploading(false);
-      
       if (error) {
+        setUploading(false);
         alert('Error: ' + error.message);
       } else {
         alert('✅ Museum visit shared!');
-        setShowForm(false);
+        // Clear form
         setPhoto(null);
         setPhotoPreview(null);
         setMuseumName('');
         setDescription('');
-        loadAllSubmissions();
+        setShowForm(false);
+        setUploading(false);
+        // Reload data without page refresh
+        await loadAllSubmissions();
       }
     } catch (err) {
       setUploading(false);
@@ -140,6 +160,26 @@ const StudentDashBoard = ({ canUpload = false }) => {
         <p>Welcome, {studentName}!</p>
       </div>
 
+      {/* Tasks Section */}
+      {tasks.length > 0 && (
+        <>
+          <h2>📋 Tasks to Complete</h2>
+          <div className="tasks-list">
+            {tasks.map(task => (
+              <div key={task.id} className="task-card">
+                <h3>{task.title}</h3>
+                <p>{task.description}</p>
+                <p>🎯 {task.points} points</p>
+                <button className="task-btn" onClick={() => alert('Task instructions will appear here')}>
+                  Start Task
+                </button>
+              </div>
+            ))}
+          </div>
+        </>
+      )}
+
+      {/* Upload Button - Only for students */}
       {canUpload && (
         <div style={{ textAlign: 'center', marginBottom: '2rem' }}>
           <button onClick={() => setShowForm(true)} className="share-btn">
@@ -148,6 +188,7 @@ const StudentDashBoard = ({ canUpload = false }) => {
         </div>
       )}
 
+      {/* Gallery Section */}
       <h2>📷 All Museum Visits ({allSubmissions.length})</h2>
       
       {allSubmissions.length === 0 ? (
@@ -170,30 +211,39 @@ const StudentDashBoard = ({ canUpload = false }) => {
         </div>
       )}
 
+      {/* Upload Modal - Prevent accidental close while uploading */}
       {showForm && (
-        <div className="modal-overlay" onClick={() => setShowForm(false)}>
+        <div className="modal-overlay" onClick={(e) => {
+          if (!uploading) {
+            setShowForm(false);
+          }
+        }}>
           <div className="modal-content" onClick={e => e.stopPropagation()}>
             <h2>📸 Share Your Museum Visit</h2>
             <form onSubmit={handleSubmit}>
               <div className="form-group">
                 <label>Upload Photo *</label>
-                <input type="file" accept="image/*" onChange={handlePhotoChange} required />
+                <input type="file" accept="image/*" onChange={handlePhotoChange} required disabled={uploading} />
                 {photoPreview && <img src={photoPreview} alt="Preview" className="photo-preview" />}
               </div>
               
               <div className="form-group">
                 <label>Museum Name *</label>
-                <input type="text" value={museumName} onChange={(e) => setMuseumName(e.target.value)} required />
+                <input type="text" value={museumName} onChange={(e) => setMuseumName(e.target.value)} required disabled={uploading} />
               </div>
               
               <div className="form-group">
                 <label>What did you see?</label>
-                <textarea value={description} onChange={(e) => setDescription(e.target.value)} rows="3" />
+                <textarea value={description} onChange={(e) => setDescription(e.target.value)} rows="3" disabled={uploading} />
               </div>
               
               <div className="modal-actions">
-                <button type="button" onClick={() => setShowForm(false)}>Cancel</button>
-                <button type="submit" disabled={uploading}>{uploading ? 'Sharing...' : 'Share'}</button>
+                <button type="button" onClick={() => !uploading && setShowForm(false)} disabled={uploading}>
+                  Cancel
+                </button>
+                <button type="submit" disabled={uploading}>
+                  {uploading ? 'Submitting...' : 'Share'}
+                </button>
               </div>
             </form>
           </div>
