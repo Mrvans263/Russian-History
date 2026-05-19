@@ -1,19 +1,20 @@
 // src/components/StudentDashBoard.jsx
 import React, { useState, useEffect } from 'react';
 import { supabase } from '../lib/supabase';
-import './StudentDashBoard.css';
+import './StudentDashboard.css';
 
 const StudentDashBoard = ({ canUpload = false }) => {
   const [allSubmissions, setAllSubmissions] = useState([]);
   const [tasks, setTasks] = useState([]);
   const [loading, setLoading] = useState(true);
   const [showForm, setShowForm] = useState(false);
-  const [showImageModal, setShowImageModal] = useState(null);
+  const [showMediaModal, setShowMediaModal] = useState(null);
   const [studentName, setStudentName] = useState('');
   const [uploading, setUploading] = useState(false);
   
-  const [photo, setPhoto] = useState(null);
-  const [photoPreview, setPhotoPreview] = useState(null);
+  const [mediaFile, setMediaFile] = useState(null);
+  const [mediaPreview, setMediaPreview] = useState(null);
+  const [mediaType, setMediaType] = useState('photo');
   const [museumName, setMuseumName] = useState('');
   const [description, setDescription] = useState('');
 
@@ -98,11 +99,26 @@ const StudentDashBoard = ({ canUpload = false }) => {
     });
   };
 
+  const handleMediaChange = (e) => {
+    const file = e.target.files[0];
+    if (file) {
+      setMediaFile(file);
+      setMediaPreview(URL.createObjectURL(file));
+      
+      // Detect media type
+      if (file.type.startsWith('video/')) {
+        setMediaType('video');
+      } else {
+        setMediaType('photo');
+      }
+    }
+  };
+
   const handleSubmit = async (e) => {
     e.preventDefault();
     
-    if (!photo) {
-      alert('Please select a photo');
+    if (!mediaFile) {
+      alert('Please select a photo or video');
       return;
     }
     
@@ -114,11 +130,24 @@ const StudentDashBoard = ({ canUpload = false }) => {
     setUploading(true);
 
     try {
-      const compressedPhoto = await compressImage(photo);
+      let mediaUrl;
+      
+      if (mediaType === 'photo') {
+        mediaUrl = await compressImage(mediaFile);
+      } else {
+        // For videos, convert to base64 (or you could upload to Supabase storage)
+        const reader = new FileReader();
+        mediaUrl = await new Promise((resolve) => {
+          reader.onloadend = () => resolve(reader.result);
+          reader.readAsDataURL(mediaFile);
+        });
+      }
       
       const { error } = await supabase.from('submissions').insert({
         student_name: studentName,
-        photo_url: compressedPhoto,
+        photo_url: mediaType === 'photo' ? mediaUrl : null,
+        video_url: mediaType === 'video' ? mediaUrl : null,
+        media_type: mediaType,
         museum_name: museumName,
         description: description
       });
@@ -127,9 +156,9 @@ const StudentDashBoard = ({ canUpload = false }) => {
         setUploading(false);
         alert('Error: ' + error.message);
       } else {
-        alert('✅ Museum visit shared!');
-        setPhoto(null);
-        setPhotoPreview(null);
+        alert('✅ Media shared successfully!');
+        setMediaFile(null);
+        setMediaPreview(null);
         setMuseumName('');
         setDescription('');
         setShowForm(false);
@@ -139,14 +168,6 @@ const StudentDashBoard = ({ canUpload = false }) => {
     } catch (err) {
       setUploading(false);
       alert('Error submitting. Please try again.');
-    }
-  };
-
-  const handlePhotoChange = (e) => {
-    const file = e.target.files[0];
-    if (file) {
-      setPhoto(file);
-      setPhotoPreview(URL.createObjectURL(file));
     }
   };
 
@@ -198,37 +219,64 @@ const StudentDashBoard = ({ canUpload = false }) => {
         <div className="submissions-grid">
           {allSubmissions.map(sub => (
             <div key={sub.id} className="submission-card">
-              {sub.photo_url && (
-                <img 
-                  src={sub.photo_url} 
-                  alt={sub.museum_name} 
-                  className="submission-photo"
-                  onClick={() => setShowImageModal(sub)}
+              {sub.media_type === 'video' ? (
+                <video 
+                  src={sub.video_url} 
+                  className="submission-video"
+                  onClick={() => setShowMediaModal(sub)}
                   style={{ cursor: 'pointer' }}
+                  poster="/video-poster.jpg"
                 />
+              ) : (
+                sub.photo_url && (
+                  <img 
+                    src={sub.photo_url} 
+                    alt={sub.museum_name} 
+                    className="submission-photo"
+                    onClick={() => setShowMediaModal(sub)}
+                    style={{ cursor: 'pointer' }}
+                  />
+                )
               )}
               <div className="submission-info">
                 <h3>{sub.museum_name}</h3>
                 <p className="student-name">🧑‍🎓 {sub.student_name}</p>
                 <p>{sub.description}</p>
                 <small>📅 {new Date(sub.created_at).toLocaleDateString()}</small>
+                {sub.media_type === 'video' && <span className="video-badge">🎥 Video</span>}
               </div>
             </div>
           ))}
         </div>
       )}
 
-      {/* Image Modal - Full Screen View */}
-      {showImageModal && (
-        <div className="image-modal-overlay" onClick={() => setShowImageModal(null)}>
+      {/* Media Modal - Full Screen View */}
+      {showMediaModal && (
+        <div className="image-modal-overlay" onClick={() => setShowMediaModal(null)}>
           <div className="image-modal-content" onClick={e => e.stopPropagation()}>
-            <button className="image-modal-close" onClick={() => setShowImageModal(null)}>✕</button>
-            <img src={showImageModal.photo_url} alt={showImageModal.museum_name} className="image-modal-full" />
+            <button className="image-modal-close" onClick={() => setShowMediaModal(null)}>✕</button>
+            
+            {showMediaModal.media_type === 'video' ? (
+              <video 
+                src={showMediaModal.video_url} 
+                className="image-modal-full"
+                controls
+                autoPlay
+                playsInline
+              />
+            ) : (
+              <img 
+                src={showMediaModal.photo_url} 
+                alt={showMediaModal.museum_name} 
+                className="image-modal-full" 
+              />
+            )}
+            
             <div className="image-modal-info">
-              <h3>{showImageModal.museum_name}</h3>
-              <p className="student-name">🧑‍🎓 {showImageModal.student_name}</p>
-              <p>{showImageModal.description}</p>
-              <small>📅 {new Date(showImageModal.created_at).toLocaleDateString()}</small>
+              <h3>{showMediaModal.museum_name}</h3>
+              <p className="student-name">🧑‍🎓 {showMediaModal.student_name}</p>
+              <p>{showMediaModal.description}</p>
+              <small>📅 {new Date(showMediaModal.created_at).toLocaleDateString()}</small>
             </div>
           </div>
         </div>
@@ -245,19 +293,41 @@ const StudentDashBoard = ({ canUpload = false }) => {
             <h2>📸 Share Your Museum Visit</h2>
             <form onSubmit={handleSubmit}>
               <div className="form-group">
-                <label>Upload Photo *</label>
-                <input type="file" accept="image/*" onChange={handlePhotoChange} required disabled={uploading} />
-                {photoPreview && <img src={photoPreview} alt="Preview" className="photo-preview" />}
+                <label>Upload Photo or Video *</label>
+                <input 
+                  type="file" 
+                  accept="image/*,video/*" 
+                  onChange={handleMediaChange} 
+                  required 
+                  disabled={uploading} 
+                />
+                {mediaPreview && mediaType === 'photo' && (
+                  <img src={mediaPreview} alt="Preview" className="photo-preview" />
+                )}
+                {mediaPreview && mediaType === 'video' && (
+                  <video src={mediaPreview} className="video-preview" controls />
+                )}
               </div>
               
               <div className="form-group">
                 <label>Museum Name *</label>
-                <input type="text" value={museumName} onChange={(e) => setMuseumName(e.target.value)} required disabled={uploading} />
+                <input 
+                  type="text" 
+                  value={museumName} 
+                  onChange={(e) => setMuseumName(e.target.value)} 
+                  required 
+                  disabled={uploading} 
+                />
               </div>
               
               <div className="form-group">
                 <label>What did you see?</label>
-                <textarea value={description} onChange={(e) => setDescription(e.target.value)} rows="3" disabled={uploading} />
+                <textarea 
+                  value={description} 
+                  onChange={(e) => setDescription(e.target.value)} 
+                  rows="3" 
+                  disabled={uploading} 
+                />
               </div>
               
               <div className="modal-actions">
@@ -265,7 +335,7 @@ const StudentDashBoard = ({ canUpload = false }) => {
                   Cancel
                 </button>
                 <button type="submit" disabled={uploading}>
-                  {uploading ? 'Submitting...' : 'Share'}
+                  {uploading ? 'Uploading...' : 'Share'}
                 </button>
               </div>
             </form>
