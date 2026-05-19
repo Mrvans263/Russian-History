@@ -5,7 +5,7 @@ import TopicList from './TopicList';
 import TopicDetail from './TopicDetail';
 import Quiz from './Quiz';
 import MuseumExploration from './MuseumExploration';
-import StudentDashboard from './StudentDashboard';
+import StudentDashBoard from './StudentDashBoard';
 import TeacherDashboard from './TeacherDashboard';
 
 const MainRouter = () => {
