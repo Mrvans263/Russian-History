@@ -126,6 +126,15 @@ const Navigation = ({ currentView, onViewChange, hasSelectedTopic }) => {
                 ))}
               </select>
             </div>
+            {/* My Class button - only for logged in users */}
+{user && (isStudent || isTeacher) && (
+  <button
+    className={`nav-link ${currentView === 'class' ? 'active' : ''}`}
+    onClick={() => onViewChange('class')}
+  >
+    {isTeacher ? '👨‍🏫 My Class' : '📋 My Class'}
+  </button>
+)}
 
             {/* Auth Section */}
             {user ? (
