@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { supabase } from '../lib/supabase';
-import './StudentDashboard.css';
+import './StudentDashBoard.css';
 
 const StudentDashBoard = ({ canUpload = false }) => {
   const [allSubmissions, setAllSubmissions] = useState([]);
