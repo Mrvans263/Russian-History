@@ -8,6 +8,7 @@ const StudentDashBoard = ({ canUpload = false }) => {
   const [tasks, setTasks] = useState([]);
   const [loading, setLoading] = useState(true);
   const [showForm, setShowForm] = useState(false);
+  const [showImageModal, setShowImageModal] = useState(null);
   const [studentName, setStudentName] = useState('');
   const [uploading, setUploading] = useState(false);
   
@@ -127,14 +128,12 @@ const StudentDashBoard = ({ canUpload = false }) => {
         alert('Error: ' + error.message);
       } else {
         alert('✅ Museum visit shared!');
-        // Clear form
         setPhoto(null);
         setPhotoPreview(null);
         setMuseumName('');
         setDescription('');
         setShowForm(false);
         setUploading(false);
-        // Reload data without page refresh
         await loadAllSubmissions();
       }
     } catch (err) {
@@ -179,7 +178,7 @@ const StudentDashBoard = ({ canUpload = false }) => {
         </>
       )}
 
-      {/* Upload Button - Only for students */}
+      {/* Upload Button */}
       {canUpload && (
         <div style={{ textAlign: 'center', marginBottom: '2rem' }}>
           <button onClick={() => setShowForm(true)} className="share-btn">
@@ -199,7 +198,15 @@ const StudentDashBoard = ({ canUpload = false }) => {
         <div className="submissions-grid">
           {allSubmissions.map(sub => (
             <div key={sub.id} className="submission-card">
-              {sub.photo_url && <img src={sub.photo_url} alt={sub.museum_name} className="submission-photo" />}
+              {sub.photo_url && (
+                <img 
+                  src={sub.photo_url} 
+                  alt={sub.museum_name} 
+                  className="submission-photo"
+                  onClick={() => setShowImageModal(sub)}
+                  style={{ cursor: 'pointer' }}
+                />
+              )}
               <div className="submission-info">
                 <h3>{sub.museum_name}</h3>
                 <p className="student-name">🧑‍🎓 {sub.student_name}</p>
@@ -211,7 +218,23 @@ const StudentDashBoard = ({ canUpload = false }) => {
         </div>
       )}
 
-      {/* Upload Modal - Prevent accidental close while uploading */}
+      {/* Image Modal - Full Screen View */}
+      {showImageModal && (
+        <div className="image-modal-overlay" onClick={() => setShowImageModal(null)}>
+          <div className="image-modal-content" onClick={e => e.stopPropagation()}>
+            <button className="image-modal-close" onClick={() => setShowImageModal(null)}>✕</button>
+            <img src={showImageModal.photo_url} alt={showImageModal.museum_name} className="image-modal-full" />
+            <div className="image-modal-info">
+              <h3>{showImageModal.museum_name}</h3>
+              <p className="student-name">🧑‍🎓 {showImageModal.student_name}</p>
+              <p>{showImageModal.description}</p>
+              <small>📅 {new Date(showImageModal.created_at).toLocaleDateString()}</small>
+            </div>
+          </div>
+        </div>
+      )}
+
+      {/* Upload Modal */}
       {showForm && (
         <div className="modal-overlay" onClick={(e) => {
           if (!uploading) {
