@@ -19,7 +19,6 @@ const StudentDashBoard = ({ canUpload = false }) => {
   const [imagePreviews, setImagePreviews] = useState([]);
   const [videoFile, setVideoFile] = useState(null);
   const [videoPreview, setVideoPreview] = useState(null);
-  const [mediaType, setMediaType] = useState('gallery'); // 'gallery', 'video', 'mixed'
   const [museumName, setMuseumName] = useState('');
   const [description, setDescription] = useState('');
 
@@ -143,10 +142,6 @@ const StudentDashBoard = ({ canUpload = false }) => {
     
     const newPreviews = files.map(file => URL.createObjectURL(file));
     setImagePreviews([...imagePreviews, ...newPreviews]);
-    
-    if (images.length + files.length > 0 || videoFile) {
-      setMediaType('mixed');
-    }
   };
 
   const handleVideoChange = (e) => {
@@ -159,10 +154,6 @@ const StudentDashBoard = ({ canUpload = false }) => {
       
       setVideoFile(file);
       setVideoPreview(URL.createObjectURL(file));
-      
-      if (images.length > 0 || file) {
-        setMediaType('mixed');
-      }
     }
   };
 
@@ -174,10 +165,6 @@ const StudentDashBoard = ({ canUpload = false }) => {
     newPreviews.splice(index, 1);
     setImages(newImages);
     setImagePreviews(newPreviews);
-    
-    if (newImages.length === 0 && !videoFile) {
-      setMediaType('gallery');
-    }
   };
 
   const removeVideo = () => {
@@ -186,10 +173,6 @@ const StudentDashBoard = ({ canUpload = false }) => {
     }
     setVideoFile(null);
     setVideoPreview(null);
-    
-    if (images.length === 0) {
-      setMediaType('gallery');
-    }
   };
 
   const handleSubmit = async (e) => {
@@ -214,7 +197,6 @@ const StudentDashBoard = ({ canUpload = false }) => {
       let totalItems = (images.length > 0 ? 1 : 0) + (videoFile ? 1 : 0);
       let completed = 0;
       
-      // Upload images
       if (images.length > 0) {
         for (let i = 0; i < images.length; i++) {
           const compressed = await compressImage(images[i]);
@@ -224,7 +206,6 @@ const StudentDashBoard = ({ canUpload = false }) => {
         }
       }
       
-      // Upload video
       if (videoFile) {
         videoUrl = await uploadVideoToStorage(videoFile);
         completed++;
@@ -235,7 +216,6 @@ const StudentDashBoard = ({ canUpload = false }) => {
         student_name: studentName,
         images: compressedImages.length > 0 ? compressedImages : null,
         video_url: videoUrl,
-        media_type: videoFile ? (compressedImages.length > 0 ? 'mixed' : 'video') : 'gallery',
         museum_name: museumName,
         description: description
       });
@@ -244,7 +224,6 @@ const StudentDashBoard = ({ canUpload = false }) => {
       
       alert('✅ Post shared successfully!');
       
-      // Cleanup
       imagePreviews.forEach(preview => URL.revokeObjectURL(preview));
       if (videoPreview) URL.revokeObjectURL(videoPreview);
       
@@ -293,7 +272,6 @@ const StudentDashBoard = ({ canUpload = false }) => {
         <p>Welcome, {studentName}!</p>
       </div>
 
-      {/* Tasks Section */}
       {tasks.length > 0 && (
         <>
           <h2>📋 Tasks to Complete</h2>
@@ -312,7 +290,6 @@ const StudentDashBoard = ({ canUpload = false }) => {
         </>
       )}
 
-      {/* Upload Button */}
       {canUpload && (
         <div style={{ textAlign: 'center', marginBottom: '2rem' }}>
           <button onClick={() => setShowForm(true)} className="share-btn">
@@ -321,7 +298,6 @@ const StudentDashBoard = ({ canUpload = false }) => {
         </div>
       )}
 
-      {/* Gallery Section */}
       <h2>📷 All Museum Visits ({allSubmissions.length})</h2>
       
       {allSubmissions.length === 0 ? (
@@ -332,12 +308,11 @@ const StudentDashBoard = ({ canUpload = false }) => {
         <div className="submissions-grid">
           {allSubmissions.map(sub => (
             <div key={sub.id} className="submission-card">
-              {/* Show video or first image as cover */}
               {sub.video_url ? (
                 <video 
                   src={sub.video_url} 
                   className="submission-video"
-                  onClick={() => window.open(sub.video_url, '_blank')}
+                  onClick={() => openMediaModal(sub, 0)}
                   style={{ cursor: 'pointer' }}
                   preload="metadata"
                 />
@@ -372,30 +347,43 @@ const StudentDashBoard = ({ canUpload = false }) => {
         </div>
       )}
 
-      {/* Media Modal - For images only */}
-      {showMediaModal && showMediaModal.images && showMediaModal.images.length > 0 && (
+      {/* Media Modal */}
+      {showMediaModal && (
         <div className="image-modal-overlay" onClick={() => setShowMediaModal(null)}>
           <div className="image-modal-content" onClick={e => e.stopPropagation()}>
             <button className="image-modal-close" onClick={() => setShowMediaModal(null)}>✕</button>
             
-            {showMediaModal.images.length > 1 && (
+            {showMediaModal.video_url ? (
+              <video 
+                src={showMediaModal.video_url} 
+                className="image-modal-full"
+                controls
+                autoPlay
+                playsInline
+                preload="metadata"
+              />
+            ) : showMediaModal.images && showMediaModal.images.length > 0 && (
               <>
-                <button className="modal-nav prev" onClick={prevImage}>❮</button>
-                <button className="modal-nav next" onClick={nextImage}>❯</button>
+                {showMediaModal.images.length > 1 && (
+                  <>
+                    <button className="modal-nav prev" onClick={prevImage}>❮</button>
+                    <button className="modal-nav next" onClick={nextImage}>❯</button>
+                  </>
+                )}
+                
+                <img 
+                  src={showMediaModal.images[showImageIndex]} 
+                  alt={`${showMediaModal.museum_name} - ${showImageIndex + 1}`}
+                  className="image-modal-full" 
+                  loading="lazy"
+                />
+                
+                {showMediaModal.images.length > 1 && (
+                  <div className="image-counter">
+                    {showImageIndex + 1} / {showMediaModal.images.length}
+                  </div>
+                )}
               </>
-            )}
-            
-            <img 
-              src={showMediaModal.images[showImageIndex]} 
-              alt={`${showMediaModal.museum_name} - ${showImageIndex + 1}`}
-              className="image-modal-full" 
-              loading="lazy"
-            />
-            
-            {showMediaModal.images.length > 1 && (
-              <div className="image-counter">
-                {showImageIndex + 1} / {showMediaModal.images.length}
-              </div>
             )}
             
             <div className="image-modal-info">
@@ -424,7 +412,6 @@ const StudentDashBoard = ({ canUpload = false }) => {
           <div className="modal-content large" onClick={e => e.stopPropagation()}>
             <h2>📸 Share Your Museum Visit</h2>
             <form onSubmit={handleSubmit}>
-              {/* Images Upload */}
               <div className="form-group">
                 <label>Upload Photos (Max 10 images, up to 5MB each)</label>
                 <input 
@@ -454,14 +441,13 @@ const StudentDashBoard = ({ canUpload = false }) => {
                 )}
               </div>
               
-              {/* Video Upload */}
               <div className="form-group">
                 <label>Or Upload a Video (Max 50MB)</label>
                 <input 
                   type="file" 
                   accept="video/*" 
                   onChange={handleVideoChange}
-                  disabled={uploading || images.length > 0}
+                  disabled={uploading}
                 />
                 {videoPreview && (
                   <div className="video-preview-container">
@@ -476,7 +462,6 @@ const StudentDashBoard = ({ canUpload = false }) => {
                     </button>
                   </div>
                 )}
-                <small>Note: You can either upload images OR a video, not both in one post</small>
               </div>
               
               <div className="form-group">
